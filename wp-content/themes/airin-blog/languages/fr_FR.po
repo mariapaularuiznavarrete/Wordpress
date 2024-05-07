@@ -1,0 +1,5031 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Airin Blog\n"
+"POT-Creation-Date: 2024-04-20 09:59+0700\n"
+"PO-Revision-Date: 2024-04-20 09:59+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:14
+msgid "Unfortunately! This page cannot be found."
+msgstr "Malheureusement! Cette page est introuvable."
+
+#: 404.php:21
+msgid ""
+"Nothing was found at this location. Try one of the links below or use the "
+"search."
+msgstr ""
+"Rien n'a été trouvé à cet endroit. Essayez l'un des liens ci-dessous ou "
+"utilisez la recherche."
+
+#: 404.php:41 template-parts/content-none.php:54
+msgid "Most popular categories"
+msgstr "Catégories populaires"
+
+#: 404.php:62 template-parts/content-none.php:75
+#, php-format
+msgid "Try searching the monthly archives. %1$s"
+msgstr "Essayez de rechercher dans les archives mensuelles. %1$s"
+
+#: archive.php:85 inc/function-customizer.php:7398
+#: template-parts/home/home-article.php:74
+msgid "Show more"
+msgstr "Montre plus"
+
+#: archive.php:97 template-parts/home/home-article.php:86
+#: templates/template-new-posts.php:45
+msgid "Previous posts"
+msgstr "Articles précédents"
+
+#: archive.php:100 template-parts/home/home-article.php:89
+#: templates/template-new-posts.php:46
+msgid "Next posts"
+msgstr "Articles suivant"
+
+#: archive.php:114
+msgid "There are no posts in this category. Perhaps a search will help."
+msgstr ""
+"Il n'y a pas de posts dans cette catégorie. Peut-être qu'une recherche "
+"aidera."
+
+#: comments.php:20
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Une réflexion sur &ldquo;%1$s&rdquo;"
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s réactions sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:39 comments.php:59
+msgid "Old comments"
+msgstr "Anciens commentaires"
+
+#: comments.php:40 comments.php:60
+msgid "Latest comments"
+msgstr "Derniers commentaires"
+
+#: comments.php:72
+msgid "Comments closed"
+msgstr "Commentaires fermés"
+
+#: functions.php:65
+msgid "Account"
+msgstr "Compte"
+
+#: functions.php:69
+msgid "Contact"
+msgstr "Contact"
+
+#: functions.php:73
+msgid "Affiliate program"
+msgstr "Programme d'affiliation"
+
+#: header.php:20
+msgid "Skip to main content"
+msgstr "Passer au contenu principal"
+
+#: inc/adaptation/function-woo.php:702 inc/adaptation/function-woo.php:722
+msgid "View your shopping cart"
+msgstr "Voir votre panier"
+
+#: inc/adaptation/function-woo.php:718
+msgid "Your order"
+msgstr "Votre commande"
+
+#: inc/adaptation/function-woo.php:815
+#: woocommerce/loop/no-products-found.php:25
+msgid "Popular products"
+msgstr "Produits populaires"
+
+#: inc/adaptation/function-woo.php:830
+msgid "Not available"
+msgstr "Non disponible"
+
+#: inc/adaptation/function-woo.php:885 inc/admin/customizer.php:6036
+#: inc/admin/customizer.php:6042
+msgid "Shop"
+msgstr "Boutique"
+
+#: inc/admin/customizer.php:13 inc/admin/customizer.php:29
+#: inc/admin/customizer.php:1755
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/admin/customizer.php:93
+msgid "Template orientation"
+msgstr "Orientation du modèle"
+
+#: inc/admin/customizer.php:105
+msgid "Sidebar orientation on the entire site"
+msgstr "Orientation de la barre latérale sur l'ensemble du site"
+
+#: inc/admin/customizer.php:109 inc/admin/customizer.php:129
+msgid "Right sidebar"
+msgstr "Barre latérale de droite"
+
+#: inc/admin/customizer.php:110 inc/admin/customizer.php:130
+msgid "Left sidebar"
+msgstr "Barre latérale à gauche"
+
+#: inc/admin/customizer.php:111 inc/admin/customizer.php:131
+msgid "No sidebar (full width)"
+msgstr "Aucune barre latérale (Pleine largeur)"
+
+#: inc/admin/customizer.php:112 inc/admin/customizer.php:132
+msgid "No sidebar (center)"
+msgstr "Pas de barre latérale (au centre)"
+
+#: inc/admin/customizer.php:125
+msgid "Sidebar orientation on main page"
+msgstr "Orientation de la barre latérale sur la page principale"
+
+#: inc/admin/customizer.php:154
+msgid "Full width website"
+msgstr "Site Web pleine largeur"
+
+#: inc/admin/customizer.php:162
+msgid "Add margin at the top and bottom of the site (PC version only)"
+msgstr "Ajouter une marge en haut et en bas du site (version PC uniquement)"
+
+#: inc/admin/customizer.php:177
+msgid "Top margin"
+msgstr "Marge supérieure"
+
+#: inc/admin/customizer.php:181 inc/admin/customizer.php:204
+#: inc/admin/customizer.php:573 inc/admin/customizer.php:726
+#: inc/admin/customizer.php:1407 inc/admin/customizer.php:5101
+#: inc/admin/function-panel-xlmega.php:407
+msgid "Off"
+msgstr "Désactivér"
+
+#: inc/admin/customizer.php:200
+msgid "Bottom margin"
+msgstr "Marge inférieure"
+
+#: inc/admin/customizer.php:224 inc/admin/function-panel-color.php:491
+msgid "Color schemes"
+msgstr "Schémas de couleurs"
+
+#: inc/admin/customizer.php:234
+msgid "Common colors"
+msgstr "Couleurs communes"
+
+#: inc/admin/customizer.php:240
+msgid "Website background color"
+msgstr "Couleur de fond du site Web"
+
+#: inc/admin/customizer.php:255
+msgid "Primary theme color"
+msgstr "Couleur du thème principal"
+
+#: inc/admin/customizer.php:256 inc/admin/customizer.php:271
+msgid "(Buttons, icons, lines and other design elements)"
+msgstr "(Boutons, icônes, lignes et autres éléments de conception)"
+
+#: inc/admin/customizer.php:270
+msgid "Related elements for the main theme color"
+msgstr "Éléments associés à la couleur du thème principal"
+
+#: inc/admin/customizer.php:287
+msgid "General color for links"
+msgstr "Couleur générale des liens"
+
+#: inc/admin/customizer.php:302
+msgid "General links color on hover"
+msgstr "Couleur générale des liens au survol"
+
+#: inc/admin/customizer.php:316
+msgid "Site header background color"
+msgstr "Couleur d’arrière-plan de l’en-tête du site"
+
+#: inc/admin/customizer.php:330
+msgid "Site body background color"
+msgstr "Couleur d’arrière-plan du corps du site"
+
+#: inc/admin/customizer.php:344
+msgid "General text color"
+msgstr "Couleur du texte général"
+
+#: inc/admin/customizer.php:358
+msgid "Titles text general color"
+msgstr "Couleur générale du texte des titres"
+
+#: inc/admin/customizer.php:372
+msgid "General typography"
+msgstr "Typographie générale"
+
+#: inc/admin/customizer.php:384
+msgid "General text font"
+msgstr "Police de texte générale"
+
+#: inc/admin/customizer.php:398
+msgid "Overall text size"
+msgstr "Taille globale du texte"
+
+#: inc/admin/customizer.php:399 inc/admin/customizer.php:890
+#: inc/admin/customizer.php:5163
+msgid "5 - 50 px (default 16 px)"
+msgstr "5 à 50 px (par défaut 16 px)"
+
+#: inc/admin/customizer.php:412
+msgid "Total line height of text"
+msgstr "Hauteur totale de ligne du texte"
+
+#: inc/admin/customizer.php:413
+msgid "0.8 - 5 (default 1.5)"
+msgstr "0,8 - 5 (par défaut 1,5)"
+
+#: inc/admin/customizer.php:436
+msgid "General heading font"
+msgstr "Police de titre générale"
+
+#: inc/admin/customizer.php:450
+msgid "Total heading size h1 (5 - 100 px, default 32 px)"
+msgstr "Taille totale du titre h1 (5 - 100 px, par défaut 32 px)"
+
+#: inc/admin/customizer.php:463
+msgid "Total heading size H2 (5 - 100 px, default 26 px)"
+msgstr "Taille totale du titre H2 (5 - 100 px, par défaut 26 px)"
+
+#: inc/admin/customizer.php:476
+msgid "Total heading size H3 (5 - 100 px, default 24 px)"
+msgstr "Taille totale du titre H3 (5 - 100 px, 24 px par défaut)"
+
+#: inc/admin/customizer.php:489
+msgid "Total heading size H4 (5 - 100 px, default 22 px)"
+msgstr "Taille totale du titre H4 (5 - 100 px, 22 px par défaut)"
+
+#: inc/admin/customizer.php:502
+msgid "Total heading size H5 (5 - 100 px, default 20 px)"
+msgstr "Taille totale du titre H5 (5 - 100 px, 20 px par défaut)"
+
+#: inc/admin/customizer.php:515
+msgid "Total heading size H6 (5 - 100 px, default 18 px)"
+msgstr "Taille totale du titre H6 (5 - 100 px, 18 px par défaut)"
+
+#: inc/admin/customizer.php:528
+msgid "Overall header row height (0.8 - 5, default 1.5)"
+msgstr "Hauteur globale de la ligne d'en-tête (0,8 - 5, par défaut 1,5)"
+
+#: inc/admin/customizer.php:541
+msgid "Top part"
+msgstr "La partie supérieure"
+
+#: inc/admin/customizer.php:556
+msgid "Top bar"
+msgstr "Barre du haut"
+
+#: inc/admin/customizer.php:569
+msgid "Display option (Ticker or Date)"
+msgstr "Option d'affichage (Ticker ou Date)"
+
+#: inc/admin/customizer.php:574
+msgid "Ticker"
+msgstr "Téléscripteur"
+
+#: inc/admin/customizer.php:575
+msgid "Date"
+msgstr "Date"
+
+#: inc/admin/customizer.php:587
+msgid "Proportion of width occupied by top menu"
+msgstr "Proportion de largeur occupée par le menu supérieur"
+
+#: inc/admin/customizer.php:610
+msgid "Category where the ticker comes from"
+msgstr "Catégorie d'où vient le ticker"
+
+#: inc/admin/customizer.php:613
+msgid ""
+"Ticker is taken from the title of the last entry in the selected category"
+msgstr ""
+"Le ticker est tiré du titre de la dernière entrée dans la catégorie "
+"sélectionnée"
+
+#: inc/admin/customizer.php:627
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: inc/admin/customizer.php:640
+msgid "Text size"
+msgstr "Taille du texte"
+
+#: inc/admin/customizer.php:641 inc/admin/customizer.php:876
+msgid "5 - 50 px (default 14 px)"
+msgstr "5 à 50 px (par défaut 14 px)"
+
+#: inc/admin/customizer.php:654
+msgid "Uppercase text"
+msgstr "Texte en majuscule"
+
+#: inc/admin/customizer.php:667
+msgid "Where to get the date"
+msgstr "Où obtenir la date"
+
+#: inc/admin/customizer.php:671
+msgid "Set settings here"
+msgstr "Définissez les paramètres ici"
+
+#: inc/admin/customizer.php:672
+msgid "From WordPress settings"
+msgstr "Depuis les paramètres WordPress"
+
+#: inc/admin/customizer.php:684
+msgid "Date format"
+msgstr "Format de date"
+
+#: inc/admin/customizer.php:688
+msgid "Date + Month + Year"
+msgstr "Date + Mois + Année"
+
+#: inc/admin/customizer.php:689
+msgid "Month + Date + Year"
+msgstr "Mois + Date + Année"
+
+#: inc/admin/customizer.php:690
+msgid "Year + Month + Date"
+msgstr "Année + Mois + Date"
+
+#: inc/admin/customizer.php:702
+msgid "Separator between numbers"
+msgstr "Séparateur entre les nombres"
+
+#: inc/admin/customizer.php:706
+msgid "Spaces"
+msgstr "Espaces"
+
+#: inc/admin/customizer.php:707
+msgid "Dash ( - )"
+msgstr "Tiret ( - )"
+
+#: inc/admin/customizer.php:708
+msgid "Dot ( . )"
+msgstr "Point ( . )"
+
+#: inc/admin/customizer.php:709
+msgid "Slash ( / )"
+msgstr "Barre oblique ( / )"
+
+#: inc/admin/customizer.php:710
+msgid "Vertical line ( | )"
+msgstr "Ligne verticale ( | )"
+
+#: inc/admin/customizer.php:722
+msgid "Display weeks"
+msgstr "Afficher les semaines"
+
+#: inc/admin/customizer.php:727
+msgid "Before"
+msgstr "Avant"
+
+#: inc/admin/customizer.php:728
+msgid "After"
+msgstr "Après"
+
+#: inc/admin/customizer.php:740
+msgid "Month in letters"
+msgstr "Mois en lettres"
+
+#: inc/admin/customizer.php:753
+msgid "Display year"
+msgstr "Année d'affichage"
+
+#: inc/admin/customizer.php:774 inc/module/top-menu.php:75
+msgid "Top menu"
+msgstr "Menu du haut"
+
+#: inc/admin/customizer.php:789
+msgid "Remove top menu"
+msgstr "Supprimer le menu supérieur"
+
+#: inc/admin/customizer.php:804
+msgid "Links color (outside)"
+msgstr "Couleur des liens (extérieur)"
+
+#: inc/admin/customizer.php:805 inc/admin/customizer.php:1593
+#: inc/admin/customizer.php:4538 inc/admin/customizer.php:4553
+msgid "Default - general color for links"
+msgstr "Par défaut - couleur générale des liens"
+
+#: inc/admin/customizer.php:819
+msgid "Color of links in dropdown menu"
+msgstr "Couleur des liens dans le menu déroulant"
+
+#: inc/admin/customizer.php:833
+msgid "Color of links in dropdown menu (on hover)"
+msgstr "Couleur des liens dans le menu déroulant (au survol)"
+
+#: inc/admin/customizer.php:847
+msgid "Dropdown menu background color"
+msgstr "Couleur d'arrière-plan du menu déroulant"
+
+#: inc/admin/customizer.php:861
+msgid "Background color for dropdown menu links (on hover)"
+msgstr "Couleur d'arrière-plan des liens du menu déroulant (au survol)"
+
+#: inc/admin/customizer.php:875
+msgid "Top menu text size"
+msgstr "Taille du texte du menu supérieur"
+
+#: inc/admin/customizer.php:889
+msgid "Top menu text size (mobile)"
+msgstr "Taille du texte du menu supérieur (mobile)"
+
+#: inc/admin/customizer.php:904
+msgid "Relieve the menu (replace with lightweight)"
+msgstr "Soulager le menu"
+
+#: inc/admin/customizer.php:905
+msgid ""
+"\n"
+"\t\t\tThis will disable the heavy menu and enable the pure CSS menu.\n"
+"\t\t\tPros: Disables JS scripts, which can be important for speed since the "
+"menu is at the top of the site.\n"
+"\t\t\tCons: Support for keyboard control will be disabled. The arrows "
+"(icons) of the menu control are disabled."
+msgstr ""
+"\n"
+"Cela désactivera le menu lourd et activera le menu CSS pur.\n"
+"Avantages : Désactive les scripts JS, ce qui peut être important pour la "
+"vitesse puisque le menu est en haut du site.\n"
+"Inconvénients : La prise en charge du contrôle par clavier sera désactivée. "
+"Les flèches (icônes) du contrôle de menu sont désactivées."
+
+#: inc/admin/customizer.php:912
+msgid "JS Menu"
+msgstr "JS Menu"
+
+#: inc/admin/customizer.php:913
+msgid "Lightweight menu"
+msgstr "Menu léger"
+
+#: inc/admin/customizer.php:944
+msgid "Move social links in the header over the image"
+msgstr "Déplacez les liens sociaux dans l'en-tête sur l'image"
+
+#: inc/admin/customizer.php:945 inc/admin/customizer.php:1424
+msgid ""
+"(For this to work, you need to activate social links in the \"Social Links\" "
+"section)"
+msgstr ""
+"(Pour que cela fonctionne, vous devez activer les liens sociaux dans la "
+"rubrique \"Liens sociaux\")"
+
+#: inc/admin/customizer.php:960
+msgid "Enable effect (live picture)"
+msgstr "Activer l'effet (image en direct)"
+
+#: inc/admin/customizer.php:974
+msgid "Header image link"
+msgstr "Lien vers l'image d'en-tête"
+
+#: inc/admin/customizer.php:975
+msgid "This works when you click on the image"
+msgstr "Cela fonctionne lorsque vous cliquez sur l'image"
+
+#: inc/admin/customizer.php:1002
+msgid "Fixed size logo"
+msgstr "Logo de taille fixe"
+
+#: inc/admin/customizer.php:1003
+msgid "Site title and description text color"
+msgstr "Couleur du titre et du texte de description du site"
+
+#: inc/admin/customizer.php:1006
+msgid "The selected image will be compressed to the optimal size 150 x 100 px"
+msgstr "L'image sélectionnée sera compressée à la taille optimale 150 x 100 px"
+
+#: inc/admin/customizer.php:1007
+msgid ""
+"(If disabled, the title is hidden only visually. The entered text will "
+"continue to be present for the main page in h1 tags)"
+msgstr ""
+"(S'il est désactivé, le titre est masqué uniquement visuellement. Le texte "
+"saisi continuera à être présent pour la page principale dans les balises h1)"
+
+#: inc/admin/customizer.php:1015
+msgid "Title and logo"
+msgstr "Titre et logo"
+
+#: inc/admin/customizer.php:1030
+msgid "Header area width with logo"
+msgstr "Largeur de la zone d'en-tête avec logo"
+
+#: inc/admin/customizer.php:1031
+#, no-php-format
+msgid "Specify 100% for center the title"
+msgstr "Spécifiez 100 % pour centrer le titre"
+
+#: inc/admin/customizer.php:1055
+msgid "Remove the dividing line"
+msgstr "Supprimer la ligne de démarcation"
+
+#: inc/admin/customizer.php:1078
+msgid "Site title font"
+msgstr "Police de caractères du titre du site"
+
+#: inc/admin/customizer.php:1092
+msgid "Site title size (5 - 100 px, default 32 px)"
+msgstr "Taille du titre du site (5 à 100 px, 32 px par défaut)"
+
+#: inc/admin/customizer.php:1105
+msgid "Site title row height (0.8 - 5, default 1.5)"
+msgstr "Hauteur de la ligne du titre du site (0,8 - 5, par défaut 1,5)"
+
+#: inc/admin/customizer.php:1128
+msgid "Site description font"
+msgstr "Police de description dans le site"
+
+#: inc/admin/customizer.php:1142
+msgid "Site description size (5 - 50 px, default 16 px)"
+msgstr "Taille de la description du site (5 à 50 px, 16 px par défaut)"
+
+#: inc/admin/customizer.php:1155
+msgid "Site description row height (0.8 - 5, default 1)"
+msgstr "Hauteur de ligne de description du site (0,8 - 5, par défaut 1)"
+
+#: inc/admin/customizer.php:1178
+msgid "Orientation of the logo and site name"
+msgstr "Orientation du logo et nom du site"
+
+#: inc/admin/customizer.php:1182
+msgid "Horizontally"
+msgstr "Horizontalement"
+
+#: inc/admin/customizer.php:1183
+msgid "Vertical"
+msgstr "Vertical"
+
+#: inc/admin/customizer.php:1196
+msgid "Logo variation"
+msgstr "Variation du logo"
+
+#: inc/admin/customizer.php:1200
+msgid "Size fixed"
+msgstr "Taille fixe"
+
+#: inc/admin/customizer.php:1201
+msgid "No limits"
+msgstr "Pas de limites"
+
+#: inc/admin/customizer.php:1213
+msgid "Logo without limits"
+msgstr "Logo sans limites"
+
+#: inc/admin/customizer.php:1231 inc/admin/function-panel-soc.php:51
+msgid "Social links"
+msgstr "Liens sociaux"
+
+#: inc/admin/customizer.php:1245
+msgid "Activate social links"
+msgstr "Activer les liens sociaux"
+
+#: inc/admin/customizer.php:1259
+msgid "Social link size"
+msgstr "Lien vers un réseau social"
+
+#: inc/admin/customizer.php:1263 inc/admin/customizer.php:1442
+#: inc/admin/customizer.php:1518 inc/admin/customizer.php:2162
+#: inc/admin/customizer.php:2352 inc/admin/customizer.php:2685
+#: inc/admin/customizer.php:4137 inc/admin/customizer.php:4650
+#: inc/admin/customizer.php:4876 inc/admin/customizer.php:5102
+#: inc/admin/customizer.php:5780 inc/admin/function-panel-home.php:144
+#: inc/admin/function-panel-home.php:157
+#: inc/admin/function-panel-xlmega.php:207
+msgid "Small"
+msgstr "Petit"
+
+#: inc/admin/customizer.php:1264 inc/admin/customizer.php:1443
+#: inc/admin/customizer.php:2353 inc/admin/customizer.php:4138
+#: inc/admin/customizer.php:4651 inc/admin/customizer.php:5103
+#: inc/admin/customizer.php:5781 inc/admin/function-panel-home.php:145
+#: inc/admin/function-panel-home.php:158
+#: inc/admin/function-panel-xlmega.php:208
+msgid "Average"
+msgstr "Moyen"
+
+#: inc/admin/customizer.php:1265 inc/admin/customizer.php:1444
+#: inc/admin/customizer.php:1520 inc/admin/customizer.php:2163
+#: inc/admin/customizer.php:2354 inc/admin/customizer.php:2686
+#: inc/admin/customizer.php:4139 inc/admin/customizer.php:4652
+#: inc/admin/customizer.php:4875 inc/admin/customizer.php:5104
+#: inc/admin/customizer.php:5782 inc/admin/function-panel-home.php:146
+#: inc/admin/function-panel-home.php:159
+#: inc/admin/function-panel-xlmega.php:209
+msgid "Big"
+msgstr "Grand"
+
+#: inc/admin/customizer.php:1271 inc/admin/customizer.php:4894
+#: inc/admin/customizer.php:5287
+msgid "Square"
+msgstr "Carré"
+
+#: inc/admin/customizer.php:1272 inc/admin/customizer.php:4893
+msgid "Circle"
+msgstr "Cercle"
+
+#: inc/admin/customizer.php:1273
+msgid "Without background"
+msgstr "Sans arrière-plan"
+
+#: inc/admin/customizer.php:1286
+msgid "Social link form"
+msgstr "Formulaire de lien social"
+
+#: inc/admin/customizer.php:1294
+msgid "Flat"
+msgstr "Plat"
+
+#: inc/admin/customizer.php:1295
+msgid "Volumetric"
+msgstr "Volumétrique"
+
+#: inc/admin/customizer.php:1308
+msgid "Social link design (for icons with background)"
+msgstr "Conception de liens sociaux (pour les icônes avec arrière-plan)"
+
+#: inc/admin/customizer.php:1316
+msgid "Black"
+msgstr "Noir"
+
+#: inc/admin/customizer.php:1317
+msgid "White"
+msgstr "Blanc"
+
+#: inc/admin/customizer.php:1330
+msgid "Social link design (for icons no background)"
+msgstr "Conception de liens sociaux (pour les icônes sans arrière-plan)"
+
+#: inc/admin/customizer.php:1345
+msgid "Animation of social links"
+msgstr "Animation des liens sociaux"
+
+#: inc/admin/customizer.php:1349 inc/admin/customizer.php:1778
+msgid "Without animation"
+msgstr "Sans animation"
+
+#: inc/admin/customizer.php:1350
+msgid "Increase"
+msgstr "Augmenter"
+
+#: inc/admin/customizer.php:1351
+msgid "Zoom (with background)"
+msgstr "Zoom (avec arrière-plan)"
+
+#: inc/admin/customizer.php:1352
+msgid "Reduction"
+msgstr "Réduction"
+
+#: inc/admin/customizer.php:1353
+msgid "Zoom out (with background)"
+msgstr "Zoom arrière (avec arrière-plan)"
+
+#: inc/admin/customizer.php:1354
+msgid "Frame around the link"
+msgstr "Cadre autour du lien"
+
+#: inc/admin/customizer.php:1355
+msgid "Increasing contrast"
+msgstr "Contraste croissant"
+
+#: inc/admin/customizer.php:1356
+msgid "Hue change"
+msgstr "Hue change"
+
+#: inc/admin/customizer.php:1357
+msgid "Color inversion"
+msgstr "Inversion des couleurs"
+
+#: inc/admin/customizer.php:1358
+msgid "Dimming adjacent links"
+msgstr "Réduire la lumière pour les liens adjacents"
+
+#: inc/admin/customizer.php:1359
+msgid "Slight slope"
+msgstr "Légère pente"
+
+#: inc/admin/customizer.php:1372
+msgid "Social links fill color"
+msgstr "Les liens sociaux remplissent la couleur"
+
+#: inc/admin/customizer.php:1373 inc/admin/customizer.php:2890
+#: inc/admin/customizer.php:2904 inc/admin/customizer.php:3137
+#: inc/admin/customizer.php:3331 inc/admin/customizer.php:3531
+#: inc/admin/customizer.php:5467
+msgid "Default - main theme color"
+msgstr "Par défaut - couleur du thème principal"
+
+#: inc/admin/customizer.php:1390
+msgid "Top search"
+msgstr "Recherche supérieure"
+
+#: inc/admin/customizer.php:1403
+msgid "Activate top Search"
+msgstr "Activer la recherche supérieure"
+
+#: inc/admin/customizer.php:1408
+msgid "In a top bar"
+msgstr "Dans un bar haut"
+
+#: inc/admin/customizer.php:1409
+msgid "In area of soc links (before)"
+msgstr "Dans le domaine des liens sociaux (avant)"
+
+#: inc/admin/customizer.php:1410
+msgid "In area of soc links (after)"
+msgstr "Dans le domaine des liens sociaux (après)"
+
+#: inc/admin/customizer.php:1423
+msgid "Use social icon styles"
+msgstr "Utiliser des styles d'icônes sociales"
+
+#: inc/admin/customizer.php:1437
+msgid "Search button size"
+msgstr "Taille du bouton de recherche"
+
+#: inc/admin/customizer.php:1441 inc/admin/customizer.php:4136
+#: inc/admin/function-panel-home.php:143 inc/admin/function-panel-home.php:156
+#: inc/admin/function-panel-xlmega.php:206
+msgid "Very small"
+msgstr "Très petit"
+
+#: inc/admin/customizer.php:1445 inc/admin/customizer.php:4140
+#: inc/admin/function-panel-home.php:147 inc/admin/function-panel-home.php:160
+#: inc/admin/function-panel-xlmega.php:210
+msgid "Very big"
+msgstr "Très grand"
+
+#: inc/admin/customizer.php:1465
+msgid "Main menu"
+msgstr "Menu principal"
+
+#: inc/admin/customizer.php:1480
+msgid "Remove main menu"
+msgstr "Supprimer le menu principal"
+
+#: inc/admin/customizer.php:1494
+msgid "Orientation for main menu items"
+msgstr "Orientation des éléments du menu principal"
+
+#: inc/admin/customizer.php:1498 inc/admin/customizer.php:2332
+#: inc/admin/customizer.php:3047 inc/admin/customizer.php:4671
+#: inc/admin/customizer.php:4858
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/admin/customizer.php:1499 inc/admin/customizer.php:2333
+#: inc/admin/customizer.php:4672 inc/admin/customizer.php:4857
+msgid "Right"
+msgstr "À droite"
+
+#: inc/admin/customizer.php:1500 inc/admin/customizer.php:2334
+msgid "Center"
+msgstr "Centre"
+
+#: inc/admin/customizer.php:1501
+msgid "Distributed"
+msgstr "Distribué"
+
+#: inc/admin/customizer.php:1514
+msgid "Height of main menu items"
+msgstr "Hauteur des éléments du menu principal"
+
+#: inc/admin/customizer.php:1519
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/admin/customizer.php:1534
+msgid "Background color main menu, footer and widget titles"
+msgstr ""
+"Couleur d'arrière-plan des titres du menu principal, du pied de page et des "
+"widgets"
+
+#: inc/admin/customizer.php:1550
+msgid "Text color main menu and footer"
+msgstr "Couleur du texte menu principal et pied de page"
+
+#: inc/admin/customizer.php:1564
+msgid "Main menu color (on hover)"
+msgstr "Couleur du menu principal (au survol)"
+
+#: inc/admin/customizer.php:1578
+msgid "Main menu background color (submenu)"
+msgstr "Couleur d’arrière-plan du menu principal (sous-menu)"
+
+#: inc/admin/customizer.php:1592
+msgid "Main menu link color (submenu)"
+msgstr "Couleur du lien du menu principal (sous-menu)"
+
+#: inc/admin/customizer.php:1608
+msgid "Main menu item font"
+msgstr "Police des éléments du menu principal"
+
+#: inc/admin/customizer.php:1621
+msgid "Main menu items text size"
+msgstr "Taille du texte des éléments du menu principal"
+
+#: inc/admin/customizer.php:1622 inc/admin/customizer.php:4583
+msgid "5 - 50 px (default 15 px)"
+msgstr "5 à 50 px (par défaut 15 px)"
+
+#: inc/admin/customizer.php:1636
+msgid "Main menu items titles in uppercase"
+msgstr "Titres des éléments du menu principal en majuscules"
+
+#: inc/admin/customizer.php:1650
+msgid "Main menu background in full screen width"
+msgstr "Arrière-plan du menu principal en pleine largeur d'écran"
+
+#: inc/admin/customizer.php:1664
+msgid "Make main menu sticky when scrolling (only for desktop versions of pc)"
+msgstr ""
+"Rendre le menu principal collant lors du défilement (uniquement pour les "
+"versions de bureau du PC)"
+
+#: inc/admin/customizer.php:1678
+msgid "Number of columns in mega menu"
+msgstr "Nombre de colonnes dans le méga menu"
+
+#: inc/admin/customizer.php:1682
+msgid "One"
+msgstr "Un"
+
+#: inc/admin/customizer.php:1683
+msgid "Two"
+msgstr "Deux"
+
+#: inc/admin/customizer.php:1684
+msgid "Three"
+msgstr "Trois"
+
+#: inc/admin/customizer.php:1685
+msgid "Four"
+msgstr "Quatre"
+
+#: inc/admin/customizer.php:1686
+msgid "Five"
+msgstr "Cinq"
+
+#: inc/admin/customizer.php:1687
+msgid "Six"
+msgstr "Six"
+
+#: inc/admin/customizer.php:1699
+msgid "Categories settings"
+msgstr "Paramètres des catégories"
+
+#: inc/admin/customizer.php:1701 inc/admin/customizer.php:3989
+#: inc/general.php:352 templates/template-site-map.php:27
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/admin/customizer.php:1716
+msgid "Category style"
+msgstr "Style de catégorie"
+
+#: inc/admin/customizer.php:1729
+msgid "Number (size) of columns in categories"
+msgstr "Nombre (taille) de colonnes dans les catégories"
+
+#: inc/admin/customizer.php:1733
+msgid "Classic blog"
+msgstr "Blogue classique"
+
+#: inc/admin/customizer.php:1734
+msgid "Two columns"
+msgstr "Deux colonnes"
+
+#: inc/admin/customizer.php:1735 inc/admin/customizer.php:3957
+msgid "Three columns"
+msgstr "Trois colonnes"
+
+#: inc/admin/customizer.php:1736 inc/admin/customizer.php:3958
+msgid "Four columns"
+msgstr "Quatre colonnes"
+
+#: inc/admin/customizer.php:1737 inc/admin/customizer.php:3959
+msgid "Five columns"
+msgstr "Cinq colonnes"
+
+#: inc/admin/customizer.php:1750
+msgid "Design for posts blocks in categories"
+msgstr "Conception de blocs de publication en catégories"
+
+#: inc/admin/customizer.php:1754 inc/admin/customizer.php:2140
+#: inc/admin/customizer.php:2663
+msgid "Simple"
+msgstr "Simple"
+
+#: inc/admin/customizer.php:1756 inc/admin/customizer.php:2142
+#: inc/admin/customizer.php:2665
+msgid "Underlined"
+msgstr "Souligné"
+
+#: inc/admin/customizer.php:1757 inc/admin/customizer.php:3732
+msgid "In frame"
+msgstr "Dans le cadre"
+
+#: inc/admin/customizer.php:1758
+msgid "Header background"
+msgstr "Arrière-plan du Header"
+
+#: inc/admin/customizer.php:1759 inc/admin/customizer.php:2144
+#: inc/admin/customizer.php:2667 inc/admin/customizer.php:3729
+#: inc/admin/customizer.php:5064
+msgid "Deepening"
+msgstr "Approfondissement"
+
+#: inc/admin/customizer.php:1760
+msgid "Light shadow"
+msgstr "Ombre légère"
+
+#: inc/admin/customizer.php:1761 inc/admin/customizer.php:2143
+#: inc/admin/customizer.php:2666 inc/admin/customizer.php:3728
+#: inc/admin/customizer.php:5063
+msgid "Soaring"
+msgstr "Envolée"
+
+#: inc/admin/customizer.php:1774
+msgid "Animation for posts blocks in categories (on hover)"
+msgstr ""
+"Animation pour les blocs de publications dans les catégories (en survol)"
+
+#: inc/admin/customizer.php:1779
+msgid "Enlargement picture"
+msgstr "Photo d'agrandissement"
+
+#: inc/admin/customizer.php:1780
+msgid "Reducing picture"
+msgstr "Réduire l'image"
+
+#: inc/admin/customizer.php:1781
+msgid "Darkened image"
+msgstr "Image assombrie"
+
+#: inc/admin/customizer.php:1782
+msgid "Curtain on picture"
+msgstr "Rideau sur photo"
+
+#: inc/admin/customizer.php:1783
+msgid "Picture frame"
+msgstr "Cadre de l'image"
+
+#: inc/admin/customizer.php:1784
+msgid "Frame around"
+msgstr "Cadre autour"
+
+#: inc/admin/customizer.php:1785
+msgid "Backlight picture"
+msgstr "Image rétroéclairée"
+
+#: inc/admin/customizer.php:1786
+msgid "Picture contrast"
+msgstr "Contraste de l'image"
+
+#: inc/admin/customizer.php:1787
+msgid "Tint picture"
+msgstr "Image teintée"
+
+#: inc/admin/customizer.php:1788
+msgid "Color inversion picture"
+msgstr "Image d'inversion des couleurs"
+
+#: inc/admin/customizer.php:1789
+msgid "Remove color in neighboring blocks"
+msgstr "Supprimer la couleur des blocs voisins"
+
+#: inc/admin/customizer.php:1790
+msgid "Toning neighboring blocks"
+msgstr "Tonifier les blocs voisins"
+
+#: inc/admin/customizer.php:1791
+msgid "Block slope"
+msgstr "Bloc de pente"
+
+#: inc/admin/customizer.php:1804
+msgid "Background color for posts blocks in categories"
+msgstr ""
+"Couleur d'arrière-plan pour les blocs de publications dans les catégories"
+
+#: inc/admin/customizer.php:1818
+msgid "Background color of sticky posts"
+msgstr "Couleur d’arrière-plan des posts collants"
+
+#: inc/admin/customizer.php:1831
+msgid "Post card title size (5 - 50 px)"
+msgstr "Taille du titre de la carte postale (5 - 50 px)"
+
+#: inc/admin/customizer.php:1844
+msgid "Post card description size (5 - 30 px)"
+msgstr "Taille de la description de la carte postale (5 - 30 px)"
+
+#: inc/admin/customizer.php:1857
+msgid "Number of symbols in description"
+msgstr "Nombre de symboles dans la description"
+
+#: inc/admin/customizer.php:1858
+msgid "50 - 1000 (default 150 symbols)"
+msgstr "50 - 1 000 (150 symboles par défaut)"
+
+#: inc/admin/customizer.php:1881
+msgid "Add a \"Read more\" button"
+msgstr "Ajouter un bouton \"Lire la suite\""
+
+#: inc/admin/customizer.php:1895
+msgid "Full width \"Read more\" button"
+msgstr "Bouton \"Lire la suite\" pleine largeur"
+
+#: inc/admin/customizer.php:1909
+msgid "Show \"Read more\" button in the center"
+msgstr "Afficher le bouton \"Lire la suite\" au centre"
+
+#: inc/admin/customizer.php:1932
+msgid "Remove the prefix \"Category\" on category pages"
+msgstr "Supprimer le préfixe \"Category\" sur les pages de catégories"
+
+#: inc/admin/customizer.php:1946
+msgid "Remove description from posts blocks in categories"
+msgstr "Supprimer la description des blocs de publications dans les catégories"
+
+#: inc/admin/customizer.php:1960
+msgid "Remove title from posts blocks in categories"
+msgstr "Supprimer le titre des blocs de publications dans les catégories"
+
+#: inc/admin/customizer.php:1974
+msgid "Remove the stub \"No photo\" from posts blocks in categories"
+msgstr ""
+"Supprimez le stub \"Pas de photo\" des blocs de publications dans les "
+"catégories"
+
+#: inc/admin/customizer.php:1992
+msgid "Meta tags in categories"
+msgstr "Balises méta dans les catégories"
+
+#: inc/admin/customizer.php:2005
+msgid "Activate - Meta tags in categories"
+msgstr "Activer - Balises méta dans les catégories"
+
+#: inc/admin/customizer.php:2012 inc/admin/customizer.php:2521
+msgid "What meta tags to display"
+msgstr "Quelles balises méta afficher"
+
+#: inc/admin/customizer.php:2028 inc/admin/customizer.php:2537
+#: inc/module/meta-tags.php:22 inc/module/meta-tags.php:235
+msgid "Post author"
+msgstr "Auteur de l'article"
+
+#: inc/admin/customizer.php:2042 inc/admin/customizer.php:2551
+#: inc/module/meta-tags.php:93 inc/module/meta-tags.php:260
+msgid "Post creation date"
+msgstr "Date de création du message"
+
+#: inc/admin/customizer.php:2056 inc/admin/customizer.php:2565
+#: inc/module/meta-tags.php:130 inc/module/meta-tags.php:297
+msgid "Post update date"
+msgstr "Date de mise à jour"
+
+#: inc/admin/customizer.php:2070 inc/admin/customizer.php:2579
+msgid "Number of comments"
+msgstr "Nombre de commentaires"
+
+#: inc/admin/customizer.php:2084 inc/admin/customizer.php:2607
+#: inc/module/meta-tags.php:71 inc/module/meta-tags.php:380
+msgid "Number of post views"
+msgstr "Nombre de vues"
+
+#: inc/admin/customizer.php:2091 inc/admin/customizer.php:2614
+msgid "Which taxonomy to display"
+msgstr "Quelle taxonomie afficher"
+
+#: inc/admin/customizer.php:2107 inc/admin/customizer.php:2630
+msgid "Post categories"
+msgstr "Catégories de messages"
+
+#: inc/admin/customizer.php:2121 inc/admin/customizer.php:2644
+msgid "Post tags"
+msgstr "Balises de publication"
+
+#: inc/admin/customizer.php:2136 inc/admin/customizer.php:2659
+msgid "Meta tag design"
+msgstr "Conception de balises méta"
+
+#: inc/admin/customizer.php:2141 inc/admin/customizer.php:5062
+msgid "Frame"
+msgstr "Cadre"
+
+#: inc/admin/customizer.php:2145 inc/admin/customizer.php:2668
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/admin/customizer.php:2158 inc/admin/customizer.php:2681
+msgid "Meta tag size"
+msgstr "Taille de la balise méta"
+
+#: inc/admin/customizer.php:2176 inc/admin/customizer.php:2699
+msgid "Align meta blocks to the center"
+msgstr "Alignez les méta-blocs au centre"
+
+#: inc/admin/customizer.php:2190
+msgid "Add tooltips to meta blocks in categories"
+msgstr "Ajouter des info-bulles aux méta-blocs dans les catégories"
+
+#: inc/admin/customizer.php:2204
+msgid "Add decryption of meta tags to meta blocks"
+msgstr "Ajouter le décryptage des balises méta aux blocs méta"
+
+#: inc/admin/customizer.php:2218
+msgid "Add decryption of meta tags in taxonomy"
+msgstr "Ajouter le décryptage des balises méta dans la taxonomie"
+
+#: inc/admin/customizer.php:2232 inc/admin/customizer.php:2755
+msgid "Remove meta tag icons"
+msgstr "Supprimer les icônes de balises méta"
+
+#: inc/admin/customizer.php:2249
+msgid "Pagination"
+msgstr "Pagination"
+
+#: inc/admin/customizer.php:2262
+msgid "Activate pagination in categories"
+msgstr "Activer la pagination dans les catégories"
+
+#: inc/admin/customizer.php:2276
+msgid "Activate pagination on the homepage"
+msgstr "Activer la pagination sur la page d'accueil"
+
+#: inc/admin/customizer.php:2290
+msgid "Pagination variation"
+msgstr "Variation de pagination"
+
+#: inc/admin/customizer.php:2294
+msgid "Defoult (Back and forward)"
+msgstr "Par défaut (précédent et suivant)"
+
+#: inc/admin/customizer.php:2295
+msgid "Numeric pagination"
+msgstr "Pagination numérique"
+
+#: inc/admin/customizer.php:2296
+msgid "Button (Show more)"
+msgstr "Bouton (Afficher plus)"
+
+#: inc/admin/customizer.php:2309
+msgid "Pagination block design"
+msgstr "Conception du bloc de pagination"
+
+#: inc/admin/customizer.php:2313 inc/admin/customizer.php:2829
+#: inc/admin/customizer.php:2860 inc/admin/customizer.php:2952
+#: inc/admin/customizer.php:3243 inc/admin/customizer.php:3444
+#: inc/admin/customizer.php:5244 inc/admin/customizer.php:5265
+#: inc/admin/customizer.php:5285
+msgid "Turn off styles"
+msgstr "Désactiver les styles"
+
+#: inc/admin/customizer.php:2314
+msgid "Buttons"
+msgstr "Boutons"
+
+#: inc/admin/customizer.php:2315 inc/admin/customizer.php:2664
+#: inc/admin/customizer.php:4008
+msgid "Frames"
+msgstr "Cadres"
+
+#: inc/admin/customizer.php:2328
+msgid "Location of the pagination block"
+msgstr "Emplacement du bloc de pagination"
+
+#: inc/admin/customizer.php:2335 inc/admin/customizer.php:5212
+msgid "Full width"
+msgstr "Pleine largeur"
+
+#: inc/admin/customizer.php:2348
+msgid "Pagination block size"
+msgstr "Taille du bloc de pagination"
+
+#: inc/admin/customizer.php:2367
+msgid "Remove buttons (back and next) from numeric pagination"
+msgstr ""
+"Supprimer les boutons (précédent et suivant) de la pagination numérique"
+
+#: inc/admin/customizer.php:2381
+msgid "Show all pagination items (for numeric)"
+msgstr "Afficher tous les éléments de pagination (pour les numériques)"
+
+#: inc/admin/customizer.php:2395
+msgid "Remove hidden H2 tag from pagination"
+msgstr "Supprimer la balise H2 masquée de la pagination"
+
+#: inc/admin/customizer.php:2396
+msgid ""
+"Removing H2 tag from pagination is good for SEO, but worse for special "
+"programs (for the visually impaired)"
+msgstr ""
+"Supprimer la balise H2 de la pagination est bon pour le référencement, mais "
+"pire pour les programmes spéciaux (pour les malvoyants)"
+
+#: inc/admin/customizer.php:2407 inc/admin/customizer.php:2443
+msgid "Posts and pages"
+msgstr "Articles et pages"
+
+#: inc/admin/customizer.php:2423
+msgid "Basic settings"
+msgstr "Paramètres de base"
+
+#: inc/admin/customizer.php:2436
+msgid "Where to display typography"
+msgstr "Où afficher la typographie"
+
+#: inc/admin/customizer.php:2437
+msgid "Lists, block quotes, headings"
+msgstr "Listes, guillemets, titres"
+
+#: inc/admin/customizer.php:2441
+msgid "Only posts"
+msgstr "Uniquement les publications"
+
+#: inc/admin/customizer.php:2442
+msgid "Only pages"
+msgstr "Pages uniquement"
+
+#: inc/admin/customizer.php:2458
+msgid "Top image"
+msgstr "Image du haut"
+
+#: inc/admin/customizer.php:2471
+msgid "Remove the main (top) image in posts"
+msgstr "Supprimer l'image principale (en haut) dans les messages"
+
+#: inc/admin/customizer.php:2485
+msgid "Remove the main (top) image in pages"
+msgstr "Supprimer l'image principale (en haut) dans les pages"
+
+#: inc/admin/customizer.php:2501
+msgid "Meta tags in posts"
+msgstr "Balises méta dans les publications"
+
+#: inc/admin/customizer.php:2514
+msgid "Activate meta tags in posts"
+msgstr "Activer les balises méta dans les publications"
+
+#: inc/admin/customizer.php:2593 inc/module/meta-tags.php:358
+msgid "Post reading time"
+msgstr "Temps de lecture"
+
+#: inc/admin/customizer.php:2713
+msgid "Add tooltips to meta blocks in posts"
+msgstr "Ajouter des info-bulles aux méta-blocs dans les publications"
+
+#: inc/admin/customizer.php:2727
+msgid "Remove decryption in meta blocks"
+msgstr "Supprimer le décryptage dans les métablocs"
+
+#: inc/admin/customizer.php:2741
+msgid "Remove decryption in taxonomies"
+msgstr "Supprimer le décryptage dans les taxonomies"
+
+#: inc/admin/customizer.php:2769
+msgid "Where to display meta tags for categories"
+msgstr "Où afficher les balises méta pour les catégories"
+
+#: inc/admin/customizer.php:2773 inc/admin/customizer.php:2791
+#: inc/admin/customizer.php:4669
+msgid "Top"
+msgstr "Haut"
+
+#: inc/admin/customizer.php:2774 inc/admin/customizer.php:2792
+#: inc/admin/customizer.php:4670
+msgid "Bottom"
+msgstr "Bas"
+
+#: inc/admin/customizer.php:2787
+msgid "Where to display meta tags for tags"
+msgstr "Où afficher les balises méta pour les balises"
+
+#: inc/admin/customizer.php:2812
+msgid "Lists"
+msgstr "Listes"
+
+#: inc/admin/customizer.php:2825
+msgid "Bulleted lists variation"
+msgstr "Variation des listes à puces"
+
+#: inc/admin/customizer.php:2830
+msgid "Small square"
+msgstr "Petit carrée"
+
+#: inc/admin/customizer.php:2831
+msgid "Small circle"
+msgstr "Cercle réduit"
+
+#: inc/admin/customizer.php:2832 inc/admin/customizer.php:2862
+msgid "Square frame"
+msgstr "Cadre carré"
+
+#: inc/admin/customizer.php:2833
+msgid "Small dash"
+msgstr "Petit tiret"
+
+#: inc/admin/customizer.php:2834
+msgid "Big dot"
+msgstr "Gros point"
+
+#: inc/admin/customizer.php:2835
+msgid "Big square"
+msgstr "Grand carrés"
+
+#: inc/admin/customizer.php:2836
+msgid "Big circle"
+msgstr "Grand cercle"
+
+#: inc/admin/customizer.php:2837
+msgid "Rounded square frame"
+msgstr "Cadre carré arrondi"
+
+#: inc/admin/customizer.php:2838
+msgid "Big dash"
+msgstr "Grand élan"
+
+#: inc/admin/customizer.php:2839 inc/admin/customizer.php:3272
+#: inc/admin/customizer.php:3473
+msgid "Check mark"
+msgstr "Coche"
+
+#: inc/admin/customizer.php:2840
+msgid "Rhombus"
+msgstr "Rhombe"
+
+#: inc/admin/customizer.php:2841 inc/admin/customizer.php:4602
+#: inc/admin/customizer.php:4913
+msgid "Triangle"
+msgstr "Triangle"
+
+#: inc/admin/customizer.php:2842
+msgid "Star"
+msgstr "Étoile"
+
+#: inc/admin/customizer.php:2843
+msgid "Snowflake"
+msgstr "Flocon de neige"
+
+#: inc/admin/customizer.php:2856
+msgid "Numeric lists variation"
+msgstr "Variation des listes numériques"
+
+#: inc/admin/customizer.php:2861
+msgid "Colored square"
+msgstr "Carré coloré"
+
+#: inc/admin/customizer.php:2863
+msgid "Colored circle"
+msgstr "Cercle coloré"
+
+#: inc/admin/customizer.php:2864
+msgid "Round frame"
+msgstr "Cadre rond"
+
+#: inc/admin/customizer.php:2865
+msgid "Colored numbers"
+msgstr "Chiffres colorés"
+
+#: inc/admin/customizer.php:2866
+msgid "Colored numbers (bold)"
+msgstr "Chiffres colorés (gras)"
+
+#: inc/admin/customizer.php:2867
+msgid "Latin numerals"
+msgstr "Chiffres latins"
+
+#: inc/admin/customizer.php:2868
+msgid "Colored letters (EN)"
+msgstr "Lettres colorées (EN)"
+
+#: inc/admin/customizer.php:2889
+msgid "Marker color - bulleted lists"
+msgstr "Couleur du marqueur - listes à puces"
+
+#: inc/admin/customizer.php:2903
+msgid "Marker color - numbered lists"
+msgstr "Couleur du marqueur - listes numérotées"
+
+#: inc/admin/customizer.php:2917
+msgid "Inner color for marker - numbered lists"
+msgstr "Couleur intérieure du marqueur - listes numérotées"
+
+#: inc/admin/customizer.php:2918 inc/admin/customizer.php:3095
+#: inc/admin/customizer.php:3317 inc/admin/customizer.php:3517
+msgid "Default - related elements for main theme color"
+msgstr "Par défaut - éléments liés à la couleur du thème principal"
+
+#: inc/admin/customizer.php:2935
+msgid "Quote blocks"
+msgstr "Blocs de devis"
+
+#: inc/admin/customizer.php:2948
+msgid "Design for quote block"
+msgstr "Conception du bloc de devis"
+
+#: inc/admin/customizer.php:2953
+msgid "Just a block"
+msgstr "Juste un bloc"
+
+#: inc/admin/customizer.php:2954
+msgid "Gradient 1 (fill)"
+msgstr "Dégradé 1 (remplissage)"
+
+#: inc/admin/customizer.php:2955
+msgid "Gradient 2 (fill)"
+msgstr "Dégradé 2 (remplissage)"
+
+#: inc/admin/customizer.php:2956
+msgid "Grid (fill)"
+msgstr "Grille (remplir)"
+
+#: inc/admin/customizer.php:2957
+msgid "Folded corner"
+msgstr "Coin plié"
+
+#: inc/admin/customizer.php:2958
+msgid "Solid frame"
+msgstr "Cadre solide"
+
+#: inc/admin/customizer.php:2959
+msgid "Dotted frame"
+msgstr "Cadre en pointillés"
+
+#: inc/admin/customizer.php:2960 inc/admin/customizer.php:5213
+msgid "Border left"
+msgstr "Bordure de gauche"
+
+#: inc/admin/customizer.php:2961
+msgid "Double border"
+msgstr "Double bordure"
+
+#: inc/admin/customizer.php:2974
+msgid "Background color for quote block"
+msgstr "Couleur d’arrière-plan du bloc de citation"
+
+#: inc/admin/customizer.php:2975
+msgid "Some styles work well with the background"
+msgstr "Certains styles fonctionnent bien avec l'arrière-plan"
+
+#: inc/admin/customizer.php:2989
+msgid "Activate - Automatic background color for block quotes"
+msgstr "Activer - Couleur d'arrière-plan automatique"
+
+#: inc/admin/customizer.php:2990
+msgid "(The color is selected based on the background of the content part)"
+msgstr ""
+"(La couleur est sélectionnée en fonction de l'arrière-plan de la partie "
+"contenu)"
+
+#: inc/admin/customizer.php:3003
+msgid "Text color for quote block"
+msgstr "Couleur du texte pour le bloc de citation"
+
+#: inc/admin/customizer.php:3004 inc/admin/customizer.php:4568
+msgid "Default - general text color"
+msgstr "Par défaut : couleur générale du texte"
+
+#: inc/admin/customizer.php:3028
+msgid "Add icon to quote block"
+msgstr "Ajouter une icône au bloc de citation"
+
+#: inc/admin/customizer.php:3042
+msgid "Choosing the location of the icon in the quote block"
+msgstr "Choisir l'emplacement de l'icône dans le bloc de citation"
+
+#: inc/admin/customizer.php:3043
+msgid "Together with the icon, the text is also aligned"
+msgstr "Avec l'icône, le texte est également aligné"
+
+#: inc/admin/customizer.php:3048
+msgid "Centered"
+msgstr "Centré"
+
+#: inc/admin/customizer.php:3061
+msgid "Selecting an icon for the quote block"
+msgstr "Sélection d'une icône pour le bloc de citation"
+
+#: inc/admin/customizer.php:3065
+msgid "Square quotes"
+msgstr "Citations carrées"
+
+#: inc/admin/customizer.php:3066
+msgid "Rectangular quotes"
+msgstr "Citations rectangulaires"
+
+#: inc/admin/customizer.php:3067
+msgid "Sharp quotes"
+msgstr "Citations pointues"
+
+#: inc/admin/customizer.php:3068
+msgid "Round quotes"
+msgstr "Citations rondes"
+
+#: inc/admin/customizer.php:3069
+msgid "Paper clip"
+msgstr "Clip papier"
+
+#: inc/admin/customizer.php:3070
+msgid "Paper clip (vertical)"
+msgstr "Trombone (vertical)"
+
+#: inc/admin/customizer.php:3071
+msgid "Drawing pin"
+msgstr "Punaise"
+
+#: inc/admin/customizer.php:3072
+msgid "Drawing pin (vertical)"
+msgstr "Punaise à dessin (verticale)"
+
+#: inc/admin/customizer.php:3073
+msgid "Bulb"
+msgstr "Ampoule"
+
+#: inc/admin/customizer.php:3074
+msgid "Bell"
+msgstr "Cloche"
+
+#: inc/admin/customizer.php:3075
+msgid "Attention triangle"
+msgstr "Triangle d'attention"
+
+#: inc/admin/customizer.php:3076
+msgid "Exclamation sheet"
+msgstr "Feuille d'exclamation"
+
+#: inc/admin/customizer.php:3077
+msgid "Exclamation mark"
+msgstr "Point d'exclamation"
+
+#: inc/admin/customizer.php:3078
+msgid "Cloud conversation"
+msgstr "Conversation dans le cloud"
+
+#: inc/admin/customizer.php:3079
+msgid "Speaker"
+msgstr "Intervenant"
+
+#: inc/admin/customizer.php:3080
+msgid "Open book"
+msgstr "Livre ouvert"
+
+#: inc/admin/customizer.php:3081
+msgid "Embossed tick"
+msgstr "Tique en relief"
+
+#: inc/admin/customizer.php:3082
+msgid "Solid tick"
+msgstr "Tique solide"
+
+#: inc/admin/customizer.php:3094
+msgid "Icons color for quote block"
+msgstr "Couleur des icônes pour le bloc de citation"
+
+#: inc/admin/customizer.php:3108
+msgid "Icon size for quote block"
+msgstr "Taille de l'icône pour le bloc de citation"
+
+#: inc/admin/customizer.php:3109 inc/admin/customizer.php:3598
+msgid "5 - 100 px (default 24 px)"
+msgstr "5 à 100 px (par défaut 24 px)"
+
+#: inc/admin/customizer.php:3123
+msgid "Add background for icon"
+msgstr "Ajouter un arrière-plan pour l'icône"
+
+#: inc/admin/customizer.php:3136
+msgid "Background color of icons and lines for block quotes"
+msgstr "Couleur d'arrière-plan des icônes et des lignes pour les guillemets"
+
+#: inc/admin/customizer.php:3154
+msgid "H1 headings"
+msgstr "Titres H1"
+
+#: inc/admin/customizer.php:3166
+msgid "Text color of H1 headings"
+msgstr "Couleur du texte des titres H1"
+
+#: inc/admin/customizer.php:3167 inc/admin/customizer.php:3368
+#: inc/admin/customizer.php:3569
+msgid "Default - titles text general color"
+msgstr "Par défaut - couleur générale du texte des titres"
+
+#: inc/admin/customizer.php:3181
+msgid "Header H1 Font"
+msgstr "Police d’en-tête H1"
+
+#: inc/admin/customizer.php:3195
+msgid "Header H1 text size"
+msgstr "Taille du texte de l'en-tête H1"
+
+#: inc/admin/customizer.php:3196
+msgid "5 - 100 px (default 32 px)"
+msgstr "5 à 100 px (32 px par défaut)"
+
+#: inc/admin/customizer.php:3209
+msgid "Header H1 row height (0.8 - 5, default 1.5)"
+msgstr "Hauteur de ligne de l'en-tête H1 (0,8 - 5, par défaut 1,5)"
+
+#: inc/admin/customizer.php:3226
+msgid "Headings H2"
+msgstr "Rubriques H2"
+
+#: inc/admin/customizer.php:3239
+msgid "H2 headings variation"
+msgstr "Variation des rubriques H2"
+
+#: inc/admin/customizer.php:3244 inc/admin/customizer.php:3445
+msgid "Simple headers"
+msgstr "En-têtes simples"
+
+#: inc/admin/customizer.php:3245 inc/admin/customizer.php:3446
+msgid "Light underlining"
+msgstr "Soulignement léger"
+
+#: inc/admin/customizer.php:3246 inc/admin/customizer.php:3447
+msgid "Side border"
+msgstr "Bordure latérale"
+
+#: inc/admin/customizer.php:3247 inc/admin/customizer.php:3448
+msgid "With numbering"
+msgstr "Avec numérotation"
+
+#: inc/admin/customizer.php:3248 inc/admin/customizer.php:3449
+msgid "With icon selection"
+msgstr "Avec sélection d'icônes"
+
+#: inc/admin/customizer.php:3249 inc/admin/customizer.php:3450
+msgid "With arbitrary value"
+msgstr "Avec une valeur arbitraire"
+
+#: inc/admin/customizer.php:3262
+msgid "H2 heading icon selection"
+msgstr "Sélection de l'icône de titre H2"
+
+#: inc/admin/customizer.php:3266 inc/admin/customizer.php:3467
+msgid "Turn off icons"
+msgstr "Désactiver les icônes"
+
+#: inc/admin/customizer.php:3267 inc/admin/customizer.php:3468
+msgid "Right arrow"
+msgstr "Flèche droite"
+
+#: inc/admin/customizer.php:3268 inc/admin/customizer.php:3469
+msgid "Arrow to down"
+msgstr "Flèche vers le bas"
+
+#: inc/admin/customizer.php:3269 inc/admin/customizer.php:3470
+msgid "Arrow right and down"
+msgstr "Flèche vers la droite et vers le bas"
+
+#: inc/admin/customizer.php:3270 inc/admin/customizer.php:3471
+#: inc/admin/customizer.php:4605
+msgid "Volumetric arrow"
+msgstr "Flèche volumétrique"
+
+#: inc/admin/customizer.php:3271 inc/admin/customizer.php:3472
+msgid "Pencil"
+msgstr "Crayon"
+
+#: inc/admin/customizer.php:3273 inc/admin/customizer.php:3474
+msgid "Small flag"
+msgstr "Petit drapeau"
+
+#: inc/admin/customizer.php:3274 inc/admin/customizer.php:3475
+msgid "Blocks"
+msgstr "Blocs"
+
+#: inc/admin/customizer.php:3275 inc/admin/customizer.php:3476
+msgid "Block hierarchy"
+msgstr "Hiérarchie des blocs"
+
+#: inc/admin/customizer.php:3281 inc/admin/customizer.php:3482
+msgid "Par."
+msgstr "Par."
+
+#: inc/admin/customizer.php:3288
+msgid "Add label to header H2 counter"
+msgstr "Ajouter une étiquette au compteur H2 de l'en-tête"
+
+#: inc/admin/customizer.php:3303
+msgid "Add custom value for H2 header"
+msgstr "Ajouter une valeur personnalisée pour l'en-tête H2"
+
+#: inc/admin/customizer.php:3316
+msgid "H2 heading icons text color"
+msgstr "Couleur du texte des icônes de titre H2"
+
+#: inc/admin/customizer.php:3330
+msgid "Background color of icons and lines of H2 headings"
+msgstr "Couleur de fond des icônes et des lignes des titres H2"
+
+#: inc/admin/customizer.php:3353
+msgid "Background color of H2 headings"
+msgstr "Couleur de fond des titres H2"
+
+#: inc/admin/customizer.php:3355 inc/admin/customizer.php:3555
+msgid "Default - site body background color"
+msgstr "Par défaut : couleur d’arrière-plan du corps du site"
+
+#: inc/admin/customizer.php:3367
+msgid "Text color of H2 headings"
+msgstr "Couleur du texte des titres H2"
+
+#: inc/admin/customizer.php:3382
+msgid "Font for H2 headings"
+msgstr "Police pour les titres H2"
+
+#: inc/admin/customizer.php:3396
+msgid "Text size of H2 headings"
+msgstr "Taille du texte des titres H2"
+
+#: inc/admin/customizer.php:3397
+msgid "5 - 100 px (default 26 px)"
+msgstr "5 à 100 px (par défaut 26 px)"
+
+#: inc/admin/customizer.php:3410
+msgid "Row height of H2 headings (0.8 - 5, default 1.5)"
+msgstr "Hauteur de ligne des en-têtes H2 (0,8 - 5, par défaut 1,5)"
+
+#: inc/admin/customizer.php:3427
+msgid "Headings H3 - H6"
+msgstr "Titres H3 - H6"
+
+#: inc/admin/customizer.php:3440
+msgid "H3 - H6 headings variation"
+msgstr "Variation des rubriques H3 - H6"
+
+#: inc/admin/customizer.php:3463
+msgid "H3 - H6 heading icon selection"
+msgstr "Sélection de l'icône de titre H3 - H6"
+
+#: inc/admin/customizer.php:3489
+msgid "Add label to header H3 - H6 counter"
+msgstr "Ajouter une étiquette à l'en-tête Compteur H3 - H6"
+
+#: inc/admin/customizer.php:3503
+msgid "Add custom value for H3 - H6 header"
+msgstr "Ajouter une valeur personnalisée pour l'en-tête H3 - H6"
+
+#: inc/admin/customizer.php:3516
+msgid "H3 - H6 heading icons text color"
+msgstr "Couleur du texte des icônes de titre H3 - H6"
+
+#: inc/admin/customizer.php:3530
+msgid "Background color of icons and lines for H3 - H6 headings"
+msgstr "Couleur de fond des icônes et des lignes des rubriques H3 - H6"
+
+#: inc/admin/customizer.php:3554
+msgid "Background color of H3 - H6 headings"
+msgstr "Couleur de fond des titres H3 - H6"
+
+#: inc/admin/customizer.php:3568
+msgid "Text color of H3 - H6 headings"
+msgstr "Couleur du texte des titres H3 - H6"
+
+#: inc/admin/customizer.php:3583
+msgid "Font for H3 - H6 headings"
+msgstr "Police pour les titres H3 - H6"
+
+#: inc/admin/customizer.php:3597
+msgid "Text size of H3 headings"
+msgstr "Taille du texte des titres H3"
+
+#: inc/admin/customizer.php:3611
+msgid "Text size of H4 headings"
+msgstr "Taille du texte des titres H4"
+
+#: inc/admin/customizer.php:3612
+msgid "5 - 100 px (default 22 px)"
+msgstr "5 à 100 px (22 px par défaut)"
+
+#: inc/admin/customizer.php:3625
+msgid "Text size of H5 headings"
+msgstr "Taille du texte des titres H5"
+
+#: inc/admin/customizer.php:3626
+msgid "5 - 100 px (default 20 px)"
+msgstr "5 à 100 px (par défaut 20 px)"
+
+#: inc/admin/customizer.php:3639
+msgid "Text size of H6 headings"
+msgstr "Taille du texte des titres H6"
+
+#: inc/admin/customizer.php:3640
+msgid "5 - 100 px (default 18 px)"
+msgstr "5 à 100 px (par défaut 18 px)"
+
+#: inc/admin/customizer.php:3653
+msgid "Row height of H3 - H6 headings (0.8 - 5, default 1.5)"
+msgstr "Hauteur de ligne des en-têtes H3 à H6 (0,8 à 5, 1,5 par défaut)"
+
+#: inc/admin/customizer.php:3665
+msgid "Links in content"
+msgstr "Liens dans le contenu"
+
+#: inc/admin/customizer.php:3678
+msgid "Remove link underline"
+msgstr "Supprimer le soulignement du lien"
+
+#: inc/admin/customizer.php:3679
+msgid "This removes the underlining of links in the content text"
+msgstr "Cela supprime le soulignement des liens dans le texte du contenu"
+
+#: inc/admin/customizer.php:3696
+msgid "Author block"
+msgstr "Bloc auteur"
+
+#: inc/admin/customizer.php:3709
+msgid "Activate author section"
+msgstr "Activer la section auteur"
+
+#: inc/admin/customizer.php:3723
+msgid "Separator variation for author block"
+msgstr "Variation du séparateur pour le bloc auteur"
+
+#: inc/admin/customizer.php:3727
+msgid "Turn off separators"
+msgstr "Désactivez les séparateurs"
+
+#: inc/admin/customizer.php:3730
+msgid "Dividers in width"
+msgstr "Diviseurs en largeur"
+
+#: inc/admin/customizer.php:3731
+msgid "Dividers in center"
+msgstr "Diviseurs au centre"
+
+#: inc/admin/customizer.php:3745
+msgid "Change the style of author block separators"
+msgstr "Changer le style des séparateurs de blocs d'auteur"
+
+#: inc/admin/customizer.php:3749
+msgid "Solid line"
+msgstr "Ligne continue"
+
+#: inc/admin/customizer.php:3750
+msgid "Dashed line"
+msgstr "Ligne en tirets"
+
+#: inc/admin/customizer.php:3751
+msgid "Dotted line"
+msgstr "Ligne de points"
+
+#: inc/admin/customizer.php:3752
+msgid "Double line"
+msgstr "Ligne Double"
+
+#: inc/admin/customizer.php:3764
+msgid "Changing the thickness of separators in the author block"
+msgstr "Changer l'épaisseur des séparateurs dans le bloc auteur"
+
+#: inc/admin/customizer.php:3765
+msgid "0 - 30 px (default 1 px)"
+msgstr "0 - 30 px (par défaut 1 px)"
+
+#: inc/admin/customizer.php:3779
+msgid "Add post date to author block"
+msgstr "Ajouter la date de publication au bloc auteur"
+
+#: inc/admin/customizer.php:3793
+msgid "Remove link from author name"
+msgstr "Supprimer le lien du nom de l'auteur"
+
+#: inc/admin/customizer.php:3807
+msgid "Hide avatar in author block"
+msgstr "Masquer l'avatar dans le bloc auteur"
+
+#: inc/admin/customizer.php:3821
+msgid "Hide description in author block"
+msgstr "Masquer la description dans le bloc auteur"
+
+#: inc/admin/customizer.php:3836
+msgid "Add author latest posts to author block"
+msgstr "Ajouter les derniers messages de l'auteur au bloc d'auteur"
+
+#: inc/admin/customizer.php:3843
+msgid "Latest entries of author"
+msgstr "Dernières entrées de l'auteur"
+
+#: inc/admin/customizer.php:3851
+msgid "Author posts title"
+msgstr "Titre du message de l'auteur"
+
+#: inc/admin/customizer.php:3865
+msgid "Number of author posts in the author block (max 50)"
+msgstr "Nombre de messages d'auteur dans le bloc auteur (max 50)"
+
+#: inc/admin/customizer.php:3882
+msgid "Section (next entry)"
+msgstr "Section (entrée suivante)"
+
+#: inc/admin/customizer.php:3895
+msgid "Remove section (next entry)"
+msgstr "Supprimer le bloc (entrée suivante)"
+
+#: inc/admin/customizer.php:3912 inc/admin/customizer.php:3932
+#: template-parts/content-related.php:15
+msgid "Related posts"
+msgstr "Articles similaires"
+
+#: inc/admin/customizer.php:3925
+msgid "Activate related posts"
+msgstr "Activer les publications associées"
+
+#: inc/admin/customizer.php:3939
+msgid "Title for block (Related posts)"
+msgstr "Titre du bloc (Articles associés)"
+
+#: inc/admin/customizer.php:3953
+msgid "Number of columns for related posts"
+msgstr "Nombre de colonnes pour les articles associés"
+
+#: inc/admin/customizer.php:3971
+msgid "Number of related posts (max 50)"
+msgstr "Nombre de messages associés (max 50)"
+
+#: inc/admin/customizer.php:3985
+msgid "Taxonomy for related posts"
+msgstr "Taxonomie pour les articles connexes"
+
+#: inc/admin/customizer.php:3990
+msgid "Tags"
+msgstr "Mots clés"
+
+#: inc/admin/customizer.php:4003
+msgid "Design for related posts"
+msgstr "Conception pour les articles connexes"
+
+#: inc/admin/customizer.php:4007
+msgid "Simple design"
+msgstr "Conception simple"
+
+#: inc/admin/customizer.php:4009
+msgid "Contrast blocks"
+msgstr "Blocs de contraste"
+
+#: inc/admin/customizer.php:4010
+msgid "Soaring blocks"
+msgstr "Blocs volants"
+
+#: inc/admin/customizer.php:4011
+msgid "Polaroid"
+msgstr "Polaroid"
+
+#: inc/admin/customizer.php:4024
+msgid "Remove stub (No photo) in related posts"
+msgstr "Supprimer le talon (Pas de photo) dans les articles associés"
+
+#: inc/admin/customizer.php:4041
+msgid "Comment block"
+msgstr "Bloc de commentaires"
+
+#: inc/admin/customizer.php:4054
+msgid "Remove comment block (for posts)"
+msgstr "Supprimer le bloc de commentaires (pour les publications)"
+
+#: inc/admin/customizer.php:4068
+msgid "Remove comment block (for pages)"
+msgstr "Supprimer le bloc de commentaires (pour les pages)"
+
+#: inc/admin/customizer.php:4082
+msgid "Remove URL field in comments (for posts and pages)"
+msgstr ""
+"Supprimer le champ URL dans les commentaires (pour les articles et les pages)"
+
+#: inc/admin/customizer.php:4093
+msgid "Main page"
+msgstr "Page principale"
+
+#: inc/admin/customizer.php:4105
+msgid "Homepage Starting Settings"
+msgstr "Paramètres initiaux de la page d'accueil"
+
+#: inc/admin/customizer.php:4117
+msgid "Activate sections with blocks on the main"
+msgstr "Activer les sections avec des blocs sur le principal"
+
+#: inc/admin/customizer.php:4132
+msgid "Size of section headers on the main page"
+msgstr "Taille des en-têtes de section sur la page principale"
+
+#: inc/admin/customizer.php:4154
+msgid "Color of section headings on the main page"
+msgstr "Couleur des titres de section sur la page principale"
+
+#: inc/admin/customizer.php:4155
+msgid "Default - content text color"
+msgstr "Par défaut : couleur du texte du contenu"
+
+#: inc/admin/customizer.php:4179
+msgid "Enable the block with the latest posts on the main page"
+msgstr "Activer la section des derniers articles sur la page d'accueil"
+
+#: inc/admin/customizer.php:4180
+msgid ""
+"(Post blocks, as well as pagination, are configured in the \"Categories\" "
+"section)"
+msgstr ""
+"(Les blocs de publication, ainsi que la pagination, sont configurés dans la "
+"section \"Catégories\")"
+
+#: inc/admin/customizer.php:4187 template-parts/home/home-article.php:13
+msgid "Latest posts"
+msgstr "Derniers articles"
+
+#: inc/admin/customizer.php:4194
+msgid "Title for the latest posts block"
+msgstr "Titre du bloc des derniers messages"
+
+#: inc/admin/customizer.php:4206
+msgid "Different settings"
+msgstr "Différents paramètres"
+
+#: inc/admin/customizer.php:4228
+msgid "Wide slider"
+msgstr "Wide slider"
+
+#: inc/admin/customizer.php:4242
+msgid "Display wide slider"
+msgstr "Afficher le curseur large"
+
+#: inc/admin/customizer.php:4246
+msgid "Not display"
+msgstr "Ne pas afficher"
+
+#: inc/admin/customizer.php:4247
+msgid "All site"
+msgstr "Tout le site"
+
+#: inc/admin/customizer.php:4248
+msgid "Except main page"
+msgstr "Sauf page principale"
+
+#: inc/admin/customizer.php:4249
+msgid "Only main page"
+msgstr "Uniquement la page principale"
+
+#: inc/admin/customizer.php:4260
+msgid "Number of slides in the wide slider (max 12)"
+msgstr "Nombre de diapositives dans le curseur large (max 12)"
+
+#: inc/admin/customizer.php:4278
+msgid "Selecting a category to display in a wide slider"
+msgstr "Sélection d'une catégorie à afficher dans un \"wide slider\""
+
+#: inc/admin/customizer.php:4291
+msgid "Number of posts available (max 50)"
+msgstr "Nombre de postes disponibles (max 50)"
+
+#: inc/admin/customizer.php:4305
+msgid "Show slider full screen width"
+msgstr "Afficher le glissière en plein écran"
+
+#: inc/admin/customizer.php:4319
+msgid "Wide slider background color"
+msgstr "Couleur d’arrière-plan du curseur large"
+
+#: inc/admin/customizer.php:4333
+msgid "Enable auto start for Wide slider"
+msgstr "Activer le démarrage automatique pour le curseur large"
+
+#: inc/admin/customizer.php:4345
+msgid "Slider move time"
+msgstr "Temps de déplacement du glissière"
+
+#: inc/admin/customizer.php:4346
+msgid "max 50 000 (default 1500)"
+msgstr "maximum 50 000 (par défaut 1 500)"
+
+#: inc/admin/customizer.php:4358
+msgid "Time between slides"
+msgstr "Temps de pause entre les diapositives"
+
+#: inc/admin/customizer.php:4359
+msgid "max 50 000 (default 5000)"
+msgstr "maximum 50 000 (par défaut 5 000)"
+
+#: inc/admin/customizer.php:4373
+msgid "Enable navigation buttons for Wide slider"
+msgstr "Activer les boutons de navigation pour le curseur large"
+
+#: inc/admin/customizer.php:4387
+msgid "Headers fill variation for Wide slider"
+msgstr "Variation de remplissage des en-têtes pour le curseur large"
+
+#: inc/admin/customizer.php:4391 inc/admin/function-panel-home.php:125
+msgid "Not display titles"
+msgstr "Ne pas afficher les titres"
+
+#: inc/admin/customizer.php:4392 inc/admin/function-panel-home.php:126
+msgid "Smooth dimming"
+msgstr "Gradation en douceur"
+
+#: inc/admin/customizer.php:4393 inc/admin/function-panel-home.php:127
+msgid "Blackout tape"
+msgstr "Ruban occultant"
+
+#: inc/admin/customizer.php:4394 inc/admin/function-panel-home.php:128
+msgid "Animated blackout"
+msgstr "Blackout animé"
+
+#: inc/admin/customizer.php:4407
+msgid "Wide slider headings color"
+msgstr "Couleur des titres du curseur large"
+
+#: inc/admin/customizer.php:4424
+msgid "Breadcrumbs"
+msgstr "Fil d’Ariane"
+
+#: inc/admin/customizer.php:4438
+msgid "Enable breadcrumbs in posts"
+msgstr "Activer le fil d'Ariane dans les publications"
+
+#: inc/admin/customizer.php:4452
+msgid "Enable breadcrumbs in categories"
+msgstr "Activer le fil d'Ariane dans les catégories"
+
+#: inc/admin/customizer.php:4466
+msgid "Show link to home page"
+msgstr "Afficher le lien vers la page d'accueil"
+
+#: inc/admin/customizer.php:4473 inc/module/breadcrumb.php:11
+msgid "Home"
+msgstr "Maison"
+
+#: inc/admin/customizer.php:4480
+msgid "Specify your text for the link (Default - Home)"
+msgstr "Spécifiez votre texte pour le lien (Par défaut - Home)"
+
+#: inc/admin/customizer.php:4494
+msgid "Show title in breadcrumb for posts"
+msgstr "Afficher le titre dans le fil d'Ariane pour les messages"
+
+#: inc/admin/customizer.php:4508
+msgid "Show title for categories, archives and tags"
+msgstr "Afficher le titre des catégories, des archives et des balises"
+
+#: inc/admin/customizer.php:4523
+msgid "Breadcrumbs background color"
+msgstr "Fil d’Ariane fond couleur"
+
+#: inc/admin/customizer.php:4537
+msgid "Breadcrumb link text color"
+msgstr "Couleur du texte du lien de fil d'Ariane"
+
+#: inc/admin/customizer.php:4552
+msgid "Breadcrumb link text color on hover"
+msgstr "Couleur du texte du lien de fil d'Ariane au survol"
+
+#: inc/admin/customizer.php:4567
+msgid "Separator and header color in breadcrumbs"
+msgstr "Couleur du séparateur et de l'en-tête dans le fil d'Ariane"
+
+#: inc/admin/customizer.php:4582
+msgid "Breadcrumbs text size"
+msgstr "Taille du texte du fil d'Ariane"
+
+#: inc/admin/customizer.php:4598
+msgid "Separator between breadcrumbs"
+msgstr "Séparateur pour le fil d’Ariane"
+
+#: inc/admin/customizer.php:4603
+msgid "Arrowhead"
+msgstr "Pointe de flèche"
+
+#: inc/admin/customizer.php:4604 inc/admin/customizer.php:4912
+msgid "Brace"
+msgstr "Entretoise"
+
+#: inc/admin/customizer.php:4606
+msgid "Linear arrow"
+msgstr "Flèche linéaire"
+
+#: inc/admin/customizer.php:4617
+msgid "Calm blocks"
+msgstr "Blocs calmes"
+
+#: inc/admin/customizer.php:4631
+msgid "Activate fluently movement of blocks"
+msgstr "Activer - couramment le mouvement des blocs"
+
+#: inc/admin/customizer.php:4632
+msgid "Works for blocks on the main page and category pages"
+msgstr ""
+"Fonctionne pour les blocs sur la page principale et les pages de catégorie"
+
+#: inc/admin/customizer.php:4646
+msgid "Range for fluently movement of blocks"
+msgstr "Gamme pour un mouvement fluide des blocs"
+
+#: inc/admin/customizer.php:4665
+msgid "Direction fluently movement of blocks"
+msgstr "Direction fluide du mouvement des blocs"
+
+#: inc/admin/customizer.php:4683
+msgid "Site map"
+msgstr "Plan du site"
+
+#: inc/admin/customizer.php:4690
+msgid ""
+"To display the sitemap, create a new page through the standard WordPress "
+"menu,\n"
+"\t\t\tgo to page edit mode and select the \"Site Map\" template on the right "
+"side, save the page."
+msgstr ""
+"Pour afficher le plan du site, créez une nouvelle page via le menu standard "
+"de WordPress,\n"
+"allez en mode édition de page et sélectionnez le modèle « Site Map » sur le "
+"côté droit, enregistrez la page."
+
+#: inc/admin/customizer.php:4707
+msgid "Display categories on the sitemap"
+msgstr "Afficher les catégories sur le plan du site"
+
+#: inc/admin/customizer.php:4714
+msgid "Category"
+msgstr "Catégorie"
+
+#: inc/admin/customizer.php:4721
+msgid "Category section header on the sitemap"
+msgstr "En-tête de la section Catégorie sur le plan du site"
+
+#: inc/admin/customizer.php:4733
+msgid "The maximum number of categories on the sitemap"
+msgstr "Le nombre maximum de catégories sur le plan du site"
+
+#: inc/admin/customizer.php:4747
+msgid "Show posts on sitemap"
+msgstr "Afficher les articles sur le plan du site"
+
+#: inc/admin/customizer.php:4754 templates/template-site-map.php:56
+msgid "Posts"
+msgstr "Articles"
+
+#: inc/admin/customizer.php:4761
+msgid "Posts section header on the sitemap"
+msgstr "En-tête de la section des publications sur le plan du site"
+
+#: inc/admin/customizer.php:4773
+msgid "The maximum number of posts on the sitemap"
+msgstr "Le nombre maximum de publications sur le plan du site"
+
+#: inc/admin/customizer.php:4787
+msgid "Show pages on sitemap"
+msgstr "Afficher les pages sur le plan du site"
+
+#: inc/admin/customizer.php:4794 inc/general.php:342
+#: templates/template-site-map.php:110
+msgid "Pages"
+msgstr "Pages"
+
+#: inc/admin/customizer.php:4801
+msgid "Pages section header on the sitemap"
+msgstr "En-tête de section Pages sur le plan du site"
+
+#: inc/admin/customizer.php:4813
+msgid "The maximum number of pages on the sitemap"
+msgstr "Le nombre maximum de pages sur le plan du site"
+
+#: inc/admin/customizer.php:4825
+msgid "Up button"
+msgstr "Bouton haut"
+
+#: inc/admin/customizer.php:4839
+msgid "Remove \"Up button\""
+msgstr "Supprimer le \"bouton Haut\""
+
+#: inc/admin/customizer.php:4853
+msgid "Button location"
+msgstr "Emplacement du bouton"
+
+#: inc/admin/customizer.php:4871
+msgid "Button size"
+msgstr "Taille du bouton"
+
+#: inc/admin/customizer.php:4889
+msgid "Button shape"
+msgstr "Forme du bouton"
+
+#: inc/admin/customizer.php:4907
+msgid "Button variation"
+msgstr "Variation des boutons"
+
+#: inc/admin/customizer.php:4911 inc/admin/customizer.php:5286
+msgid "Arrow"
+msgstr "Flèche"
+
+#: inc/admin/customizer.php:4924
+msgid "SEO settings"
+msgstr "Paramètres SEO"
+
+#: inc/admin/customizer.php:4939
+msgid "Remove prefix (site name) after SEO Title"
+msgstr "Supprimer le préfixe (nom du site) après le titre SEO"
+
+#: inc/admin/customizer.php:4953
+msgid ""
+"Remove the prefix (site description) after the SEO Title on the main page"
+msgstr ""
+"Supprimez le préfixe (description du site) après le titre SEO sur la page "
+"principale"
+
+#: inc/admin/customizer.php:4967
+msgid "Set your separator for SEO Title prefix"
+msgstr "Définissez votre séparateur pour le préfixe du titre SEO"
+
+#: inc/admin/customizer.php:4981
+msgid "Set your SEO Title for the homepage"
+msgstr "Définissez votre titre SEO pour la page d'accueil"
+
+#: inc/admin/customizer.php:4995
+msgid "Set your SEO Description for the homepage"
+msgstr "Définissez votre description SEO pour la page d'accueil"
+
+#: inc/admin/customizer.php:5009
+msgid "Automatic addition of ALT to images from the title of the post"
+msgstr "Ajouter automatiquement ALT aux images à partir du titre du message"
+
+#: inc/admin/customizer.php:5010
+msgid ""
+"(The function automatically fills the ALT tag for the image when you upload "
+"a file while in a text editor. Based on the title in the current post or "
+"page.)"
+msgstr ""
+"(La fonction remplit automatiquement la balise ALT de l'image lorsque vous "
+"téléchargez un fichier dans un éditeur de texte. En fonction du titre de la "
+"publication ou de la page actuelle.)"
+
+#: inc/admin/customizer.php:5019
+msgid "No photo"
+msgstr "Aucun photo n'a été trouvée"
+
+#: inc/admin/customizer.php:5026
+msgid "Set ALT value for stub No photo"
+msgstr "Définir la valeur ALT pour le stub Pas de photo"
+
+#: inc/admin/customizer.php:5043
+msgid "Widget settings"
+msgstr "Paramètres de widget"
+
+#: inc/admin/customizer.php:5056
+msgid "Selecting the design of widget sections"
+msgstr "Sélection de la conception des sections du widget"
+
+#: inc/admin/customizer.php:5057
+msgid "Side column, except WooCommerce"
+msgstr "Colonne latérale, sauf WooCommerce"
+
+#: inc/admin/customizer.php:5061 inc/admin/customizer.php:5209
+#: inc/option/set.php:461 inc/option/set.php:467 inc/option/set.php:473
+#: inc/option/set.php:479 inc/option/set.php:485
+msgid "Switch off"
+msgstr "Éteindre"
+
+#: inc/admin/customizer.php:5065
+msgid "Side shadow"
+msgstr "Ombre latérale"
+
+#: inc/admin/customizer.php:5066
+msgid "Gradient"
+msgstr "Pente"
+
+#: inc/admin/customizer.php:5080
+msgid "Widgets sections backgrounds"
+msgstr "Arrière-plans des sections de widgets"
+
+#: inc/admin/customizer.php:5081
+msgid "Side column, except WooCommerce. Default - color not set."
+msgstr "Colonne latérale, sauf WooCommerce. Par défaut - couleur non définie."
+
+#: inc/admin/customizer.php:5096
+msgid "Classic widget titles background size"
+msgstr "Taille d'arrière-plan des titres des widgets classiques"
+
+#: inc/admin/customizer.php:5097
+msgid "For all side columns"
+msgstr "Pour toutes les colonnes latérales"
+
+#: inc/admin/customizer.php:5118
+msgid "Titles background color for classic widgets"
+msgstr "Couleur d’arrière-plan des titres pour les widgets classiques"
+
+#: inc/admin/customizer.php:5119
+msgid "For all side columns. Default - background color of the main menu"
+msgstr ""
+"Pour toutes les colonnes latérales. Par défaut - couleur d'arrière-plan du "
+"menu principal"
+
+#: inc/admin/customizer.php:5133
+msgid "Titles text color for classic widgets"
+msgstr "Couleur du texte des titres pour les widgets classiques"
+
+#: inc/admin/customizer.php:5134
+msgid "For all side columns. Default - text color of the main menu"
+msgstr ""
+"Pour toutes les colonnes latérales. Par défaut - couleur du texte du menu "
+"principal"
+
+#: inc/admin/customizer.php:5149
+msgid "Headers font for all widgets"
+msgstr "Police d'en-têtes pour tous les widgets"
+
+#: inc/admin/customizer.php:5162
+msgid "Titles text size of all classic widgets"
+msgstr "Taille du texte des titres de tous les widgets classiques"
+
+#: inc/admin/customizer.php:5177
+msgid "Titles of all classic widgets in uppercase"
+msgstr "Titres de tous les widgets classiques en majuscules"
+
+#: inc/admin/customizer.php:5191
+msgid "Center align titles of all classic widgets"
+msgstr "Centrer les titres de tous les widgets classiques"
+
+#: inc/admin/customizer.php:5205
+msgid "Underline titles of all classic widgets"
+msgstr "Souligner les titres de tous les widgets classiques"
+
+#: inc/admin/customizer.php:5210
+msgid "Left and down"
+msgstr "Gauche et bas"
+
+#: inc/admin/customizer.php:5211
+msgid "Center and bottom"
+msgstr "Centre et bas"
+
+#: inc/admin/customizer.php:5224
+msgid "Line thickness"
+msgstr "Épaisseur de la ligne"
+
+#: inc/admin/customizer.php:5225
+msgid "0 - 30 px (default 2 px)"
+msgstr "0 - 30 px (par défaut 2 px)"
+
+#: inc/admin/customizer.php:5240
+msgid "Design for lists of posts and pages in basic classic widgets"
+msgstr ""
+"Conception de listes de publications et de pages dans les widgets classiques "
+"de base"
+
+#: inc/admin/customizer.php:5245
+msgid "File"
+msgstr "Fichier"
+
+#: inc/admin/customizer.php:5246
+msgid "Round dots"
+msgstr "Points ronds"
+
+#: inc/admin/customizer.php:5247
+msgid "Square dots"
+msgstr "Points carrés"
+
+#: inc/admin/customizer.php:5248
+msgid "Thin border"
+msgstr "Une frontière mince"
+
+#: inc/admin/customizer.php:5261
+msgid "Design for category lists and archives in basic classic widgets"
+msgstr ""
+"Conception de listes de catégories et d'archives dans les widgets classiques "
+"de base"
+
+#: inc/admin/customizer.php:5266
+msgid "Folder"
+msgstr "Dossier"
+
+#: inc/admin/customizer.php:5267
+msgid "Box"
+msgstr "Boîte"
+
+#: inc/admin/customizer.php:5268
+msgid "Thick border"
+msgstr "Bordure épaisse"
+
+#: inc/admin/customizer.php:5281
+msgid "Design for menu lists in basic classic widgets"
+msgstr "Conception de listes de menus dans les widgets classiques de base"
+
+#: inc/admin/customizer.php:5288
+msgid "Icon (sign)"
+msgstr "Icône (signe)"
+
+#: inc/admin/customizer.php:5302
+msgid "Text color of menu items of basic classic widgets"
+msgstr "Couleur du texte des éléments de menu des widgets classiques de base"
+
+#: inc/admin/customizer.php:5304 inc/admin/customizer.php:5319
+msgid "default - sets the overall color of the links"
+msgstr "par défaut, définit la couleur globale des liens"
+
+#: inc/admin/customizer.php:5317
+msgid "Text color of menu items of basic classic widgets (on hover)"
+msgstr ""
+"Couleur du texte des éléments de menu des widgets classiques (au survol)"
+
+#: inc/admin/customizer.php:5332
+msgid "Background color of menu items of basic classic widgets"
+msgstr "Couleur d'arrière-plan des éléments de menu des widgets classiques"
+
+#: inc/admin/customizer.php:5334
+msgid "Default - background not set"
+msgstr "Par défaut : l'arrière-plan n'est pas défini"
+
+#: inc/admin/customizer.php:5347
+msgid "Disable demo widgets"
+msgstr "Désactiver les widgets de démonstration"
+
+#: inc/admin/customizer.php:5365
+msgid "Bottom part"
+msgstr "Partie inférieure"
+
+#: inc/admin/customizer.php:5378
+msgid "Activate footer"
+msgstr "Activer le pied de page"
+
+#: inc/admin/customizer.php:5393
+msgid "Footer background color"
+msgstr "Fond du pied de page"
+
+#: inc/admin/customizer.php:5394
+msgid "Default - background color of the main menu"
+msgstr "Par défaut - couleur d'arrière-plan du menu principal"
+
+#: inc/admin/customizer.php:5408
+msgid "Widgets headers text color in footer"
+msgstr "Couleur du texte des en-têtes des widgets dans le pied de page"
+
+#: inc/admin/customizer.php:5409
+msgid "Default - color of the main menu"
+msgstr "Par défaut - couleur du menu principal"
+
+#: inc/admin/customizer.php:5423
+msgid "Footer text color"
+msgstr "Couleur du texte du pied de page"
+
+#: inc/admin/customizer.php:5424
+msgid "Default - text color of the main menu"
+msgstr "Par défaut - couleur du texte du menu principal"
+
+#: inc/admin/customizer.php:5438
+msgid "Footer link color"
+msgstr "Couleur du lien du pied de page"
+
+#: inc/admin/customizer.php:5452
+msgid "Footer link color (on hover)"
+msgstr "Couleur du lien de pied de page (au survol)"
+
+#: inc/admin/customizer.php:5466
+msgid "Footer elements color"
+msgstr "Couleur des éléments de pied de page"
+
+#: inc/admin/customizer.php:5483
+msgid "Activate bottom menu"
+msgstr "Activer le menu du bas"
+
+#: inc/admin/customizer.php:5496
+msgid "Bottom menu text size (5 - 50 px, default 14 px)"
+msgstr "Taille du texte du menu inférieur (5 à 50 px, 14 px par défaut)"
+
+#: inc/admin/customizer.php:5508
+msgid "Text at the bottom of the footer"
+msgstr "Texte en bas du pied de page"
+
+#: inc/admin/customizer.php:5522 inc/admin/customizer.php:5742
+msgid "Advanced settings (Airin Blog)"
+msgstr "Paramètres avancés (Airin Blog)"
+
+#: inc/admin/customizer.php:5536
+msgid "Enable styling support for The Events Calendar"
+msgstr "Activer la prise en charge du style pour The Events Calendar"
+
+#: inc/admin/customizer.php:5537
+msgid ""
+"Customizes the Skeleton Styles stylesheet according to the template design. "
+"Turning it off can be useful if you want to control the stylesheet yourself "
+"(Skeleton Styles)"
+msgstr ""
+"Personnalise la feuille de style Skeleton Styles en fonction de la "
+"conception du modèle. Le désactiver peut être utile si vous souhaitez "
+"contrôler vous-même la feuille de style (Styles squelettes)"
+
+#: inc/admin/customizer.php:5566
+msgid "Disable sidebar on bbPress pages"
+msgstr "Désactiver la barre latérale sur les pages bbPress"
+
+#: inc/admin/customizer.php:5581
+msgid "Disable breadcrumbs in bbPress"
+msgstr "Désactiver le fil d'Ariane dans bbPress"
+
+#: inc/admin/customizer.php:5595
+msgid "Activate your names for user roles"
+msgstr "Activez vos noms pour les rôles d'utilisateur"
+
+#: inc/admin/customizer.php:5609
+msgid "Change role name - Keymaster"
+msgstr "Changer le nom du rôle - Keymaster"
+
+#: inc/admin/customizer.php:5623
+msgid "Change role name - Moderator"
+msgstr "Changer le nom du rôle - Moderator"
+
+#: inc/admin/customizer.php:5637
+msgid "Change role name - Participant"
+msgstr "Changer le nom du rôle - Participant"
+
+#: inc/admin/customizer.php:5651
+msgid "Change role name - Spectator"
+msgstr "Changer le nom du rôle - Spectator"
+
+#: inc/admin/customizer.php:5665
+msgid "Change role name - Blocked"
+msgstr "Changer le nom du rôle - Blocked"
+
+#: inc/admin/customizer.php:5680
+msgid "Disable style support for bbPress"
+msgstr "Désactiver la prise en charge des styles pour bbPress"
+
+#: inc/admin/customizer.php:5681
+msgid ""
+"Can be useful if you want to control the styles of the bbPress plugin "
+"yourself"
+msgstr ""
+"Peut être utile si vous souhaitez contrôler vous-même les styles du plugin "
+"bbPress"
+
+#: inc/admin/customizer.php:5711
+msgid "Disable sidebar on BuddyPress pages"
+msgstr "Désactiver la barre latérale sur les pages BuddyPress"
+
+#: inc/admin/customizer.php:5725
+msgid "Disable style support for BuddyPress"
+msgstr "Désactiver la prise en charge des styles pour BuddyPress"
+
+#: inc/admin/customizer.php:5726
+msgid ""
+"Can be useful if you want to control the styles of the BuddyPress plugin "
+"yourself"
+msgstr ""
+"Peut être utile si vous souhaitez contrôler vous-même les styles du plugin "
+"BuddyPress"
+
+#: inc/admin/customizer.php:5762
+msgid "Enable cart in top menu"
+msgstr "Activer le panier dans le menu supérieur"
+
+#: inc/admin/customizer.php:5776
+msgid "Cart size in the top menu"
+msgstr "Taille du panier dans le menu supérieur"
+
+#: inc/admin/customizer.php:5795
+msgid "Enable cart in main menu"
+msgstr "Activer le panier dans le menu principal"
+
+#: inc/admin/customizer.php:5809
+msgid "Enable search on store page"
+msgstr "Activer la recherche sur la page du magasin"
+
+#: inc/admin/customizer.php:5823
+msgid "Enable search on product category pages"
+msgstr "Activer la recherche sur les pages de catégories de produits"
+
+#: inc/admin/customizer.php:5837
+msgid "Product price color"
+msgstr "Couleur du prix du produit"
+
+#: inc/admin/customizer.php:5852
+msgid "Disable sticker - Sale"
+msgstr "Désactiver l'autocollant - Vente"
+
+#: inc/admin/customizer.php:5867
+msgid "Sticker color - Sale"
+msgstr "Couleur de l'autocollant - Vente"
+
+#: inc/admin/customizer.php:5881
+msgid "Disable zoom in the main product photo"
+msgstr "Désactiver le zoom sur la photo principale du produit"
+
+#: inc/admin/customizer.php:5895
+msgid "Disable slider in product photos"
+msgstr "Désactiver le curseur dans les photos de produits"
+
+#: inc/admin/customizer.php:5909
+msgid "Disable lightbox in product photos"
+msgstr "Désactiver la lightbox dans les photos de produits"
+
+#: inc/admin/customizer.php:5923
+msgid "Disable related products on the products page"
+msgstr "Désactiver les produits associés sur la page des produits"
+
+#: inc/admin/customizer.php:5936
+msgid "Specify the number of related products"
+msgstr "Précisez le nombre de produits associés"
+
+#: inc/admin/customizer.php:5949
+msgid "Specify the number of columns of related products"
+msgstr "Spécifiez le nombre de colonnes de produits associés"
+
+#: inc/admin/customizer.php:5963
+msgid "Add popular products to products page"
+msgstr "Ajouter des produits populaires à la page des produits"
+
+#: inc/admin/customizer.php:5976
+msgid "Specify the number of popular products"
+msgstr "Précisez le nombre de produits populaires"
+
+#: inc/admin/customizer.php:5989
+msgid "Specify the number of columns of popular products"
+msgstr "Spécifiez le nombre de colonnes de produits populaires"
+
+#: inc/admin/customizer.php:6003
+msgid "Add breadcrumbs to product category pages"
+msgstr "Ajouter un fil d'Ariane aux pages de catégories de produits"
+
+#: inc/admin/customizer.php:6017
+msgid "Add breadcrumbs to product pages"
+msgstr "Ajouter du fil d'Ariane aux pages produits"
+
+#: inc/admin/customizer.php:6031
+msgid "Where does the main link lead in breadcrumbs"
+msgstr "Où mène le lien principal dans le fil d'Ariane"
+
+#: inc/admin/customizer.php:6035
+msgid "Main"
+msgstr "Principal"
+
+#: inc/admin/customizer.php:6049
+msgid "Text for the main link in breadcrumbs"
+msgstr "Texte du lien principal dans le fil d'Ariane"
+
+#: inc/admin/customizer.php:6063
+msgid ""
+"Add the inscription (Out of stock) to the product card in the product grid"
+msgstr ""
+"Ajouter l'inscription (Rupture de stock) sur la fiche produit dans la grille "
+"produit"
+
+#: inc/admin/customizer.php:6077
+msgid "Add an inscription (Out of stock) on the product page"
+msgstr "Ajouter une inscription (Rupture de stock) sur la page produit"
+
+#: inc/admin/customizer.php:6091
+msgid "Lettering color (Out of stock)"
+msgstr "Couleur du lettrage (En rupture de stock)"
+
+#: inc/admin/customizer.php:6105
+msgid "Change label (Out of stock)"
+msgstr "Changer d'étiquette (En rupture de stock)"
+
+#: inc/admin/customizer.php:6122 inc/admin/customizer.php:6159
+#: inc/option/set.php:138
+msgid "Useful links"
+msgstr "Liens utiles"
+
+#: inc/admin/customizer.php:6131
+msgid "Presentation page"
+msgstr "Page de présentation"
+
+#: inc/admin/customizer.php:6135 inc/option/set.php:389
+msgid "View demo"
+msgstr "Voir la démo"
+
+#: inc/admin/customizer.php:6139
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/customizer.php:6143
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/customizer.php:6172
+msgid "Reset settings | Apply presets"
+msgstr "Réinitialiser les paramètres | Appliquer les préréglages"
+
+#: inc/admin/customizer.php:6177
+msgid "Reset theme settings and Apply presets"
+msgstr "Réinitialiser les paramètres du thème et appliquer les préréglages"
+
+#: inc/admin/customizer.php:6195
+msgid ""
+"Open Features (by activating this, you confirm that you want to reset all "
+"settings for this theme and understand the risk of permanent data loss)"
+msgstr ""
+"Fonctionnalités ouvertes (en l'activant, vous confirmez que vous souhaitez "
+"réinitialiser tous les paramètres de ce thème et comprenez le risque de "
+"perte permanente de données)"
+
+#: inc/admin/customizer.php:6196
+msgid ""
+"Important! These options only affect this themes settings (visual customizer "
+"settings). If you have a lot of valuable settings, please back up your "
+"database before using this feature."
+msgstr ""
+"Important! Ces options n'affectent que les paramètres de ce thème "
+"(paramètres de personnalisation visuelle). Si vous disposez de nombreux "
+"paramètres précieux, veuillez sauvegarder votre base de données avant "
+"d'utiliser cette fonctionnalité."
+
+#: inc/admin/customizer.php:6206 inc/admin/function-panel-reset.php:1285
+#: inc/admin/function-panel-reset.php:1299
+#: inc/admin/function-panel-reset.php:1313
+#: inc/admin/function-panel-reset.php:1327
+#: inc/admin/function-panel-reset.php:1341
+#: inc/admin/function-panel-reset.php:1355
+#: inc/admin/function-panel-reset.php:1369
+#: inc/admin/function-panel-reset.php:1383
+#: inc/admin/function-panel-reset.php:1397
+#: inc/admin/function-panel-reset.php:1411
+#: inc/admin/function-panel-reset.php:1425
+#: inc/admin/function-panel-reset.php:1439
+#: inc/admin/function-panel-reset.php:1453
+#: inc/admin/function-panel-reset.php:1467
+msgid "Reset settings"
+msgstr "Réinitialiser les paramètres"
+
+#: inc/admin/function-panel-color.php:492
+msgid ""
+"This setting will apply the selected color scheme, all your colors will be "
+"reassigned"
+msgstr ""
+"Ce paramètre appliquera le jeu de couleurs sélectionné, toutes vos couleurs "
+"seront réaffectées"
+
+#: inc/admin/function-panel-color.php:499
+msgid "Color scheme option"
+msgstr "Option de jeu de couleurs"
+
+#: inc/admin/function-panel-color.php:653 inc/demo/demo.php:22
+#: inc/demo/demo.php:142 inc/demo/demo.php:382 inc/demo/demo.php:502
+msgid "Light color scheme (Green and Orange)"
+msgstr "Jeu de couleurs claires (vert et orange)"
+
+#: inc/admin/function-panel-color.php:654
+#: inc/admin/function-panel-color.php:659
+#: inc/admin/function-panel-color.php:664
+#: inc/admin/function-panel-color.php:669
+#: inc/admin/function-panel-color.php:674
+#: inc/admin/function-panel-color.php:679
+#: inc/admin/function-panel-color.php:684
+#: inc/admin/function-panel-color.php:689
+#: inc/admin/function-panel-color.php:694
+#: inc/admin/function-panel-color.php:699
+#: inc/admin/function-panel-color.php:704
+#: inc/admin/function-panel-color.php:709
+msgid "Apply"
+msgstr "Appliquer"
+
+#: inc/admin/function-panel-color.php:658 inc/demo/demo.php:31
+#: inc/demo/demo.php:151 inc/demo/demo.php:391 inc/demo/demo.php:511
+msgid "Light color scheme (Light grey and Light red)"
+msgstr "Palette de couleurs claires (gris clair et rouge clair)"
+
+#: inc/admin/function-panel-color.php:663 inc/demo/demo.php:40
+#: inc/demo/demo.php:160 inc/demo/demo.php:400 inc/demo/demo.php:520
+msgid "Light color scheme (Dark blue and Light blue)"
+msgstr "Palette de couleurs claires (bleu foncé et bleu clair)"
+
+#: inc/admin/function-panel-color.php:668 inc/demo/demo.php:49
+#: inc/demo/demo.php:169 inc/demo/demo.php:409 inc/demo/demo.php:529
+msgid "Light color scheme (Blue)"
+msgstr "Jeu de couleurs claires (bleu)"
+
+#: inc/admin/function-panel-color.php:673 inc/demo/demo.php:58
+#: inc/demo/demo.php:178 inc/demo/demo.php:418 inc/demo/demo.php:538
+msgid "Dark color scheme (Red and Orange)"
+msgstr "Palette de couleurs sombres (rouge et orange)"
+
+#: inc/admin/function-panel-color.php:678 inc/demo/demo.php:67
+#: inc/demo/demo.php:187 inc/demo/demo.php:427 inc/demo/demo.php:547
+msgid "Dark color scheme (Green and Orange)"
+msgstr "Palette de couleurs sombres (vert et orange)"
+
+#: inc/admin/function-panel-color.php:683 inc/demo/demo.php:76
+#: inc/demo/demo.php:196 inc/demo/demo.php:436 inc/demo/demo.php:556
+msgid "Light color scheme (Dark grey and Red)"
+msgstr "Palette de couleurs claires (gris foncé et rouge)"
+
+#: inc/admin/function-panel-color.php:688 inc/demo/demo.php:85
+#: inc/demo/demo.php:205 inc/demo/demo.php:445 inc/demo/demo.php:565
+msgid "Light color scheme (Light grey and Green)"
+msgstr "Palette de couleurs claires (gris clair et vert)"
+
+#: inc/admin/function-panel-color.php:693 inc/demo/demo.php:94
+#: inc/demo/demo.php:214 inc/demo/demo.php:454 inc/demo/demo.php:574
+msgid "Light color scheme (Orange and Gray)"
+msgstr "Palette de couleurs claires (orange et gris)"
+
+#: inc/admin/function-panel-color.php:698 inc/demo/demo.php:103
+#: inc/demo/demo.php:223 inc/demo/demo.php:463 inc/demo/demo.php:583
+msgid "Light color scheme (Violet and Pink)"
+msgstr "Palette de couleurs claires (violet et rose)"
+
+#: inc/admin/function-panel-color.php:703 inc/demo/demo.php:112
+#: inc/demo/demo.php:232 inc/demo/demo.php:472 inc/demo/demo.php:592
+msgid "Light color scheme (Heavenly and Light blue)"
+msgstr "Palette de couleurs claires (bleu céleste et bleu clair)"
+
+#: inc/admin/function-panel-color.php:708 inc/demo/demo.php:121
+#: inc/demo/demo.php:241 inc/demo/demo.php:481 inc/demo/demo.php:601
+msgid "Light color scheme (Turquoise)"
+msgstr "Jeu de couleurs claires (Turquoise)"
+
+#: inc/admin/function-panel-home.php:48
+msgid "Sections with blocks on the main"
+msgstr "Sections avec blocs sur le principal"
+
+#: inc/admin/function-panel-home.php:49 inc/admin/function-panel-xlmega.php:91
+msgid "Drag to reposition blocks"
+msgstr "Faites glisser pour repositionner les blocs"
+
+#: inc/admin/function-panel-home.php:52 inc/admin/function-panel-soc.php:55
+#: inc/admin/function-panel-xlmega.php:94
+msgid "Section with settings"
+msgstr "Section avec paramètres"
+
+#: inc/admin/function-panel-home.php:53 inc/admin/function-panel-xlmega.php:95
+msgid "Add block"
+msgstr "Ajouter un bloc"
+
+#: inc/admin/function-panel-home.php:58 inc/admin/function-panel-xlmega.php:100
+msgid "Section option"
+msgstr "Variation de section"
+
+#: inc/admin/function-panel-home.php:74 inc/admin/function-panel-xlmega.php:113
+msgid "Section heading"
+msgstr "Titre de section"
+
+#: inc/admin/function-panel-home.php:80 inc/admin/function-panel-home.php:86
+#: inc/admin/function-panel-home.php:92
+msgid "Select category"
+msgstr "Choisir une catégorie"
+
+#: inc/admin/function-panel-home.php:98 inc/admin/function-panel-xlmega.php:179
+msgid "Post sorting"
+msgstr "Tri des publications"
+
+#: inc/admin/function-panel-home.php:100
+#: inc/admin/function-panel-xlmega.php:181
+msgid "By publication date"
+msgstr "Par date de publication"
+
+#: inc/admin/function-panel-home.php:101
+#: inc/admin/function-panel-xlmega.php:182
+msgid "By date modified"
+msgstr "Par date de modification"
+
+#: inc/admin/function-panel-home.php:102
+#: inc/admin/function-panel-xlmega.php:183
+msgid "By title"
+msgstr "Par titre"
+
+#: inc/admin/function-panel-home.php:103
+#: inc/admin/function-panel-xlmega.php:184
+msgid "By number of comments"
+msgstr "Par nombre de commentaires"
+
+#: inc/admin/function-panel-home.php:104
+#: inc/admin/function-panel-xlmega.php:185
+msgid "In random order"
+msgstr "Dans un ordre aléatoire"
+
+#: inc/admin/function-panel-home.php:111
+msgid "Number of posts available"
+msgstr "Nombre de postes disponibles"
+
+#: inc/admin/function-panel-home.php:117
+#: inc/admin/function-panel-xlmega.php:192
+msgid "Number of posts displayed"
+msgstr "Nombre de publications affichées"
+
+#: inc/admin/function-panel-home.php:123
+msgid "Post title option"
+msgstr "Option de titre du message"
+
+#: inc/admin/function-panel-home.php:135
+#: inc/admin/function-panel-xlmega.php:198
+msgid "Remove post titles"
+msgstr "Supprimer les titres des articles"
+
+#: inc/admin/function-panel-home.php:141
+#: inc/admin/function-panel-xlmega.php:204
+msgid "Title text size"
+msgstr "Taille du texte du titre"
+
+#: inc/admin/function-panel-home.php:154
+msgid "Title text size for small cards"
+msgstr "Taille du texte du titre pour les petites cartes"
+
+#: inc/admin/function-panel-home.php:167
+#: inc/admin/function-panel-xlmega.php:217
+msgid "Posts titles text color"
+msgstr "Couleur du texte des titres des articles"
+
+#: inc/admin/function-panel-home.php:173
+#: inc/admin/function-panel-xlmega.php:223
+msgid "Posts titles color on hover"
+msgstr "Couleur des titres des publications au survol"
+
+#: inc/admin/function-panel-home.php:179
+#: inc/admin/function-panel-xlmega.php:229
+msgid "Posts background color"
+msgstr "Couleur d’arrière-plan des publications"
+
+#: inc/admin/function-panel-home.php:185
+#: inc/admin/function-panel-xlmega.php:235
+msgid "Background color for posts (on hover)"
+msgstr "Couleur d'arrière-plan des publications (au survol)"
+
+#: inc/admin/function-panel-home.php:191
+msgid "Enable slider auto start"
+msgstr "Activer le démarrage automatique du glissières"
+
+#: inc/admin/function-panel-home.php:197
+msgid "Animation for auto slider"
+msgstr "Animation pour le glissière automatique"
+
+#: inc/admin/function-panel-home.php:199
+msgid "Standard flipping"
+msgstr "Retournement standard"
+
+#: inc/admin/function-panel-home.php:200
+msgid "Dynamic zoom"
+msgstr "Zoom dynamique"
+
+#: inc/admin/function-panel-home.php:201
+msgid "Upheaval"
+msgstr "Bouleversement"
+
+#: inc/admin/function-panel-home.php:202
+msgid "Fading away"
+msgstr "Disparaissant"
+
+#: inc/admin/function-panel-home.php:209
+msgid "Enable slider navigation buttons"
+msgstr "Activer les boutons de navigation du glissières"
+
+#: inc/admin/function-panel-home.php:278
+msgid "Grid three blocks"
+msgstr "Grid three blocks"
+
+#: inc/admin/function-panel-home.php:279
+msgid "Grid narrow blocks"
+msgstr "Blocs étroits en grille"
+
+#: inc/admin/function-panel-home.php:280
+msgid "Grid five blocks"
+msgstr "Grid five blocks"
+
+#: inc/admin/function-panel-home.php:281
+msgid "Vertical columns"
+msgstr "Colonnes verticales"
+
+#: inc/admin/function-panel-home.php:282
+msgid "Big slider"
+msgstr "Grand curseur"
+
+#: inc/admin/function-panel-home.php:283
+msgid "Slider three blocks"
+msgstr "Slider three blocks"
+
+#: inc/admin/function-panel-home.php:284
+msgid "Slider two blocks"
+msgstr "Slider two blocks"
+
+#: inc/admin/function-panel-home.php:285
+msgid "Partial slider"
+msgstr "Partial slider"
+
+#: inc/admin/function-panel-home.php:343
+#: inc/admin/function-panel-xlmega.php:382
+msgid "No image selected"
+msgstr "Aucune image sélectionnée"
+
+#: inc/admin/function-panel-home.php:349
+#: inc/admin/function-panel-xlmega.php:388
+msgid "Remove"
+msgstr "Supprimer"
+
+#: inc/admin/function-panel-home.php:350
+#: inc/admin/function-panel-xlmega.php:389
+msgid "Select Image"
+msgstr "Sélectionner une image"
+
+#: inc/admin/function-panel-home.php:359
+#: inc/admin/function-panel-xlmega.php:398
+#: inc/admin/function-panel-xlmega.php:408
+msgid "Latest posts (default)"
+msgstr "Derniers messages (par défaut)"
+
+#: inc/admin/function-panel-home.php:445
+#: inc/admin/function-panel-xlmega.php:494
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: inc/admin/function-panel-home.php:469 inc/admin/function-panel-soc.php:234
+#: inc/admin/function-panel-xlmega.php:518
+msgid "Roll up block"
+msgstr "Bloc enroulable"
+
+#: inc/admin/function-panel-home.php:470 inc/admin/function-panel-soc.php:235
+#: inc/admin/function-panel-xlmega.php:519
+msgid "Delete block"
+msgstr "Supprimer le bloc"
+
+#: inc/admin/function-panel-reset.php:1112
+msgid "Preset settings"
+msgstr "Paramètres prédéfinis"
+
+#: inc/admin/function-panel-reset.php:1113
+msgid ""
+"This will reset all theme settings to default, apply the chosen color scheme "
+"and activate some settings for the example"
+msgstr ""
+"Cela réinitialisera tous les paramètres du thème par défaut, appliquera la "
+"palette de couleurs choisie et activera certains paramètres pour l'exemple"
+
+#: inc/admin/function-panel-reset.php:1120
+msgid "Preset options"
+msgstr "Options prédéfinies"
+
+#: inc/admin/function-panel-reset.php:1284 inc/demo/demo.php:13
+#: inc/demo/demo.php:133 inc/demo/demo.php:373 inc/demo/demo.php:493
+msgid "Without settings (Defaults)"
+msgstr "Sans paramètres (par défaut)"
+
+#: inc/admin/function-panel-reset.php:1292
+msgid "Style: Confident oasis"
+msgstr "Style : Oasis de confiance"
+
+#: inc/admin/function-panel-reset.php:1294
+msgid "Font: Roboto"
+msgstr "Font: Roboto"
+
+#: inc/admin/function-panel-reset.php:1296
+msgid "Color scheme: Light (Green and Orange)"
+msgstr "Palette de couleurs : clair (vert et orange)"
+
+#: inc/admin/function-panel-reset.php:1306
+msgid "Style: Photo maximalism"
+msgstr "Style : Photo maximalisme"
+
+#: inc/admin/function-panel-reset.php:1308
+msgid "Font: Comfortaa and Roboto"
+msgstr "Font: Comfortaa and Roboto"
+
+#: inc/admin/function-panel-reset.php:1310
+msgid "Color scheme: Light (Light grey and Light red)"
+msgstr "Palette de couleurs : clair (gris clair et rouge clair)"
+
+#: inc/admin/function-panel-reset.php:1320
+msgid "Style: News book"
+msgstr "Style : Livre d'actualités"
+
+#: inc/admin/function-panel-reset.php:1322
+msgid "Font: Philosopher"
+msgstr "Font: Philosopher"
+
+#: inc/admin/function-panel-reset.php:1324
+msgid "Color scheme: Light (Dark blue and Light blue)"
+msgstr "Palette de couleurs : clair (bleu foncé et bleu clair)"
+
+#: inc/admin/function-panel-reset.php:1334
+msgid "Style: Minimalism"
+msgstr "Style: Minimalisme"
+
+#: inc/admin/function-panel-reset.php:1336
+msgid "Font: Charis-sil"
+msgstr "Font: Charis-sil"
+
+#: inc/admin/function-panel-reset.php:1338
+msgid "Color scheme: Light (Blue)"
+msgstr "Palette de couleurs : clair (bleu)"
+
+#: inc/admin/function-panel-reset.php:1348
+msgid "Style: Night magazine"
+msgstr "Style : Magazine de nuit"
+
+#: inc/admin/function-panel-reset.php:1350
+msgid "Font: Play"
+msgstr "Font: Play"
+
+#: inc/admin/function-panel-reset.php:1352
+msgid "Color scheme: Dark (Red and Orange)"
+msgstr "Palette de couleurs : foncé (rouge et orange)"
+
+#: inc/admin/function-panel-reset.php:1362
+msgid "Style: Intrusive frames"
+msgstr "Style : cadres intrusifs"
+
+#: inc/admin/function-panel-reset.php:1364
+msgid "Font: Bitter"
+msgstr "Font: Bitter"
+
+#: inc/admin/function-panel-reset.php:1366
+msgid "Color scheme: Dark (Green and Orange)"
+msgstr "Palette de couleurs : foncé (vert et orange)"
+
+#: inc/admin/function-panel-reset.php:1376
+msgid "Style: News time"
+msgstr "Style : Heure des actualités"
+
+#: inc/admin/function-panel-reset.php:1378
+msgid "Font: Fira-sans and Oswald"
+msgstr "Font: Fira-sans and Oswald"
+
+#: inc/admin/function-panel-reset.php:1380
+msgid "Color scheme: Light (Dark grey and Red)"
+msgstr "Palette de couleurs : clair (gris foncé et rouge)"
+
+#: inc/admin/function-panel-reset.php:1390
+msgid "Style: Hippopotamus"
+msgstr "Style: Hippopotame"
+
+#: inc/admin/function-panel-reset.php:1392
+msgid "Font: Jost"
+msgstr "Font: Jost"
+
+#: inc/admin/function-panel-reset.php:1394
+msgid "Color scheme: Light (Light grey and Green)"
+msgstr "Palette de couleurs : clair (gris clair et vert)"
+
+#: inc/admin/function-panel-reset.php:1404
+msgid "Style: Strict carrot"
+msgstr "Style: Carotte stricte"
+
+#: inc/admin/function-panel-reset.php:1406
+msgid "Font: Cuprum and Exo-2"
+msgstr "Font: Cuprum and Exo-2"
+
+#: inc/admin/function-panel-reset.php:1408
+msgid "Color scheme: Light (Orange and Gray)"
+msgstr "Palette de couleurs : clair (orange et gris)"
+
+#: inc/admin/function-panel-reset.php:1418
+msgid "Style: Womens blog"
+msgstr "Style : Blog pour femmes"
+
+#: inc/admin/function-panel-reset.php:1420
+msgid "Font: Bad-script and Caveat"
+msgstr "Font: Bad-script and Caveat"
+
+#: inc/admin/function-panel-reset.php:1422
+msgid "Color scheme: Light (Violet and Pink)"
+msgstr "Palette de couleurs : clair (violet et rose)"
+
+#: inc/admin/function-panel-reset.php:1432
+msgid "Style: Heavenly"
+msgstr "Style : Céleste"
+
+#: inc/admin/function-panel-reset.php:1434
+msgid "Font: Bellota"
+msgstr "Font: Bellota"
+
+#: inc/admin/function-panel-reset.php:1436
+msgid "Color scheme: Light (Heavenly and Light blue)"
+msgstr "Palette de couleurs : clair (bleu céleste et bleu clair)"
+
+#: inc/admin/function-panel-reset.php:1446
+msgid "Style: Through limitations"
+msgstr "Style : À travers les limites"
+
+#: inc/admin/function-panel-reset.php:1448
+msgid "Font: Neucha and Cuprum"
+msgstr "Font: Neucha and Cuprum"
+
+#: inc/admin/function-panel-reset.php:1450
+msgid "Color scheme: Light (Turquoise)"
+msgstr "Palette de couleurs : clair (turquoise)"
+
+#: inc/admin/function-panel-reset.php:1460
+msgid "Style: Mixing colors"
+msgstr "Style : Mélange de couleurs"
+
+#: inc/admin/function-panel-reset.php:1462
+msgid "Font: Underdog"
+msgstr "Font: Underdog"
+
+#: inc/admin/function-panel-reset.php:1464
+msgid "Multicolor scheme: Demo location of color"
+msgstr "Schéma multicolore : emplacement de démonstration de la couleur"
+
+#: inc/admin/function-panel-soc.php:52
+msgid "Drag the block with the cursor to change the position of the links"
+msgstr ""
+"Faites glisser le bloc avec le curseur pour changer la position des liens"
+
+#: inc/admin/function-panel-soc.php:56
+msgid "Add section"
+msgstr "Ajouter une section"
+
+#: inc/admin/function-panel-soc.php:61
+msgid "Picture variant"
+msgstr "Variante d'image"
+
+#: inc/admin/function-panel-soc.php:68
+msgid "Link to social network (URL)"
+msgstr "Lien vers le réseau social (URL)"
+
+#: inc/admin/function-panel-soc.php:74
+msgid "Open link in new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: inc/admin/function-panel-soc.php:140
+msgid "Social link"
+msgstr "Lien des réseaux sociaux"
+
+#: inc/admin/function-panel-xlmega.php:15
+msgid "XL Mega menu"
+msgstr "Menu XL Méga"
+
+#: inc/admin/function-panel-xlmega.php:30
+msgid "Activate XL Mega menu"
+msgstr "Activer le menu XL Mega"
+
+#: inc/admin/function-panel-xlmega.php:44
+msgid "Priority partition"
+msgstr "Partition prioritaire"
+
+#: inc/admin/function-panel-xlmega.php:48
+msgid "First the graphical menu, then the lists"
+msgstr "D'abord le menu graphique, puis les listes"
+
+#: inc/admin/function-panel-xlmega.php:49
+msgid "First the list menu, then the graphic"
+msgstr "D'abord le menu liste, puis le graphique"
+
+#: inc/admin/function-panel-xlmega.php:90
+msgid "Sections with blocks on the mega menu"
+msgstr "Sections avec blocs sur le méga menu"
+
+#: inc/admin/function-panel-xlmega.php:119
+msgid "Title for column 1"
+msgstr "Titre de la colonne 1"
+
+#: inc/admin/function-panel-xlmega.php:125
+msgid "Select category 1"
+msgstr "Sélectionnez la catégorie 1"
+
+#: inc/admin/function-panel-xlmega.php:131
+msgid "Title for column 2"
+msgstr "Titre de la colonne 2"
+
+#: inc/admin/function-panel-xlmega.php:137
+msgid "Select category 2"
+msgstr "Sélectionnez la catégorie 2"
+
+#: inc/admin/function-panel-xlmega.php:143
+msgid "Title for column 3"
+msgstr "Titre de la colonne 3"
+
+#: inc/admin/function-panel-xlmega.php:149
+msgid "Select category 3"
+msgstr "Sélectionnez la catégorie 3"
+
+#: inc/admin/function-panel-xlmega.php:155
+msgid "Title for column 4"
+msgstr "Titre de la colonne 4"
+
+#: inc/admin/function-panel-xlmega.php:161
+msgid "Select category 4"
+msgstr "Sélectionnez la catégorie 4"
+
+#: inc/admin/function-panel-xlmega.php:167
+msgid "Title for column 5"
+msgstr "Titre de la colonne 5"
+
+#: inc/admin/function-panel-xlmega.php:173
+msgid "Select category 5"
+msgstr "Sélectionnez la catégorie 5"
+
+#: inc/admin/function-panel-xlmega.php:320
+msgid "Grid strings blocks"
+msgstr "Blocs de chaînes de grille"
+
+#: inc/admin/function-panel-xlmega.php:321
+msgid "Grid narrow small blocks"
+msgstr "Grille de petits blocs étroits"
+
+#: inc/admin/function-panel-xlmega.php:322
+msgid "Grid narrow mid blocks"
+msgstr "Blocs médians étroits en grille"
+
+#: inc/admin/function-panel-xlmega.php:323
+msgid "Grid narrow big blocks"
+msgstr "Grille de gros blocs étroits"
+
+#: inc/admin/function-panel-xlmega.php:324
+msgid "Grid image blocks"
+msgstr "Blocs d'images en grille"
+
+#: inc/demo/demo.php:14 inc/demo/demo.php:23 inc/demo/demo.php:32
+#: inc/demo/demo.php:41 inc/demo/demo.php:50 inc/demo/demo.php:59
+#: inc/demo/demo.php:68 inc/demo/demo.php:77 inc/demo/demo.php:86
+#: inc/demo/demo.php:95 inc/demo/demo.php:104 inc/demo/demo.php:113
+#: inc/demo/demo.php:122
+msgid "News"
+msgstr "Actualités"
+
+#: inc/demo/demo.php:77 inc/demo/demo.php:161 inc/demo/demo.php:383
+#: inc/demo/demo.php:539
+msgid "Favorites"
+msgstr "Favoris"
+
+#: inc/demo/demo.php:134 inc/demo/demo.php:143 inc/demo/demo.php:152
+#: inc/demo/demo.php:161 inc/demo/demo.php:170 inc/demo/demo.php:179
+#: inc/demo/demo.php:188 inc/demo/demo.php:197 inc/demo/demo.php:206
+#: inc/demo/demo.php:215 inc/demo/demo.php:224 inc/demo/demo.php:233
+#: inc/demo/demo.php:242
+msgid "Cars"
+msgstr "Voitures"
+
+#: inc/demo/demo.php:374 inc/demo/demo.php:383 inc/demo/demo.php:392
+#: inc/demo/demo.php:401 inc/demo/demo.php:410 inc/demo/demo.php:419
+#: inc/demo/demo.php:428 inc/demo/demo.php:437 inc/demo/demo.php:446
+#: inc/demo/demo.php:455 inc/demo/demo.php:464 inc/demo/demo.php:473
+#: inc/demo/demo.php:482
+msgid "Travel"
+msgstr "Voyage"
+
+#: inc/demo/demo.php:494 inc/demo/demo.php:503 inc/demo/demo.php:512
+#: inc/demo/demo.php:521 inc/demo/demo.php:530 inc/demo/demo.php:539
+#: inc/demo/demo.php:548 inc/demo/demo.php:557 inc/demo/demo.php:566
+#: inc/demo/demo.php:575 inc/demo/demo.php:584 inc/demo/demo.php:593
+#: inc/demo/demo.php:602
+msgid "Food"
+msgstr "Nourriture"
+
+#: inc/function-customizer.php:7108
+msgid "Widget example (Pages)"
+msgstr "Exemple de widget (Pages)"
+
+#: inc/function-customizer.php:7121 inc/function-customizer.php:7198
+msgid "Widget example (Categories)"
+msgstr "Exemple de widget (Catégories)"
+
+#: inc/function-customizer.php:7134 inc/function-customizer.php:7181
+msgid "Widget example (Archives)"
+msgstr "Exemple de widget (Archives)"
+
+#: inc/function-customizer.php:7146
+msgid "Widget example (Tag cloud)"
+msgstr "Exemple de widget (nuage de tags)"
+
+#: inc/function-customizer.php:7163
+msgid "Widget (Categories)"
+msgstr "Widget (Catégories)"
+
+#: inc/function-customizer.php:7218
+msgid "Widget (Calendar)"
+msgstr "Widget (Calendrier)"
+
+#: inc/function-customizer.php:7397
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: inc/function-customizer.php:7664 inc/function-customizer.php:7686
+#: inc/general.php:332
+msgid "Search"
+msgstr "Rechercher"
+
+#. translators: Hidden accessibility text.
+#: inc/function-customizer.php:7694
+msgid "Close search"
+msgstr "Fermer la recherche"
+
+#: inc/general.php:44
+msgid ""
+"Airin Blog - is a Multipurpose, responsive, fast, minimal magazine theme for "
+"blogs and article sites, news and media, with many settings for all "
+"occasions. Modern minimalism combined with versatility and adaptability. "
+"Lots of customization options that will provide endless options for creating "
+"a unique site. Flexible functionality - different sidebar orientation, "
+"flexible header with logo, 4 menu locations, main menu (mega menu), three "
+"pagination options, breadcrumbs, author block and related posts. Powerful "
+"Typography - Change font size and line height, choose fonts, add color "
+"typography for posts and pages. Clean code, no frameworks, full support for "
+"the WordPress visual customizer. Speed, adaptability and modularity. A "
+"minimum of scripts for modules to work. Decide for yourself which modules "
+"will work. SEO optimization with correct titles and markup. Adaptation for "
+"WooCommerce, Elementor, bbPress, Events Calendar, Jetpack, WPML. Watch full "
+"demos here - airinblog.web-zone.org"
+msgstr ""
+"Airin Blog - est un thème de magazine polyvalent, réactif, rapide et minimal "
+"pour les blogs et les sites d'articles, d'actualités et de médias, avec de "
+"nombreux paramètres pour toutes les occasions. Minimalisme moderne combiné à "
+"la polyvalence et à l'adaptabilité. De nombreuses options de "
+"personnalisation qui offriront des options infinies pour créer un site "
+"unique. Fonctionnalité flexible - orientation différente de la barre "
+"latérale, en-tête flexible avec logo, 4 emplacements de menu, menu principal "
+"(méga menu), trois options de pagination, fil d'Ariane, bloc d'auteur et "
+"publications associées. Typographie puissante - Modifiez la taille de la "
+"police et la hauteur des lignes, choisissez les polices, ajoutez une "
+"typographie en couleur pour les articles et les pages. Code propre, pas de "
+"frameworks, prise en charge complète du personnalisateur visuel WordPress. "
+"Rapidité, adaptabilité et modularité. Un minimum de scripts pour que les "
+"modules fonctionnent. Décidez vous-même quels modules fonctionneront. "
+"Optimisation du référencement avec des titres et un balisage corrects. "
+"Adaptation pour WooCommerce, Elementor, bbPress, Events Calendar, Jetpack, "
+"WPML. Regardez les démos complètes ici - airinblog.web-zone.org"
+
+#: inc/general.php:107
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: inc/general.php:108
+msgid "Top Menu"
+msgstr "Menu du haut"
+
+#: inc/general.php:109
+msgid "Footer Menu"
+msgstr "Menu du pied de page"
+
+#: inc/general.php:110
+msgid "Widget Menu"
+msgstr "Menu des widgets"
+
+#: inc/general.php:218 inc/general.php:219 inc/general.php:220
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/general.php:229
+msgid "Side column"
+msgstr "Colonne latérale"
+
+#: inc/general.php:231
+msgid ""
+"These widgets are displayed in the right or left column, depending on the "
+"site settings"
+msgstr ""
+"Ces widgets sont affichés dans la colonne de droite ou de gauche, selon les "
+"paramètres du site"
+
+#: inc/general.php:240
+msgid "Side column (WooCommerce)"
+msgstr "Colonne latérale (WooCommerce)"
+
+#: inc/general.php:242
+msgid "These widgets are displayed in the sidebar on WooCommerce pages"
+msgstr "Ces widgets sont affichés dans la barre latérale des pages WooCommerce"
+
+#: inc/general.php:251
+msgid "Side column (bbPress)"
+msgstr "Colonne latérale (bbPress)"
+
+#: inc/general.php:253
+msgid "These widgets are displayed in the sidebar on bbPress pages"
+msgstr "Ces widgets sont affichés dans la barre latérale des pages bbPress"
+
+#: inc/general.php:262
+msgid "Side column (BuddyPress)"
+msgstr "Colonne latérale (BuddyPress)"
+
+#: inc/general.php:264
+msgid "These widgets are displayed in the sidebar on BuddyPress pages"
+msgstr "Ces widgets sont affichés dans la barre latérale des pages BuddyPress"
+
+#: inc/general.php:273
+msgid "Footer 1"
+msgstr "Pied de page 1"
+
+#: inc/general.php:275
+msgid "These widgets are displayed in the first column of the footer"
+msgstr "Ces widgets sont affichés dans la première colonne du pied de page"
+
+#: inc/general.php:282
+msgid "Footer 2"
+msgstr "Pied de page 2"
+
+#: inc/general.php:284
+msgid "These widgets are displayed in the second column of the footer"
+msgstr "Ces widgets sont affichés dans la deuxième colonne du pied de page"
+
+#: inc/general.php:291
+msgid "Footer 3"
+msgstr "Pied de page 3"
+
+#: inc/general.php:293
+msgid "These widgets are displayed in the third column of the footer"
+msgstr "Ces widgets sont affichés dans la troisième colonne du pied de page"
+
+#: inc/general.php:300
+msgid "Footer 4"
+msgstr "Pied de page 4"
+
+#: inc/general.php:302
+msgid "These widgets are displayed in the fourth column of the footer"
+msgstr "Ces widgets sont affichés dans la quatrième colonne du pied de page"
+
+#: inc/general.php:362
+msgid "Tag cloud"
+msgstr "Nuage de tag"
+
+#: inc/general.php:372
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/general.php:384
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/general.php:395 inc/general.php:407
+msgid "Title for text"
+msgstr "Titre du texte"
+
+#: inc/general.php:396 inc/general.php:408
+msgid "Test text"
+msgstr "Texte d'essai"
+
+#: inc/general.php:420
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: inc/general.php:574
+msgid "Nothing found:"
+msgstr "Rien n'a été trouvé:"
+
+#: inc/general.php:575
+msgid "No sorting"
+msgstr "Pas de tri"
+
+#: inc/general.php:604
+msgid "MENU"
+msgstr "MENU"
+
+#: inc/general.php:723
+msgid ""
+"\n"
+" Important!\n"
+"\n"
+" You are deleting all settings for the current theme.\n"
+"\n"
+" This action is irreversible!"
+msgstr ""
+"\n"
+" Important!\n"
+"\n"
+" Vous supprimez tous les paramètres du thème actuel.\n"
+"\n"
+" Cette action est irréversible !"
+
+#: inc/general.php:724
+msgid ""
+"\n"
+" Important!\n"
+"\n"
+" You change all colors of the current theme.\n"
+"\n"
+" This action is irreversible!"
+msgstr ""
+"\n"
+" Important!\n"
+"\n"
+" Vous changez toutes les couleurs du thème actuel.\n"
+"\n"
+" Cette action est irréversible !"
+
+#: inc/module/breadcrumb.php:168
+msgid "Posted by "
+msgstr "Publié par "
+
+#: inc/module/breadcrumb.php:174
+msgid "Error 404 "
+msgstr "Erreur 404 "
+
+#: inc/module/breadcrumb.php:179
+msgid "Page"
+msgstr "Page"
+
+#: inc/module/meta-tags.php:27 inc/module/meta-tags.php:240
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/module/meta-tags.php:33 inc/module/meta-tags.php:246
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/module/meta-tags.php:48 inc/module/meta-tags.php:335
+msgid "Number of comments on a post"
+msgstr "Nombre de commentaires sur une publication"
+
+#: inc/module/meta-tags.php:53 inc/module/meta-tags.php:340
+msgid "Comments"
+msgstr "Commentaires"
+
+#: inc/module/meta-tags.php:76 inc/module/meta-tags.php:385
+msgid "Views"
+msgstr "Vues"
+
+#: inc/module/meta-tags.php:98 inc/module/meta-tags.php:265
+msgid "Created"
+msgstr "Créé"
+
+#: inc/module/meta-tags.php:116 inc/module/meta-tags.php:153
+#: inc/module/meta-tags.php:283 inc/module/meta-tags.php:320
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/module/meta-tags.php:135 inc/module/meta-tags.php:302
+msgid "Updated"
+msgstr "Mis à jour"
+
+#: inc/module/meta-tags.php:173 inc/module/meta-tags.php:411
+#: inc/module/meta-tags.php:462
+msgid "Categories:"
+msgstr "Catégories:"
+
+#: inc/module/meta-tags.php:191 inc/module/meta-tags.php:433
+#: inc/module/meta-tags.php:480
+msgid "Tags:"
+msgstr "Mots-clés:"
+
+#: inc/module/meta-tags.php:221
+msgid "Less 1 min"
+msgstr "Moins 1 minute"
+
+#: inc/module/meta-tags.php:223
+msgid "min"
+msgstr "min"
+
+#: inc/module/meta-tags.php:363
+msgid "Reading time"
+msgstr "Temps de lecture"
+
+#: inc/module/top-menu.php:43
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/option/hook.php:44
+msgid "Page for adding codes"
+msgstr "Page d'ajout de codes"
+
+#: inc/option/hook.php:60
+msgid "Before closing HEAD tag"
+msgstr "Avant de fermer la balise HEAD"
+
+#: inc/option/hook.php:67
+msgid "Before the closing BODY tag"
+msgstr "Avant la balise de fermeture BODY"
+
+#: inc/option/hook.php:74
+msgid "Before the closing FOOTER tag"
+msgstr "Avant la balise de fermeture FOOTER"
+
+#: inc/option/hook.php:83
+msgid "Before top menu"
+msgstr "Avant le menu supérieur"
+
+#: inc/option/hook.php:89
+msgid "After top menu"
+msgstr "Après le menu supérieur"
+
+#: inc/option/hook.php:98
+msgid "Before main menu"
+msgstr "Avant le menu principal"
+
+#: inc/option/hook.php:104
+msgid "After main menu"
+msgstr "Après le menu principal"
+
+#: inc/option/hook.php:113
+msgid "After Wide slider"
+msgstr "Après le curseur large"
+
+#: inc/option/hook.php:122
+msgid "Top of footer"
+msgstr "Haut du pied de page"
+
+#: inc/option/hook.php:128
+msgid "Before bottom menu"
+msgstr "Avant le menu du bas"
+
+#: inc/option/hook.php:137
+msgid "Before the big slider on the main page"
+msgstr "Avant le gros curseur sur la page principale"
+
+#: inc/option/hook.php:143
+msgid "Before the \"Grid five blocks\" section on the main page"
+msgstr "Avant la section \"Grid five blocks\" sur la page principale"
+
+#: inc/option/hook.php:149
+msgid "Before the \"Grid narrow blocks\" section on the main page"
+msgstr "Avant la section \"Grid narrow blocks\" sur la page principale"
+
+#: inc/option/hook.php:155
+msgid "Before the \"Grid three blocks\" section on the main page"
+msgstr "Avant la section \"Grid three blocks\" sur la page principale"
+
+#: inc/option/hook.php:161
+msgid "Before the \"Vertical columns\" section on the main page"
+msgstr "Avant la section \"Vertical columns\" sur la page principale"
+
+#: inc/option/hook.php:167
+msgid "Before the \"Partial slider\" section on the main page"
+msgstr "Avant la section \"Partial slider\" sur la page principale"
+
+#: inc/option/hook.php:173
+msgid "Before the \"Slider three blocks\" section on the main page"
+msgstr "Avant la section \"Slider three blocks\" sur la page principale"
+
+#: inc/option/hook.php:179
+msgid "Before the \"Slider two blocks\" section on the main page"
+msgstr "Avant la section \"Slider two blocks\" sur la page principale"
+
+#: inc/option/hook.php:185
+msgid "Before the \"Rrecent posts\" section on the main page"
+msgstr "Avant la section \"Rrecent posts\" sur la page principale"
+
+#: inc/option/hook.php:191
+msgid "After the \"Rrecent posts\" section on the main page"
+msgstr "Après la section \"Messages récents\" sur la page principale"
+
+#: inc/option/hook.php:200
+msgid "Before breadcrumbs"
+msgstr "Avant le fil d’Ariane"
+
+#: inc/option/hook.php:209
+msgid "Before the list of posts on the category page"
+msgstr "Avant la liste des articles sur la page de catégorie"
+
+#: inc/option/hook.php:215
+msgid "After the list of posts on the category page"
+msgstr "Après la liste des articles sur la page de catégorie"
+
+#: inc/option/hook.php:224
+msgid "Before the main image inside the post"
+msgstr "Avant l'image principale à l'intérieur du message"
+
+#: inc/option/hook.php:230
+msgid "Before the title inside the post"
+msgstr "Avant le titre à l'intérieur du message"
+
+#: inc/option/hook.php:236
+msgid "Before meta data inside a post"
+msgstr "Avant les métadonnées dans une publication"
+
+#: inc/option/hook.php:242
+msgid "Before content within a post"
+msgstr "Avant le contenu d'un article"
+
+#: inc/option/hook.php:248
+msgid "Before the author section inside the post"
+msgstr "Avant la section auteur à l'intérieur du message"
+
+#: inc/option/hook.php:254
+msgid "Before the \"Next post\" block inside the post"
+msgstr "Avant le bloc \"Next post\" à l'intérieur du message"
+
+#: inc/option/hook.php:260
+msgid "Before the \"Related posts\" block inside the post"
+msgstr "Avant le bloc \"Related posts\" à l'intérieur du message"
+
+#: inc/option/hook.php:266
+msgid "Before the \"Comments\" block inside the post"
+msgstr "Avant le bloc \"Comments\" à l'intérieur du message"
+
+#: inc/option/hook.php:272
+msgid "At the end of the post"
+msgstr "À la fin du message"
+
+#: inc/option/hook.php:281
+msgid "Before the main image inside the page"
+msgstr "Avant l'image principale à l'intérieur de la page"
+
+#: inc/option/hook.php:287
+msgid "Before the title inside the page"
+msgstr "Avant le titre à l'intérieur de la page"
+
+#: inc/option/hook.php:293
+msgid "After the title inside the page"
+msgstr "Après le titre à l'intérieur de la page"
+
+#: inc/option/hook.php:299
+msgid "At the end of the page"
+msgstr "En fin de page"
+
+#: inc/option/hook.php:308
+msgid "Before searching for products (WooCommerce)"
+msgstr "Avant de rechercher des produits (WooCommerce)"
+
+#: inc/option/hook.php:314
+msgid "Above the product grid (WooCommerce)"
+msgstr "Au-dessus de la grille de produits (WooCommerce)"
+
+#: inc/option/hook.php:320
+msgid "After the product grid (WooCommerce)"
+msgstr "Après la grille produits (WooCommerce)"
+
+#: inc/option/hook.php:329
+msgid "At the top of the product page (WooCommerce)"
+msgstr "En haut de la page produit (WooCommerce)"
+
+#: inc/option/hook.php:335
+msgid "After the title on the product page (WooCommerce)"
+msgstr "Après le titre sur la page produit (WooCommerce)"
+
+#: inc/option/hook.php:341
+msgid "After the price on the product page (WooCommerce)"
+msgstr "Après le prix sur la page produit (WooCommerce)"
+
+#: inc/option/hook.php:347
+msgid "At the bottom of the product data on the product page (WooCommerce)"
+msgstr "En bas des données produit sur la page produit (WooCommerce)"
+
+#: inc/option/hook.php:353
+msgid "Before related products on product page (WooCommerce)"
+msgstr "Avant les produits associés sur la page produit (WooCommerce)"
+
+#: inc/option/hook.php:359
+msgid "At the end of the product page (WooCommerce)"
+msgstr "En fin de page produit (WooCommerce)"
+
+#: inc/option/hook.php:368
+msgid "Above the list of products on the shopping cart page (WooCommerce)"
+msgstr "Au-dessus de la liste des produits sur la page du panier (WooCommerce)"
+
+#: inc/option/hook.php:374
+msgid "After the list of products on the cart page (WooCommerce)"
+msgstr "Après la liste des produits sur la page du panier (WooCommerce)"
+
+#: inc/option/hook.php:380
+msgid "At the bottom of the cart page (WooCommerce)"
+msgstr "En bas de la page du panier (WooCommerce)"
+
+#: inc/option/hook.php:389
+msgid "Under the heading on the order page (WooCommerce)"
+msgstr "Sous le titre de la page de commande (WooCommerce)"
+
+#: inc/option/hook.php:395
+msgid "After the order details on the order page (WooCommerce)"
+msgstr "Après de les détails la commande sur la page de commande (WooCommerce)"
+
+#: inc/option/hook.php:401
+msgid "At the end of the order page (WooCommerce)"
+msgstr "En fin de page de commande (WooCommerce)"
+
+#: inc/option/hook.php:410
+msgid "Above the order information on the page - Order accepted (WooCommerce)"
+msgstr ""
+"Au dessus des informations de commande sur la page - Commande acceptée "
+"(WooCommerce)"
+
+#: inc/option/hook.php:416
+msgid ""
+"After the information about the order on the page - Order accepted "
+"(WooCommerce)"
+msgstr ""
+"Après les informations sur la commande sur la page - Commande acceptée "
+"(WooCommerce)"
+
+#: inc/option/hook.php:422
+msgid "At the bottom of the page - Order accepted (WooCommerce)"
+msgstr "En bas de page - Commande acceptée (WooCommerce)"
+
+#: inc/option/hook.php:431
+msgid "Top of personal account (WooCommerce)"
+msgstr "Haut du compte personnel (WooCommerce)"
+
+#: inc/option/hook.php:437
+msgid "At the bottom of the dashboard tab in personal account (WooCommerce)"
+msgstr ""
+"En bas de l'onglet du tableau de bord du compte personnel (WooCommerce)"
+
+#: inc/option/hook.php:443
+msgid "At the bottom of your personal account (WooCommerce)"
+msgstr "En bas de votre compte personnel (WooCommerce)"
+
+#: inc/option/hook.php:452
+msgid "Above the heading on the page (bbPress)"
+msgstr "Au-dessus du titre de la page (bbPress)"
+
+#: inc/option/hook.php:458
+msgid "After the title on the page (bbPress)"
+msgstr "Après le titre sur la page (bbPress)"
+
+#: inc/option/hook.php:464
+msgid "At the end of the page (bbPress)"
+msgstr "En fin de page (bbPress)"
+
+#: inc/option/hook.php:473
+msgid "Above the heading on the page (BuddyPress)"
+msgstr "Au-dessus du titre de la page (BuddyPress)"
+
+#: inc/option/hook.php:479
+msgid "After the title on the page (BuddyPress)"
+msgstr "Après le titre sur la page (BuddyPress)"
+
+#: inc/option/hook.php:485
+msgid "At the end of the page (BuddyPress)"
+msgstr "En fin de page (BuddyPress)"
+
+#: inc/option/set.php:32
+msgid "All settings saved!"
+msgstr "Tous les paramètres enregistrés !"
+
+#: inc/option/set.php:51
+msgid "Pro page"
+msgstr "Pro page"
+
+#: inc/option/set.php:59
+msgid "General"
+msgstr "Principal"
+
+#: inc/option/set.php:62
+msgid "Codes (Hooks theme)"
+msgstr "Codes (Hooks theme)"
+
+#: inc/option/set.php:70
+msgid "Information"
+msgstr "Information"
+
+#: inc/option/set.php:110
+msgid "Additional theme extension"
+msgstr "Extension de thème supplémentaire"
+
+#: inc/option/set.php:118
+msgid "Technical support"
+msgstr "Support technique"
+
+#: inc/option/set.php:128
+msgid "Additional support for PRO subscriptions"
+msgstr "Prise en charge supplémentaire pour les abonnements PRO"
+
+#: inc/option/set.php:177
+msgid "Avatar for users"
+msgstr "Avatar pour les utilisateurs"
+
+#: inc/option/set.php:185
+msgid "Change avatar (default) for users without an avatar"
+msgstr "Changer l'avatar (par défaut) pour les utilisateurs sans avatar"
+
+#: inc/option/set.php:205
+msgid "Removing extra image sizes"
+msgstr "Suppression des tailles d'image supplémentaires"
+
+#: inc/option/set.php:213
+msgid "Remove image slicing for 1920 x 1080"
+msgstr "Supprimer le découpage d'image pour 1920 x 1080"
+
+#: inc/option/set.php:224
+msgid "Remove image slicing for 2560 x 2560, aka \"scaled\""
+msgstr ""
+"Supprimer le découpage de l'image pour 2 560 x 2 560, c'est-à-dire \"à "
+"l'échelle\""
+
+#: inc/option/set.php:234
+msgid "Remove image slicing for 2048 x 2048"
+msgstr "Supprimer le découpage d'image pour 2048 x 2048"
+
+#: inc/option/set.php:244
+msgid "Remove image slicing for 1536 x 1536"
+msgstr "Supprimer le découpage de l'image pour 1536 x 1536"
+
+#: inc/option/set.php:254
+msgid "Remove image slicing for 768 x 768, aka \"medium_large\""
+msgstr "Supprimer le découpage d'image pour 768 x 768, alias \"medium_large\""
+
+#: inc/option/set.php:269
+msgid "Main post image"
+msgstr "Image du message principal"
+
+#: inc/option/set.php:277
+msgid ""
+"Add a new image size and apply the default for the main image of posts and "
+"pages"
+msgstr ""
+"Ajoutez une nouvelle taille d'image et appliquez la taille par défaut pour "
+"l'image principale des articles et des pages"
+
+#: inc/option/set.php:292
+msgid "To restore the default settings, clear the field data and save"
+msgstr ""
+"Pour restaurer les paramètres par défaut, effacez les données du champ et "
+"enregistrez"
+
+#: inc/option/set.php:323
+msgid ""
+"Some functionality is provided in a separate plugin (as required by "
+"WordPress)"
+msgstr ""
+"Certaines fonctionnalités sont fournies dans un plugin séparé (comme requis "
+"par WordPress)"
+
+#: inc/option/set.php:324
+msgid "To extend the theme, install the free plugin "
+msgstr "Pour étendre le thème, installez le plugin gratuit "
+
+#: inc/option/set.php:325
+msgid "What does this give?"
+msgstr "Qu'est-ce que cela donne ?"
+
+#: inc/option/set.php:326
+msgid "Additional widgets for the front part"
+msgstr "Widgets supplémentaires pour la partie avant"
+
+#: inc/option/set.php:327
+msgid "Two author widgets"
+msgstr "Deux widgets d'auteur"
+
+#: inc/option/set.php:328
+msgid "Two widgets for recent posts"
+msgstr "Deux widgets pour les publications récentes"
+
+#: inc/option/set.php:329
+msgid "Widget with slider"
+msgstr "Widget avec curseur"
+
+#: inc/option/set.php:330
+msgid "Widget with banner"
+msgstr "Widget avec bannière"
+
+#: inc/option/set.php:331
+msgid "Widget with links"
+msgstr "Widget avec liens"
+
+#: inc/option/set.php:332
+msgid "Additional useful functionality in the admin panel"
+msgstr "Fonctionnalité utile supplémentaire dans le panneau d'administration"
+
+#: inc/option/set.php:333
+msgid ""
+"Column \"Views of posts\" (counter) in the list of posts of the admin panel"
+msgstr ""
+"Colonne \"Vues des posts\" (compteur) dans la liste des posts du panneau "
+"d'administration"
+
+#: inc/option/set.php:334
+msgid "\"Thumbnails\" column in the list of admin posts"
+msgstr "Colonne \"Vignettes\" dans la liste des messages d'administrateur"
+
+#: inc/option/set.php:335
+msgid "Category filter in classic editor"
+msgstr "Filtre de catégorie dans l'éditeur classique"
+
+#: inc/option/set.php:336
+msgid "Disabling the block editor (Gutenberg) in a text editor"
+msgstr "Désactiver l'éditeur de blocs (Gutenberg) dans un éditeur de texte"
+
+#: inc/option/set.php:337
+msgid "Disabling block editor (Gutenberg) in widgets"
+msgstr "Désactivation de l'éditeur de blocs (Gutenberg) dans les widgets"
+
+#: inc/option/set.php:338
+msgid ""
+"Changing the WordPress graphics engine (useful if large photos are not "
+"loading)"
+msgstr ""
+"Changer le moteur graphique WordPress (utile si les grosses photos ne se "
+"chargent pas)"
+
+#: inc/option/set.php:339
+msgid "View more information"
+msgstr "Afficher plus d'informations"
+
+#: inc/option/set.php:366
+msgid "Management and configuration instruction for Airin Blog theme"
+msgstr "Instruction de gestion et de configuration pour le thème Airin Blog"
+
+#: inc/option/set.php:370
+msgid "Information materials for the Airin Blog theme"
+msgstr "Matériel d'information pour le thème du Airin Blog"
+
+#: inc/option/set.php:374
+msgid "Watch live sites demos"
+msgstr "Regardez des démos de sites en direct"
+
+#: inc/option/set.php:378
+msgid "Import ready-made demo versions of websites"
+msgstr "Importez des versions de démonstration prêtes à l'emploi de sites Web"
+
+#: inc/option/set.php:382 inc/option/set.php:393
+msgid "Rate this theme"
+msgstr "Noter ce thème"
+
+#: inc/option/set.php:410
+msgid ""
+"All settings of the front part of the theme are located in the visual editor"
+msgstr ""
+"Tous les paramètres de la partie avant du thème se trouvent dans l'éditeur "
+"visuel"
+
+#: inc/option/set.php:411
+msgid "Go to visual editor"
+msgstr "Accédez à l'éditeur visuel"
+
+#: inc/option/set.php:422
+msgid "Various settings of the administrative part of the theme"
+msgstr "Divers réglages de la partie administrative du thème"
+
+#: inc/option/set.php:435
+msgid "Avatar URL (only external address), demo - "
+msgstr "URL de l'avatar (uniquement adresse externe), démo - "
+
+#: inc/option/set.php:451
+msgid ""
+"When uploading an image to the media library, WordPress cuts many sizes from "
+"one image."
+msgstr ""
+"Lors du téléchargement d’une image dans la médiathèque, WordPress coupe "
+"plusieurs tailles à partir d’une seule image."
+
+#: inc/option/set.php:452
+msgid ""
+"All these files take up a huge amount of space, while some of them are not "
+"used at all."
+msgstr ""
+"Tous ces fichiers occupent énormément d’espace, alors que certains d’entre "
+"eux ne sont pas du tout utilisés."
+
+#: inc/option/set.php:453
+msgid ""
+"The presented settings allow you to remove from the slicing the largest "
+"sizes that are not used in this theme."
+msgstr ""
+"Les paramètres présentés permettent de supprimer du découpage les plus "
+"grandes tailles qui ne sont pas utilisées dans ce thème."
+
+#: inc/option/set.php:454 inc/option/set.php:518
+msgid ""
+"It is important to know! These settings cannot delete or modify existing "
+"image files. Slicing of images occurs at the time of uploading a new image "
+"to the WordPress media library."
+msgstr ""
+"Il est important de le savoir ! Ces paramètres ne peuvent pas supprimer ou "
+"modifier les fichiers image existants. Le découpage des images se produit au "
+"moment du téléchargement d'une nouvelle image dans la médiathèque WordPress."
+
+#: inc/option/set.php:460
+msgid ""
+"The size is registered by this theme. Used only when \"Full width website\" "
+"is set."
+msgstr ""
+"La taille est créée ce thème. Utilisé uniquement lorsque « Site Web pleine "
+"largeur » est défini."
+
+#: inc/option/set.php:466
+msgid ""
+"The size is registered by WordPress itself. Can be used by this theme when "
+"1920 x 1080 is disabled and set to Full Screen."
+msgstr ""
+"La taille est créée par WordPress lui-même. Peut être utilisé par ce thème "
+"lorsque 1920 x 1080 est désactivé et défini sur Plein écran."
+
+#: inc/option/set.php:472 inc/option/set.php:478 inc/option/set.php:484
+msgid "The size is registered by WordPress itself. Not used in this theme."
+msgstr "La taille est créée par WordPress lui-même. Non utilisé dans ce thème."
+
+#: inc/option/set.php:498
+msgid ""
+"These settings register a new size for the main (top) image of posts and "
+"pages."
+msgstr ""
+"Ces paramètres créer une nouvelle taille pour l'image principale (en haut) "
+"des articles et des pages."
+
+#: inc/option/set.php:501
+msgid ""
+"After applying, all new uploaded images will be supplemented with the new "
+"size, which is apply by default for the main image of posts and pages."
+msgstr ""
+"Après avoir postulé, toutes les nouvelles images téléchargées seront "
+"complétées par la nouvelle taille, qui s'applique par défaut à l'image "
+"principale des articles et des pages."
+
+#: inc/option/set.php:504
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/option/set.php:504 inc/option/set.php:517
+msgid "default"
+msgstr "défaut"
+
+#: inc/option/set.php:516
+msgid "Height"
+msgstr "Hauteur"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension : %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l'extension : %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur s'est produite avec l'API du plugin."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite l’extension suivante : %1$s."
+msgstr[1] "Ce thème nécessite les extensions suivantes : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande l’extension suivante : %1$s."
+msgstr[1] "Ce thème recommande les extensions suivantes : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"L’extensions suivante doit être mise à jour vers sa dernière version afin "
+"d’assurer une compatibilité maximale avec ce thème : %1$s."
+msgstr[1] ""
+"Les extensions suivantes doivent être mises à jour vers leur dernière "
+"version afin d’assurer une compatibilité maximale avec ce thème : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour: %1$s."
+msgstr[1] "Des mises à jour sont disponibles pour : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "L’extension requise suivante est actuellement inactive : %1$s."
+msgstr[1] ""
+"Les extensions requises suivantes sont actuellement inactives : %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "L’extension recommandée suivante est actuellement inactive :%1$s."
+msgstr[1] ""
+"Les extensions recommandées suivantes sont actuellement inactives :%1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l’installation de l’extension"
+msgstr[1] "Commencer l’installation des extentions"
+
+#: inc/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour de l’extension"
+msgstr[1] "Commencer la mise à jour des extensions"
+
+#: inc/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer l’activation de l’extension"
+msgstr[1] "Commencer l’activation des extensions"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur de plugins requis"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Extension activée avec succès."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully - "
+msgstr "Le plugin suivant a été activé avec succès - "
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune mesure prise. L'extension %1$s était déjà active."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"L'extension n’est pas activée. Une version plus récente de %s est nécessaire "
+"pour ce thème. Veuillez mettre à jour l'extension."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées avec succès. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Ignorer cet avertissement"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Il y a une ou plusieurs extensions requises ou recommandées à installer, "
+"mettre à jour ou activer."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Ce plugin doit être mis à jour pour être compatible avec votre thème."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le package de plugin distant ne contient pas de dossier avec le slug "
+"souhaité et le renommage n'a pas fonctionné."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Veuillez contacter le fournisseur de l'extension et demandez-lui de "
+"conditionner son extension selon les lignes directrices de WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le package de plugin distant se compose de plusieurs fichiers, mais les "
+"fichiers ne sont pas emballés dans un dossier."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requis"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Dépôt WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actif"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Activer <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Pas de plugins à installer, à mettre à jour ou à activer."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Statut"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l’auteur de l’extension :"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être installée. Aucune mesure "
+"prise."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucune extension n’a été sélectionnée pour être mise à jour. Aucune mesure "
+"prise."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n’est disponible pour être installée pour le moment."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension n'est disponible pour être mise à jour en ce moment."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucun plugin n'a été sélectionné pour être activé. Pas d'action prise."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n'est disponible pour être activée en ce moment."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "L’extension suivante a été activée avec succès :"
+msgstr[1] "Les extensions suivantes ont été activées avec succès :"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "L’activation du plugin a échoué."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur s'est produite lors de l'installation de %1$s: <strong>%2$s</"
+"strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d’installation et d’activation commence… Ce processus peut "
+"prendre un certain temps sur certains serveurs, soyez patients."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été effectuées."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation du plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation démarre. Ce processus peut prendre un certain "
+"temps sur certains hôtes, alors soyez patient."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plugin %1$s (%2$d/%3$d)"
+
+#: search.php:19
+#, php-format
+msgid "Search results for: %s"
+msgstr "Résultats de recherche pour: %s"
+
+#: template-parts/content-archive.php:61
+msgid "Read more"
+msgstr "Lire la suite"
+
+#: template-parts/content-autor.php:25
+msgid "Author photo"
+msgstr "Photo d’auteur"
+
+#: template-parts/content-autor.php:44
+msgid "Publication date:"
+msgstr "Date de publication:"
+
+#: template-parts/content-autor.php:52 template-parts/content-autor.php:61
+msgid "Author:"
+msgstr "Auteur:"
+
+#: template-parts/content-autor.php:80
+msgid "Latest posts (Author)"
+msgstr "Derniers articles (Auteur)"
+
+#: template-parts/content-next-post.php:17
+msgid "Previous post"
+msgstr "Article précédent"
+
+#: template-parts/content-next-post.php:40
+msgid "Next post"
+msgstr "Article suivant"
+
+#: template-parts/content-none.php:13
+msgid "Site not ready"
+msgstr "Le site n'est pas prêt"
+
+#: template-parts/content-none.php:15
+msgid "Nothing found"
+msgstr "Aucun résultat"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Start here</a>."
+msgstr ""
+"Prêt à publier votre premier poste? <a href=\"%1$s\">Commencer ici</a> ."
+
+#: template-parts/content-none.php:36
+msgid "Nothing matched your search terms. Try other keywords."
+msgstr ""
+"Rien ne correspond à vos termes de recherche. Essayez d'autres mots-clés."
+
+#: template-parts/content-none.php:93
+msgid "We cannot find what you are looking for. Try using search."
+msgstr ""
+"Nous ne trouvons pas ce que vous cherchez. Essayez d'utiliser la recherche."
+
+#: template-parts/content-page.php:58
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-page.php:67 template-parts/content-single.php:99
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: template-parts/content-single.php:82
+msgid "Posts:"
+msgstr "Articles:"
+
+#: templates/page-left-sidebar.php:11 templates/post-left-sidebar.php:11
+msgid "Airin Blog Left sidebar"
+msgstr "Airin Blog Left sidebar"
+
+#: templates/page-nosidebar-center.php:11
+#: templates/post-nosidebar-center.php:11
+msgid "Airin Blog No sidebar (center)"
+msgstr "Airin Blog No sidebar (center)"
+
+#: templates/page-nosidebar-full.php:11 templates/post-nosidebar-full.php:11
+msgid "Airin Blog No sidebar (full width)"
+msgstr "Airin Blog No sidebar (full width)"
+
+#: templates/page-right-sidebar.php:11 templates/post-right-sidebar.php:11
+msgid "Airin Blog Right sidebar"
+msgstr "Airin Blog Right sidebar"
+
+#: templates/template-new-posts.php:10
+msgid "Airin Blog New Posts"
+msgstr "Airin Blog New Posts"
+
+#: templates/template-site-map.php:10
+msgid "Airin Blog Site Map"
+msgstr "Airin Blog Site Map"
+
+#: woocommerce/loop/no-products-found.php:22
+msgid "No products were found matching your selection."
+msgstr "Aucun produit ne correspond à votre sélection."
+
+#. Theme Name of the plugin/theme
+msgid "Airin Blog"
+msgstr "Airin Blog"
+
+#. Theme URI of the plugin/theme
+msgid "https://airinblog.web-zone.org"
+msgstr "https://airinblog.web-zone.org"
+
+#. Author of the plugin/theme
+msgid "DMCWebZone"
+msgstr "DMCWebZone"
+
+#. Author URI of the plugin/theme
+msgid "https://web-zone.org"
+msgstr "https://web-zone.org"
+
+#~ msgid "Advanced settings"
+#~ msgstr "Paramètres avancés"
+
+#~ msgid "Background color main menu and footer"
+#~ msgstr "Couleur d'arrière-plan du menu principal et du pied de page"
+
+#~ msgid "Remove \"Read more\" button from posts blocks in categories"
+#~ msgstr ""
+#~ "Supprimer le bouton \"Lire la suite\" des blocs de publications dans les "
+#~ "catégories"
+
+#~ msgid "Reset theme settings"
+#~ msgstr "Réinitialiser les paramètres du thème"
+
+#~ msgid ""
+#~ "Im sure I want to reset all settings for this theme and I understand the "
+#~ "risks of permanent data loss"
+#~ msgstr ""
+#~ "Je suis sûr de vouloir réinitialiser tous les paramètres de ce thème et "
+#~ "je comprends les risques de perte permanente de données"
+
+#~ msgid "Important! Please backup your database before using this feature."
+#~ msgstr ""
+#~ "Important! Veuillez sauvegarder votre base de données avant d'utiliser "
+#~ "cette fonctionnalité."
+
+#~ msgid ""
+#~ "Airin Blog the most adaptive and fast theme for blogs and article sites."
+#~ msgstr ""
+#~ "Airin Blog, le thème le plus adaptatif et le plus rapide pour les blogs "
+#~ "et les sites d'articles."
+
+#~ msgid "Full width template"
+#~ msgstr "Site Web pleine largeur"
+
+#~ msgid "Orientation of the template on the main page"
+#~ msgstr "Orientation du modèle sur la page principale"
+
+#~ msgid "Ticker activation in the top bar"
+#~ msgstr "Activation du ticker dans la barre supérieure"
+
+#~ msgid "Ticker color"
+#~ msgstr "Couleur du ticker"
+
+#~ msgid "Ticker text size"
+#~ msgstr "Taille du texte du téléscripteur"
+
+#~ msgid "Number of letters in description"
+#~ msgstr "Nombre de lettres dans la description"
+
+#~ msgid "50 - 1000 (default 150 letters)"
+#~ msgstr "50 - 1 000 (150 lettres par défaut)"
+
+#~ msgid "Site wide template orientation"
+#~ msgstr "Modèle pleine largeur"
+
+#~ msgid "General links color"
+#~ msgstr "Couleur générale des liens"
+
+#~ msgid "Default, general links color"
+#~ msgstr "Défaut, Couleur générale pour les liens"
+
+#~ msgid "Dropdown menu links background color (on hover)"
+#~ msgstr "Couleur d'arrière-plan des liens du menu déroulant (au survol)"
+
+#~ msgid "Main menu item orientation"
+#~ msgstr "Orientation des éléments du menu principal"
+
+#~ msgid "Centered \"Read more\" button"
+#~ msgstr "Afficher le bouton \"Lire la suite\" au centre"
+
+#~ msgid "Record creation date"
+#~ msgstr "Date de création de l'enregistrement"
+
+#~ msgid "Record update date"
+#~ msgstr "Date de mise à jour du dossier"
+
+#~ msgid "Quote block design"
+#~ msgstr "Conception de bloc de devis"
+
+#~ msgid "Quote block background color"
+#~ msgstr "Couleur d’arrière-plan du bloc de citation"
+
+#~ msgid "Quote block text color"
+#~ msgstr "Couleur du texte pour le bloc de citation"
+
+#~ msgid "Straight quotes"
+#~ msgstr "Citations rectangulaires"
+
+#~ msgid "Quote block icons color"
+#~ msgstr "Couleur des icônes pour le bloc de citation"
+
+#~ msgid "Quote block icon size"
+#~ msgstr "Taille de l'icône du bloc de devis"
+
+#~ msgid "Author block separator variation"
+#~ msgstr "Variation du séparateur pour le bloc auteur"
+
+#~ msgid "Full-width slider block"
+#~ msgstr "Bloc coulissant pleine largeur"
+
+#~ msgid "Posts background color on hover"
+#~ msgstr "Couleur d'arrière-plan des publications (au survol)"
+
+#~ msgid "Business"
+#~ msgstr "Entreprise"
+
+#~ msgid "Technology"
+#~ msgstr "Technologie"

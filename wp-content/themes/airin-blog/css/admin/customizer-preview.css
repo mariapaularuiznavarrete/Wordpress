@@ -1,0 +1,107 @@
+/* ------------------------------------------------------------------------------
+* Author: web-zone.org
+* @package Airin Blog
+* Description: Styles for Preview Customizer
+* ------------------------------------------------------------------------------ */
+
+/*
+Changing the position of the editing pencil button in the customizer preview area
+*/
+
+/* Top menu marker (base) */
+.airinblog-css-top-menu-pc .customize-partial-edit-shortcut button {
+  margin-left: 25px;
+  margin-top: 5px;
+}
+
+/* Main menu markers */
+.airinblog-css-mega-menu-box .customize-partial-edit-shortcut button {
+  margin-left: 35px;
+  margin-top: -20px;
+}
+.airinblog-css-mega-menu > ul .customize-partial-edit-shortcut button {
+  left: -15px;
+}
+
+/* Marker - Social Links */
+.airinblog-css-site-brand-top-2 .airinblog-css-soc-top-box .customize-partial-edit-shortcut button {
+  top: -55px;
+  left: -55px;
+}
+
+/* Marker - Top search */
+.airinblog-css-soc-search .customize-partial-edit-shortcut button {
+  top: 40px;
+  left: -15px;
+}
+
+/* Marker - Main page */
+/* Marker - Category style */
+.airinblog-css-home-box .customize-partial-edit-shortcut button,
+.airinblog-css-cat-box .customize-partial-edit-shortcut button {
+  height: 40px;
+  width: 40px;
+}
+
+/* Marker - Category style */
+.airinblog-css-cat-meta-boxs .customize-partial-edit-shortcut button {
+  height: 25px;
+  width: 25px;
+}
+
+/* Marker - Pagination */
+.nav-links .customize-partial-edit-shortcut button,
+.airinblog-css-loadmore .customize-partial-edit-shortcut button {
+  top: 40px;
+}
+
+/* Markers meta tags */
+.airinblog-css-post-meta-boxs .customize-partial-edit-shortcut button {
+  top: -20px;
+}
+
+/* Markers bulleted lists */
+.airinblog-css-mod-pp-content > ul .customize-partial-edit-shortcut button,
+.airinblog-css-post-content > ul .customize-partial-edit-shortcut button,
+.airinblog-css-page-content > ul .customize-partial-edit-shortcut button {
+  left: -55px;
+}
+
+/* Markers numbered lists */
+.airinblog-css-mod-pp-content > ol .customize-partial-edit-shortcut button,
+.airinblog-css-post-content > ol .customize-partial-edit-shortcut button,
+.airinblog-css-page-content > ol .customize-partial-edit-shortcut button {
+  left: -50px;
+}
+
+/* Markers quotes */
+.airinblog-css-mod-pp-content > blockquote .customize-partial-edit-shortcut button,
+.airinblog-css-post-content > blockquote .customize-partial-edit-shortcut button,
+.airinblog-css-page-content > blockquote .customize-partial-edit-shortcut button {
+  left: -55px;
+}
+
+/* Markers headlines */
+.airinblog-css-mod-pp-content > h2 .customize-partial-edit-shortcut button,
+.airinblog-css-post-content > h2 .customize-partial-edit-shortcut button,
+.airinblog-css-page-content > h2 .customize-partial-edit-shortcut button,
+.airinblog-css-mod-pp-content > h3 .customize-partial-edit-shortcut button,
+.airinblog-css-post-content > h3 .customize-partial-edit-shortcut button,
+.airinblog-css-page-content > h3 .customize-partial-edit-shortcut button {
+  left: -40px;
+}
+
+/* Marker - Author's block */
+.airinblog-css-bio-post-box .customize-partial-edit-shortcut button {
+  left: -55px;
+}
+
+/* Marker - block - Next post */
+.airinblog-css-np-box .customize-partial-edit-shortcut button {
+  left: -20px;
+}
+
+/* Marker - WooCommerce - breadcrumbs */
+.woocommerce-breadcrumb .customize-partial-edit-shortcut button {
+  top: -20px;
+}

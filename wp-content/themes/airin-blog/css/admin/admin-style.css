@@ -1,0 +1,16 @@
+/* ------------------------------------------------------------------------------
+* Author: web-zone.org
+* @package Airin Blog
+* Description: Styles for the admin panel
+* ------------------------------------------------------------------------------ */
+
+
+
+.airinblog-css-setting-admin-text {
+    font-size: 1.15em;
+    font-weight: 700;
+}
+
+.airinblog-css-setting-admin-title {
+    font-size: 1.438em;
+}

@@ -1,0 +1,29 @@
+/* ------------------------------------------------------------------------------
+* Author: web-zone.org
+* @package Airin Blog
+* Description: Styles for WPML
+* ------------------------------------------------------------------------------ */
+
+
+/* Padding for link icons in posts and pages (for older versions WPML) */
+.airinblog-css-post-content .wpml-ls-flag,
+.airinblog-css-page-content .wpml-ls-flag {
+	margin-left: 5px;
+}
+
+/* Padding for menu icons */
+.airinblog-css-mega-menu-box .wpml-ls-flag, .airinblog-css-top-menu .wpml-ls-flag, .airinblog-css-footer-menu .wpml-ls-flag, .widget .wpml-ls-flag {
+	margin-right: 5px;
+}
+
+/* Widget padding */
+.wpml-ls-legacy-dropdown, .wpml-ls-legacy-dropdown-click, .wpml-ls-legacy-list-vertical {
+	margin-top: 14px;
+}
+
+/* Settings for the block below the footer */
+.wpml-ls-statics-footer {
+	max-width: 1225px;
+	margin: auto;
+  	box-shadow: 0.1em 0.1em 0.3em rgb(0 0 0 / 20%);
+}

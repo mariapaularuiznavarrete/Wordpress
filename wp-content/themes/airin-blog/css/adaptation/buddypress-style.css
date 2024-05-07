@@ -1,0 +1,22 @@
+/* ------------------------------------------------------------------------------
+* Author: web-zone.org
+* @package Airin Blog
+* Description: Styles common for BuddyPress
+* ------------------------------------------------------------------------------ */
+
+
+/* Custom sidebar control for BuddyPress */
+/* This also prevents the sidebar from being removed if it is removed in the general settings. */
+.buddypress #primary {
+  width: 72.38%;
+  float: left;
+}
+.buddypress.airinblog-css-left-sidebar #primary {
+  float: right;
+}
+@media (max-width: 960px) {
+	.buddypress #primary,
+  .buddypress.airinblog-css-left-sidebar #primary {
+    width: 100%;
+  }
+}

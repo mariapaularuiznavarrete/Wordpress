@@ -1,0 +1,49 @@
+/* ------------------------------------------------------------------------------
+* Author: web-zone.org
+* @package Airin Blog
+* Description: Styles for bbPress
+* ------------------------------------------------------------------------------ */
+
+/* Custom sidebar control for bbpress */
+/* This also prevents the sidebar from being removed if it is removed in the general settings. */
+.bbpress #primary {
+  width: 72.38%;
+  float: left;
+}
+.bbpress.airinblog-css-left-sidebar #primary {
+  float: right;
+}
+@media (max-width: 960px) {
+	.bbpress #primary,
+  .bbpress.airinblog-css-left-sidebar #primary {
+    width: 100%;
+  }
+}
+
+/* Editing the category name in the list of forums (sticks to neighboring elements) */
+li.bbp-forum.css-sep a {
+  padding-left: 5px;
+}
+
+/* Edit post date (sticks to neighboring elements) */
+.bbp-reply-post-date {
+  margin-right: 10px;
+}
+
+/* Removing unnecessary columns in the list of forums on small screens */
+@media (max-width: 480px) {
+  .bbp-topic-voice-count,
+  .bbp-topic-reply-count,
+  .bbp-topic-freshness,
+  .bbp-forum-topic-count,
+  .bbp-forum-reply-count,
+  .bbp-forum-freshness {
+    display: none;
+  }
+  .bbpress li.bbp-topic-title,
+  .bbpress li.bbp-topic-info,
+  .bbpress li.bbp-forum-title,
+  .bbpress li.bbp-forum-info {
+    width: 100%;
+  }
+}

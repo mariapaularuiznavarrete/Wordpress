@@ -1,0 +1,4864 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Airin Blog\n"
+"POT-Creation-Date: 2024-04-20 09:51+0700\n"
+"PO-Revision-Date: 2024-04-20 09:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:14
+msgid "Unfortunately! This page cannot be found."
+msgstr "Không may thay! Trang này không thể được tìm thấy."
+
+#: 404.php:21
+msgid ""
+"Nothing was found at this location. Try one of the links below or use the "
+"search."
+msgstr ""
+"Không có gì được tìm thấy ở vị trí này. Hãy thử một trong các liên kết dưới "
+"đây hoặc sử dụng tìm kiếm."
+
+#: 404.php:41 template-parts/content-none.php:54
+msgid "Most popular categories"
+msgstr "Danh mục phổ biến nhất"
+
+#: 404.php:62 template-parts/content-none.php:75
+#, php-format
+msgid "Try searching the monthly archives. %1$s"
+msgstr "Hãy thử tìm kiếm các kho lưu trữ hàng tháng. %1$s"
+
+#: archive.php:85 inc/function-customizer.php:7398
+#: template-parts/home/home-article.php:74
+msgid "Show more"
+msgstr "Hiển thị nhiều hơn"
+
+#: archive.php:97 template-parts/home/home-article.php:86
+#: templates/template-new-posts.php:45
+msgid "Previous posts"
+msgstr "Bài viết trước"
+
+#: archive.php:100 template-parts/home/home-article.php:89
+#: templates/template-new-posts.php:46
+msgid "Next posts"
+msgstr "Bài viết tiếp theo"
+
+#: archive.php:114
+msgid "There are no posts in this category. Perhaps a search will help."
+msgstr ""
+"Không có bài viết nào trong thể loại này. Có lẽ một tìm kiếm sẽ giúp ích."
+
+#: comments.php:20
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Một suy nghĩ về &ldquo;%1$s&rdquo;"
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+"%1$s suy nghĩ về chủ đề &ldquo;%2$s&rdquo;\n"
+"\n"
+"%1$s suy nghĩ về chủ đề &ldquo;%2$s&rdquo;"
+
+#: comments.php:39 comments.php:59
+msgid "Old comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:40 comments.php:60
+msgid "Latest comments"
+msgstr "Bình luận mới nhất"
+
+#: comments.php:72
+msgid "Comments closed"
+msgstr "Đã đóng bình luận"
+
+#: functions.php:65
+msgid "Account"
+msgstr "Tài khoản"
+
+#: functions.php:69
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: functions.php:73
+msgid "Affiliate program"
+msgstr "Chương trình liên kết"
+
+#: header.php:20
+msgid "Skip to main content"
+msgstr "Đến nội dung chính"
+
+#: inc/adaptation/function-woo.php:702 inc/adaptation/function-woo.php:722
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng của bạn"
+
+#: inc/adaptation/function-woo.php:718
+msgid "Your order"
+msgstr "Đơn hàng của bạn"
+
+#: inc/adaptation/function-woo.php:815
+#: woocommerce/loop/no-products-found.php:25
+msgid "Popular products"
+msgstr "Sản phẩm phổ biến"
+
+#: inc/adaptation/function-woo.php:830
+msgid "Not available"
+msgstr "Không khả dụng"
+
+#: inc/adaptation/function-woo.php:885 inc/admin/customizer.php:6036
+#: inc/admin/customizer.php:6042
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: inc/admin/customizer.php:13 inc/admin/customizer.php:29
+#: inc/admin/customizer.php:1755
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/admin/customizer.php:93
+msgid "Template orientation"
+msgstr "Hướng mẫu"
+
+#: inc/admin/customizer.php:105
+msgid "Sidebar orientation on the entire site"
+msgstr "Hướng thanh bên trên toàn bộ trang web"
+
+#: inc/admin/customizer.php:109 inc/admin/customizer.php:129
+msgid "Right sidebar"
+msgstr "Sidebar phải"
+
+#: inc/admin/customizer.php:110 inc/admin/customizer.php:130
+msgid "Left sidebar"
+msgstr "Sidebar trái"
+
+#: inc/admin/customizer.php:111 inc/admin/customizer.php:131
+msgid "No sidebar (full width)"
+msgstr "Không có thanh bên (toàn bộ chiều rộng)"
+
+#: inc/admin/customizer.php:112 inc/admin/customizer.php:132
+msgid "No sidebar (center)"
+msgstr "Không có thanh bên (ở giữa)"
+
+#: inc/admin/customizer.php:125
+msgid "Sidebar orientation on main page"
+msgstr "Hướng thanh bên trên trang chính"
+
+#: inc/admin/customizer.php:154
+msgid "Full width website"
+msgstr "Trang web có chiều rộng đầy đủ"
+
+#: inc/admin/customizer.php:162
+msgid "Add margin at the top and bottom of the site (PC version only)"
+msgstr "Thêm lề ở đầu và cuối trang (chỉ phiên bản PC)"
+
+#: inc/admin/customizer.php:177
+msgid "Top margin"
+msgstr "Lề trên"
+
+#: inc/admin/customizer.php:181 inc/admin/customizer.php:204
+#: inc/admin/customizer.php:573 inc/admin/customizer.php:726
+#: inc/admin/customizer.php:1407 inc/admin/customizer.php:5101
+#: inc/admin/function-panel-xlmega.php:407
+msgid "Off"
+msgstr "Tắt"
+
+#: inc/admin/customizer.php:200
+msgid "Bottom margin"
+msgstr "Lề dưới"
+
+#: inc/admin/customizer.php:224 inc/admin/function-panel-color.php:491
+msgid "Color schemes"
+msgstr "Phối màu"
+
+#: inc/admin/customizer.php:234
+msgid "Common colors"
+msgstr "Màu sắc phổ biến"
+
+#: inc/admin/customizer.php:240
+msgid "Website background color"
+msgstr "Màu nền trang web"
+
+#: inc/admin/customizer.php:255
+msgid "Primary theme color"
+msgstr "Màu chủ đề chính"
+
+#: inc/admin/customizer.php:256 inc/admin/customizer.php:271
+msgid "(Buttons, icons, lines and other design elements)"
+msgstr "(Nút, biểu tượng, đường kẻ và các yếu tố thiết kế khác)"
+
+#: inc/admin/customizer.php:270
+msgid "Related elements for the main theme color"
+msgstr "Các yếu tố liên quan cho màu chủ đề chính"
+
+#: inc/admin/customizer.php:287
+msgid "General color for links"
+msgstr "Màu sắc chung cho các liên kết"
+
+#: inc/admin/customizer.php:302
+msgid "General links color on hover"
+msgstr "Màu liên kết chung khi di chuột"
+
+#: inc/admin/customizer.php:316
+msgid "Site header background color"
+msgstr "Màu nền tiêu đề trang web"
+
+#: inc/admin/customizer.php:330
+msgid "Site body background color"
+msgstr "Màu nền nội dung trang web"
+
+#: inc/admin/customizer.php:344
+msgid "General text color"
+msgstr "Màu văn bản chung"
+
+#: inc/admin/customizer.php:358
+msgid "Titles text general color"
+msgstr "Màu chung của văn bản tiêu đề"
+
+#: inc/admin/customizer.php:372
+msgid "General typography"
+msgstr "Kiểu chữ chung"
+
+#: inc/admin/customizer.php:384
+msgid "General text font"
+msgstr "Phông chữ văn bản chung"
+
+#: inc/admin/customizer.php:398
+msgid "Overall text size"
+msgstr "Kích thước văn bản tổng thể"
+
+#: inc/admin/customizer.php:399 inc/admin/customizer.php:890
+#: inc/admin/customizer.php:5163
+msgid "5 - 50 px (default 16 px)"
+msgstr "5 - 50 px (mặc định 16 px)"
+
+#: inc/admin/customizer.php:412
+msgid "Total line height of text"
+msgstr "Tổng chiều cao dòng của văn bản"
+
+#: inc/admin/customizer.php:413
+msgid "0.8 - 5 (default 1.5)"
+msgstr "0,8 - 5 (mặc định 1,5)"
+
+#: inc/admin/customizer.php:436
+msgid "General heading font"
+msgstr "Phông chữ tiêu đề chung"
+
+#: inc/admin/customizer.php:450
+msgid "Total heading size h1 (5 - 100 px, default 32 px)"
+msgstr "Tổng kích thước tiêu đề h1 (5 - 100 px, mặc định 32 px)"
+
+#: inc/admin/customizer.php:463
+msgid "Total heading size H2 (5 - 100 px, default 26 px)"
+msgstr "Tổng kích thước tiêu đề H2 (5 - 100 px, mặc định 26 px)"
+
+#: inc/admin/customizer.php:476
+msgid "Total heading size H3 (5 - 100 px, default 24 px)"
+msgstr "Tổng kích thước tiêu đề H3 (5 - 100 px, mặc định 24 px)"
+
+#: inc/admin/customizer.php:489
+msgid "Total heading size H4 (5 - 100 px, default 22 px)"
+msgstr "Tổng kích thước tiêu đề H4 (5 - 100 px, mặc định 22 px)"
+
+#: inc/admin/customizer.php:502
+msgid "Total heading size H5 (5 - 100 px, default 20 px)"
+msgstr "Tổng kích thước tiêu đề H5 (5 - 100 px, mặc định 20 px)"
+
+#: inc/admin/customizer.php:515
+msgid "Total heading size H6 (5 - 100 px, default 18 px)"
+msgstr "Tổng kích thước tiêu đề H6 (5 - 100 px, mặc định 18 px)"
+
+#: inc/admin/customizer.php:528
+msgid "Overall header row height (0.8 - 5, default 1.5)"
+msgstr "Chiều cao tổng thể của hàng tiêu đề (0,8 - 5, mặc định 1,5)"
+
+#: inc/admin/customizer.php:541
+msgid "Top part"
+msgstr "Phần trên cùng"
+
+#: inc/admin/customizer.php:556
+msgid "Top bar"
+msgstr "Thanh trên cùng"
+
+#: inc/admin/customizer.php:569
+msgid "Display option (Ticker or Date)"
+msgstr "Tùy chọn hiển thị (Ticker hoặc Date)"
+
+#: inc/admin/customizer.php:574
+msgid "Ticker"
+msgstr "Người đánh dấu"
+
+#: inc/admin/customizer.php:575
+msgid "Date"
+msgstr "Ngày"
+
+#: inc/admin/customizer.php:587
+msgid "Proportion of width occupied by top menu"
+msgstr "Tỷ lệ chiều rộng được chiếm bởi menu trên cùng"
+
+#: inc/admin/customizer.php:610
+msgid "Category where the ticker comes from"
+msgstr "Danh mục nơi mã đánh dấu đến từ"
+
+#: inc/admin/customizer.php:613
+msgid ""
+"Ticker is taken from the title of the last entry in the selected category"
+msgstr "Mã được lấy từ tiêu đề của mục cuối cùng trong danh mục đã chọn"
+
+#: inc/admin/customizer.php:627
+msgid "Text color"
+msgstr "Màu chữ"
+
+#: inc/admin/customizer.php:640
+msgid "Text size"
+msgstr "Kích thước chữ"
+
+#: inc/admin/customizer.php:641 inc/admin/customizer.php:876
+msgid "5 - 50 px (default 14 px)"
+msgstr "5 - 50 px (mặc định 14 px)"
+
+#: inc/admin/customizer.php:654
+msgid "Uppercase text"
+msgstr "Văn bản viết hoa"
+
+#: inc/admin/customizer.php:667
+msgid "Where to get the date"
+msgstr "Lấy ngày ở đâu"
+
+#: inc/admin/customizer.php:671
+msgid "Set settings here"
+msgstr "Đặt cài đặt tại đây"
+
+#: inc/admin/customizer.php:672
+msgid "From WordPress settings"
+msgstr "Từ cài đặt WordPress"
+
+#: inc/admin/customizer.php:684
+msgid "Date format"
+msgstr "Định dạng ngày tháng"
+
+#: inc/admin/customizer.php:688
+msgid "Date + Month + Year"
+msgstr "Ngày + Tháng + Năm"
+
+#: inc/admin/customizer.php:689
+msgid "Month + Date + Year"
+msgstr "Tháng + Ngày + Năm"
+
+#: inc/admin/customizer.php:690
+msgid "Year + Month + Date"
+msgstr "Năm + Tháng + Ngày"
+
+#: inc/admin/customizer.php:702
+msgid "Separator between numbers"
+msgstr "Dấu phân cách giữa các số"
+
+#: inc/admin/customizer.php:706
+msgid "Spaces"
+msgstr "Dấu Cách"
+
+#: inc/admin/customizer.php:707
+msgid "Dash ( - )"
+msgstr "Dấu gạch ngang ( - )"
+
+#: inc/admin/customizer.php:708
+msgid "Dot ( . )"
+msgstr "Chấm ( . )"
+
+#: inc/admin/customizer.php:709
+msgid "Slash ( / )"
+msgstr "Gạch chéo ( / )"
+
+#: inc/admin/customizer.php:710
+msgid "Vertical line ( | )"
+msgstr "Đường dọc ( | )"
+
+#: inc/admin/customizer.php:722
+msgid "Display weeks"
+msgstr "Hiển thị tuần"
+
+#: inc/admin/customizer.php:727
+msgid "Before"
+msgstr "Trước"
+
+#: inc/admin/customizer.php:728
+msgid "After"
+msgstr "Sau"
+
+#: inc/admin/customizer.php:740
+msgid "Month in letters"
+msgstr "Tháng bằng chữ cái"
+
+#: inc/admin/customizer.php:753
+msgid "Display year"
+msgstr "Năm hiển thị"
+
+#: inc/admin/customizer.php:774 inc/module/top-menu.php:75
+msgid "Top menu"
+msgstr "Menu trên cùng"
+
+#: inc/admin/customizer.php:789
+msgid "Remove top menu"
+msgstr "Xóa menu trên cùng"
+
+#: inc/admin/customizer.php:804
+msgid "Links color (outside)"
+msgstr "Màu liên kết (bên ngoài)"
+
+#: inc/admin/customizer.php:805 inc/admin/customizer.php:1593
+#: inc/admin/customizer.php:4538 inc/admin/customizer.php:4553
+msgid "Default - general color for links"
+msgstr "Mặc định - màu chung cho liên kết"
+
+#: inc/admin/customizer.php:819
+msgid "Color of links in dropdown menu"
+msgstr "Màu của liên kết trong menu thả xuống"
+
+#: inc/admin/customizer.php:833
+msgid "Color of links in dropdown menu (on hover)"
+msgstr "Màu của các liên kết trong menu thả xuống (khi di chuột)"
+
+#: inc/admin/customizer.php:847
+msgid "Dropdown menu background color"
+msgstr "Màu nền của menu thả xuống"
+
+#: inc/admin/customizer.php:861
+msgid "Background color for dropdown menu links (on hover)"
+msgstr "Màu nền cho các liên kết menu thả xuống (khi di chuột)"
+
+#: inc/admin/customizer.php:875
+msgid "Top menu text size"
+msgstr "Kích thước văn bản menu trên cùng"
+
+#: inc/admin/customizer.php:889
+msgid "Top menu text size (mobile)"
+msgstr "Kích thước văn bản menu trên cùng (di động)"
+
+#: inc/admin/customizer.php:904
+msgid "Relieve the menu (replace with lightweight)"
+msgstr "Giảm bớt menu (thay thế bằng nhẹ)"
+
+#: inc/admin/customizer.php:905
+msgid ""
+"\n"
+"\t\t\tThis will disable the heavy menu and enable the pure CSS menu.\n"
+"\t\t\tPros: Disables JS scripts, which can be important for speed since the "
+"menu is at the top of the site.\n"
+"\t\t\tCons: Support for keyboard control will be disabled. The arrows "
+"(icons) of the menu control are disabled."
+msgstr ""
+"\n"
+"Điều này sẽ vô hiệu hóa menu nặng và kích hoạt menu CSS thuần túy.\n"
+"Ưu điểm: Tắt các tập lệnh JS, điều này có thể quan trọng đối với tốc độ vì "
+"menu nằm ở đầu trang.\n"
+"Nhược điểm: Hỗ trợ điều khiển bàn phím sẽ bị tắt. Các mũi tên (biểu tượng) "
+"của điều khiển menu bị tắt."
+
+#: inc/admin/customizer.php:912
+msgid "JS Menu"
+msgstr "Trình đơn JS"
+
+#: inc/admin/customizer.php:913
+msgid "Lightweight menu"
+msgstr "Thực đơn nhẹ"
+
+#: inc/admin/customizer.php:944
+msgid "Move social links in the header over the image"
+msgstr "Di chuyển các liên kết xã hội trong tiêu đề lên trên hình ảnh"
+
+#: inc/admin/customizer.php:945 inc/admin/customizer.php:1424
+msgid ""
+"(For this to work, you need to activate social links in the \"Social Links\" "
+"section)"
+msgstr ""
+"(Để tính năng này hoạt động, bạn cần kích hoạt các liên kết xã hội trong "
+"phần \"Liên kết xã hội\")"
+
+#: inc/admin/customizer.php:960
+msgid "Enable effect (live picture)"
+msgstr "Kích hoạt hiệu ứng (hình ảnh trực tiếp)"
+
+#: inc/admin/customizer.php:974
+msgid "Header image link"
+msgstr "Liên kết hình ảnh tiêu đề"
+
+#: inc/admin/customizer.php:975
+msgid "This works when you click on the image"
+msgstr "Điều này hoạt động khi bạn nhấp vào hình ảnh"
+
+#: inc/admin/customizer.php:1002
+msgid "Fixed size logo"
+msgstr "Logo có kích thước cố định"
+
+#: inc/admin/customizer.php:1003
+msgid "Site title and description text color"
+msgstr "Màu văn bản mô tả và tiêu đề trang web"
+
+#: inc/admin/customizer.php:1006
+msgid "The selected image will be compressed to the optimal size 150 x 100 px"
+msgstr "Hình ảnh được chọn sẽ được nén về kích thước tối ưu 150 x 100 px"
+
+#: inc/admin/customizer.php:1007
+msgid ""
+"(If disabled, the title is hidden only visually. The entered text will "
+"continue to be present for the main page in h1 tags)"
+msgstr ""
+"(Nếu bị tắt, tiêu đề chỉ bị ẩn về mặt trực quan. Văn bản đã nhập sẽ tiếp tục "
+"hiển thị trên trang chính trong thẻ h1)"
+
+#: inc/admin/customizer.php:1015
+msgid "Title and logo"
+msgstr "Tiêu đề và logo"
+
+#: inc/admin/customizer.php:1030
+msgid "Header area width with logo"
+msgstr "Chiều rộng vùng tiêu đề có logo"
+
+#: inc/admin/customizer.php:1031
+#, no-php-format
+msgid "Specify 100% for center the title"
+msgstr "Chỉ định 100% fhoặc căn giữa tiêu đề"
+
+#: inc/admin/customizer.php:1055
+msgid "Remove the dividing line"
+msgstr "Xóa đường phân chia"
+
+#: inc/admin/customizer.php:1078
+msgid "Site title font"
+msgstr "Phông chữ tiêu đề trang web"
+
+#: inc/admin/customizer.php:1092
+msgid "Site title size (5 - 100 px, default 32 px)"
+msgstr "Kích thước tiêu đề trang web (5 - 100 px, mặc định 32 px)"
+
+#: inc/admin/customizer.php:1105
+msgid "Site title row height (0.8 - 5, default 1.5)"
+msgstr "Chiều cao hàng tiêu đề trang web (0,8 - 5, mặc định 1,5)"
+
+#: inc/admin/customizer.php:1128
+msgid "Site description font"
+msgstr "Phông chữ mô tả trang web"
+
+#: inc/admin/customizer.php:1142
+msgid "Site description size (5 - 50 px, default 16 px)"
+msgstr "Kích thước mô tả trang web (5 - 50 px, mặc định 16 px)"
+
+#: inc/admin/customizer.php:1155
+msgid "Site description row height (0.8 - 5, default 1)"
+msgstr "Chiều cao hàng mô tả trang web (0,8 - 5, mặc định 1)"
+
+#: inc/admin/customizer.php:1178
+msgid "Orientation of the logo and site name"
+msgstr "Định hướng của logo và tên trang web"
+
+#: inc/admin/customizer.php:1182
+msgid "Horizontally"
+msgstr "Theo Chiều Ngang"
+
+#: inc/admin/customizer.php:1183
+msgid "Vertical"
+msgstr "Theo chiều dọc"
+
+#: inc/admin/customizer.php:1196
+msgid "Logo variation"
+msgstr "Biến thể logo"
+
+#: inc/admin/customizer.php:1200
+msgid "Size fixed"
+msgstr "Kích thước cố định"
+
+#: inc/admin/customizer.php:1201
+msgid "No limits"
+msgstr "Không giới hạn"
+
+#: inc/admin/customizer.php:1213
+msgid "Logo without limits"
+msgstr "Logo không giới hạn"
+
+#: inc/admin/customizer.php:1231 inc/admin/function-panel-soc.php:51
+msgid "Social links"
+msgstr "Social links"
+
+#: inc/admin/customizer.php:1245
+msgid "Activate social links"
+msgstr "Kích hoạt liên kết xã hội"
+
+#: inc/admin/customizer.php:1259
+msgid "Social link size"
+msgstr "Kích thước liên kết xã hội"
+
+#: inc/admin/customizer.php:1263 inc/admin/customizer.php:1442
+#: inc/admin/customizer.php:1518 inc/admin/customizer.php:2162
+#: inc/admin/customizer.php:2352 inc/admin/customizer.php:2685
+#: inc/admin/customizer.php:4137 inc/admin/customizer.php:4650
+#: inc/admin/customizer.php:4876 inc/admin/customizer.php:5102
+#: inc/admin/customizer.php:5780 inc/admin/function-panel-home.php:144
+#: inc/admin/function-panel-home.php:157
+#: inc/admin/function-panel-xlmega.php:207
+msgid "Small"
+msgstr "Nhỏ"
+
+#: inc/admin/customizer.php:1264 inc/admin/customizer.php:1443
+#: inc/admin/customizer.php:2353 inc/admin/customizer.php:4138
+#: inc/admin/customizer.php:4651 inc/admin/customizer.php:5103
+#: inc/admin/customizer.php:5781 inc/admin/function-panel-home.php:145
+#: inc/admin/function-panel-home.php:158
+#: inc/admin/function-panel-xlmega.php:208
+msgid "Average"
+msgstr "Trung bình"
+
+#: inc/admin/customizer.php:1265 inc/admin/customizer.php:1444
+#: inc/admin/customizer.php:1520 inc/admin/customizer.php:2163
+#: inc/admin/customizer.php:2354 inc/admin/customizer.php:2686
+#: inc/admin/customizer.php:4139 inc/admin/customizer.php:4652
+#: inc/admin/customizer.php:4875 inc/admin/customizer.php:5104
+#: inc/admin/customizer.php:5782 inc/admin/function-panel-home.php:146
+#: inc/admin/function-panel-home.php:159
+#: inc/admin/function-panel-xlmega.php:209
+msgid "Big"
+msgstr "Lớn"
+
+#: inc/admin/customizer.php:1271 inc/admin/customizer.php:4894
+#: inc/admin/customizer.php:5287
+msgid "Square"
+msgstr "Vuông"
+
+#: inc/admin/customizer.php:1272 inc/admin/customizer.php:4893
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: inc/admin/customizer.php:1273
+msgid "Without background"
+msgstr "Không có nền"
+
+#: inc/admin/customizer.php:1286
+msgid "Social link form"
+msgstr "Mẫu liên kết xã hội"
+
+#: inc/admin/customizer.php:1294
+msgid "Flat"
+msgstr "Phẳng"
+
+#: inc/admin/customizer.php:1295
+msgid "Volumetric"
+msgstr "thể tích"
+
+#: inc/admin/customizer.php:1308
+msgid "Social link design (for icons with background)"
+msgstr "Thiết kế liên kết xã hội (đối với biểu tượng có nền)"
+
+#: inc/admin/customizer.php:1316
+msgid "Black"
+msgstr "Đen"
+
+#: inc/admin/customizer.php:1317
+msgid "White"
+msgstr "Trắng"
+
+#: inc/admin/customizer.php:1330
+msgid "Social link design (for icons no background)"
+msgstr "Thiết kế liên kết xã hội (đối với biểu tượng không có nền)"
+
+#: inc/admin/customizer.php:1345
+msgid "Animation of social links"
+msgstr "Hoạt hình của các liên kết xã hội"
+
+#: inc/admin/customizer.php:1349 inc/admin/customizer.php:1778
+msgid "Without animation"
+msgstr "Không có hình ảnh động"
+
+#: inc/admin/customizer.php:1350
+msgid "Increase"
+msgstr "Tăng"
+
+#: inc/admin/customizer.php:1351
+msgid "Zoom (with background)"
+msgstr "Thu phóng (có nền)"
+
+#: inc/admin/customizer.php:1352
+msgid "Reduction"
+msgstr "Sự giảm bớt"
+
+#: inc/admin/customizer.php:1353
+msgid "Zoom out (with background)"
+msgstr "Thu nhỏ (có nền)"
+
+#: inc/admin/customizer.php:1354
+msgid "Frame around the link"
+msgstr "Khung xung quanh liên kết"
+
+#: inc/admin/customizer.php:1355
+msgid "Increasing contrast"
+msgstr "Tăng độ tương phản"
+
+#: inc/admin/customizer.php:1356
+msgid "Hue change"
+msgstr "Huế thay đổi"
+
+#: inc/admin/customizer.php:1357
+msgid "Color inversion"
+msgstr "Đảo ngược màu"
+
+#: inc/admin/customizer.php:1358
+msgid "Dimming adjacent links"
+msgstr "Làm mờ các liên kết liền kề"
+
+#: inc/admin/customizer.php:1359
+msgid "Slight slope"
+msgstr "Độ dốc nhẹ"
+
+#: inc/admin/customizer.php:1372
+msgid "Social links fill color"
+msgstr "Liên kết xã hội tô màu"
+
+#: inc/admin/customizer.php:1373 inc/admin/customizer.php:2890
+#: inc/admin/customizer.php:2904 inc/admin/customizer.php:3137
+#: inc/admin/customizer.php:3331 inc/admin/customizer.php:3531
+#: inc/admin/customizer.php:5467
+msgid "Default - main theme color"
+msgstr "Mặc định - màu chủ đề chính"
+
+#: inc/admin/customizer.php:1390
+msgid "Top search"
+msgstr "Tìm kiếm hàng đầu"
+
+#: inc/admin/customizer.php:1403
+msgid "Activate top Search"
+msgstr "Kích hoạt tìm kiếm hàng đầu"
+
+#: inc/admin/customizer.php:1408
+msgid "In a top bar"
+msgstr "Trong thanh trên cùng"
+
+#: inc/admin/customizer.php:1409
+msgid "In area of soc links (before)"
+msgstr "Trong lĩnh vực liên kết xã hội (trước đây)"
+
+#: inc/admin/customizer.php:1410
+msgid "In area of soc links (after)"
+msgstr "Trong khu vực liên kết xã hội (sau)"
+
+#: inc/admin/customizer.php:1423
+msgid "Use social icon styles"
+msgstr "Sử dụng kiểu biểu tượng xã hội"
+
+#: inc/admin/customizer.php:1437
+msgid "Search button size"
+msgstr "Kích thước nút tìm kiếm"
+
+#: inc/admin/customizer.php:1441 inc/admin/customizer.php:4136
+#: inc/admin/function-panel-home.php:143 inc/admin/function-panel-home.php:156
+#: inc/admin/function-panel-xlmega.php:206
+msgid "Very small"
+msgstr "Rất nhỏ"
+
+#: inc/admin/customizer.php:1445 inc/admin/customizer.php:4140
+#: inc/admin/function-panel-home.php:147 inc/admin/function-panel-home.php:160
+#: inc/admin/function-panel-xlmega.php:210
+msgid "Very big"
+msgstr "Rất lớn"
+
+#: inc/admin/customizer.php:1465
+msgid "Main menu"
+msgstr "Menu chính"
+
+#: inc/admin/customizer.php:1480
+msgid "Remove main menu"
+msgstr "Xóa menu chính"
+
+#: inc/admin/customizer.php:1494
+msgid "Orientation for main menu items"
+msgstr "Định hướng cho các mục menu chính"
+
+#: inc/admin/customizer.php:1498 inc/admin/customizer.php:2332
+#: inc/admin/customizer.php:3047 inc/admin/customizer.php:4671
+#: inc/admin/customizer.php:4858
+msgid "Left"
+msgstr "Trái"
+
+#: inc/admin/customizer.php:1499 inc/admin/customizer.php:2333
+#: inc/admin/customizer.php:4672 inc/admin/customizer.php:4857
+msgid "Right"
+msgstr "Phải"
+
+#: inc/admin/customizer.php:1500 inc/admin/customizer.php:2334
+msgid "Center"
+msgstr "Giữa"
+
+#: inc/admin/customizer.php:1501
+msgid "Distributed"
+msgstr "Phân phối"
+
+#: inc/admin/customizer.php:1514
+msgid "Height of main menu items"
+msgstr "Chiều cao của các mục menu chính"
+
+#: inc/admin/customizer.php:1519
+msgid "Medium"
+msgstr "Trung bình"
+
+#: inc/admin/customizer.php:1534
+msgid "Background color main menu, footer and widget titles"
+msgstr "Màu nền menu chính, chân trang và tiêu đề widget"
+
+#: inc/admin/customizer.php:1550
+msgid "Text color main menu and footer"
+msgstr "Menu chính và chân trang màu văn bản"
+
+#: inc/admin/customizer.php:1564
+msgid "Main menu color (on hover)"
+msgstr "Màu menu chính (khi di chuột)"
+
+#: inc/admin/customizer.php:1578
+msgid "Main menu background color (submenu)"
+msgstr "Màu nền menu chính (menu phụ)"
+
+#: inc/admin/customizer.php:1592
+msgid "Main menu link color (submenu)"
+msgstr "Màu liên kết menu chính (menu phụ)"
+
+#: inc/admin/customizer.php:1608
+msgid "Main menu item font"
+msgstr "Phông chữ mục menu chính"
+
+#: inc/admin/customizer.php:1621
+msgid "Main menu items text size"
+msgstr "Kích thước văn bản của các mục menu chính"
+
+#: inc/admin/customizer.php:1622 inc/admin/customizer.php:4583
+msgid "5 - 50 px (default 15 px)"
+msgstr "5 - 50 px (mặc định 15 px)"
+
+#: inc/admin/customizer.php:1636
+msgid "Main menu items titles in uppercase"
+msgstr "Tiêu đề các mục menu chính bằng chữ in hoa"
+
+#: inc/admin/customizer.php:1650
+msgid "Main menu background in full screen width"
+msgstr "Nền menu chính có chiều rộng toàn màn hình"
+
+#: inc/admin/customizer.php:1664
+msgid "Make main menu sticky when scrolling (only for desktop versions of pc)"
+msgstr ""
+"Làm cho menu chính bị dính khi cuộn (chỉ dành cho phiên bản máy tính để bàn)"
+
+#: inc/admin/customizer.php:1678
+msgid "Number of columns in mega menu"
+msgstr "Số cột trong menu mega"
+
+#: inc/admin/customizer.php:1682
+msgid "One"
+msgstr "Một"
+
+#: inc/admin/customizer.php:1683
+msgid "Two"
+msgstr "Hai"
+
+#: inc/admin/customizer.php:1684
+msgid "Three"
+msgstr "Ba"
+
+#: inc/admin/customizer.php:1685
+msgid "Four"
+msgstr "Bốn"
+
+#: inc/admin/customizer.php:1686
+msgid "Five"
+msgstr "Năm"
+
+#: inc/admin/customizer.php:1687
+msgid "Six"
+msgstr "Sáu"
+
+#: inc/admin/customizer.php:1699
+msgid "Categories settings"
+msgstr "Cài đặt danh mục"
+
+#: inc/admin/customizer.php:1701 inc/admin/customizer.php:3989
+#: inc/general.php:352 templates/template-site-map.php:27
+msgid "Categories"
+msgstr "Danh mục"
+
+#: inc/admin/customizer.php:1716
+msgid "Category style"
+msgstr "Kiểu danh mục"
+
+#: inc/admin/customizer.php:1729
+msgid "Number (size) of columns in categories"
+msgstr "Số lượng (kích thước) cột trong danh mục"
+
+#: inc/admin/customizer.php:1733
+msgid "Classic blog"
+msgstr "Blog cổ điển"
+
+#: inc/admin/customizer.php:1734
+msgid "Two columns"
+msgstr "Hai cột"
+
+#: inc/admin/customizer.php:1735 inc/admin/customizer.php:3957
+msgid "Three columns"
+msgstr "Ba cột"
+
+#: inc/admin/customizer.php:1736 inc/admin/customizer.php:3958
+msgid "Four columns"
+msgstr "Bốn cột"
+
+#: inc/admin/customizer.php:1737 inc/admin/customizer.php:3959
+msgid "Five columns"
+msgstr "Năm cột"
+
+#: inc/admin/customizer.php:1750
+msgid "Design for posts blocks in categories"
+msgstr "Thiết kế khối bài viết theo chuyên mục"
+
+#: inc/admin/customizer.php:1754 inc/admin/customizer.php:2140
+#: inc/admin/customizer.php:2663
+msgid "Simple"
+msgstr "Đơn giản"
+
+#: inc/admin/customizer.php:1756 inc/admin/customizer.php:2142
+#: inc/admin/customizer.php:2665
+msgid "Underlined"
+msgstr "Gạch chân"
+
+#: inc/admin/customizer.php:1757 inc/admin/customizer.php:3732
+msgid "In frame"
+msgstr "Trong khung"
+
+#: inc/admin/customizer.php:1758
+msgid "Header background"
+msgstr "Nền tiêu đề"
+
+#: inc/admin/customizer.php:1759 inc/admin/customizer.php:2144
+#: inc/admin/customizer.php:2667 inc/admin/customizer.php:3729
+#: inc/admin/customizer.php:5064
+msgid "Deepening"
+msgstr "đào sâu"
+
+#: inc/admin/customizer.php:1760
+msgid "Light shadow"
+msgstr "Bóng sáng"
+
+#: inc/admin/customizer.php:1761 inc/admin/customizer.php:2143
+#: inc/admin/customizer.php:2666 inc/admin/customizer.php:3728
+#: inc/admin/customizer.php:5063
+msgid "Soaring"
+msgstr "tăng vọt"
+
+#: inc/admin/customizer.php:1774
+msgid "Animation for posts blocks in categories (on hover)"
+msgstr "Hoạt ảnh cho các khối bài đăng trong danh mục (khi di chuột)"
+
+#: inc/admin/customizer.php:1779
+msgid "Enlargement picture"
+msgstr "Hình ảnh phóng to"
+
+#: inc/admin/customizer.php:1780
+msgid "Reducing picture"
+msgstr "Giảm hình ảnh"
+
+#: inc/admin/customizer.php:1781
+msgid "Darkened image"
+msgstr "Hình ảnh bị tối"
+
+#: inc/admin/customizer.php:1782
+msgid "Curtain on picture"
+msgstr "Rèm trên hình ảnh"
+
+#: inc/admin/customizer.php:1783
+msgid "Picture frame"
+msgstr "Khung tranh"
+
+#: inc/admin/customizer.php:1784
+msgid "Frame around"
+msgstr "Khung xung quanh"
+
+#: inc/admin/customizer.php:1785
+msgid "Backlight picture"
+msgstr "Hình ảnh ngược sáng"
+
+#: inc/admin/customizer.php:1786
+msgid "Picture contrast"
+msgstr "Độ tương phản hình ảnh"
+
+#: inc/admin/customizer.php:1787
+msgid "Tint picture"
+msgstr "Ảnh màu"
+
+#: inc/admin/customizer.php:1788
+msgid "Color inversion picture"
+msgstr "Hình ảnh đảo màu"
+
+#: inc/admin/customizer.php:1789
+msgid "Remove color in neighboring blocks"
+msgstr "Xóa màu ở các khối lân cận"
+
+#: inc/admin/customizer.php:1790
+msgid "Toning neighboring blocks"
+msgstr "Toning các khối lân cận"
+
+#: inc/admin/customizer.php:1791
+msgid "Block slope"
+msgstr "Độ dốc khối"
+
+#: inc/admin/customizer.php:1804
+msgid "Background color for posts blocks in categories"
+msgstr "Màu nền cho khối bài viết trong danh mục"
+
+#: inc/admin/customizer.php:1818
+msgid "Background color of sticky posts"
+msgstr "Màu nền của bài viết dính"
+
+#: inc/admin/customizer.php:1831
+msgid "Post card title size (5 - 50 px)"
+msgstr "Kích thước tiêu đề bưu thiếp (5 - 50 px)"
+
+#: inc/admin/customizer.php:1844
+msgid "Post card description size (5 - 30 px)"
+msgstr "Kích thước mô tả bưu thiếp (5 - 30 px)"
+
+#: inc/admin/customizer.php:1857
+msgid "Number of symbols in description"
+msgstr "Số ký hiệu trong mô tả"
+
+#: inc/admin/customizer.php:1858
+msgid "50 - 1000 (default 150 symbols)"
+msgstr "50 - 1000 (150 ký hiệu mặc định)"
+
+#: inc/admin/customizer.php:1881
+msgid "Add a \"Read more\" button"
+msgstr "Thêm nút \"Đọc thêm\""
+
+#: inc/admin/customizer.php:1895
+msgid "Full width \"Read more\" button"
+msgstr "Nút \"Đọc thêm\" có chiều rộng đầy đủ"
+
+#: inc/admin/customizer.php:1909
+msgid "Show \"Read more\" button in the center"
+msgstr "Hiển thị nút \"Đọc thêm\" ở giữa"
+
+#: inc/admin/customizer.php:1932
+msgid "Remove the prefix \"Category\" on category pages"
+msgstr "Xóa tiền tố \"Danh mục\" trên các trang danh mục"
+
+#: inc/admin/customizer.php:1946
+msgid "Remove description from posts blocks in categories"
+msgstr "Xóa mô tả khỏi khối bài viết trong danh mục"
+
+#: inc/admin/customizer.php:1960
+msgid "Remove title from posts blocks in categories"
+msgstr "Xóa tiêu đề khỏi khối bài viết trong danh mục"
+
+#: inc/admin/customizer.php:1974
+msgid "Remove the stub \"No photo\" from posts blocks in categories"
+msgstr ""
+"Xóa phần sơ khai \"Không có ảnh\" khỏi các khối bài đăng trong danh mục"
+
+#: inc/admin/customizer.php:1992
+msgid "Meta tags in categories"
+msgstr "Thẻ meta trong danh mục"
+
+#: inc/admin/customizer.php:2005
+msgid "Activate - Meta tags in categories"
+msgstr "Kích hoạt - Thẻ meta trong danh mục"
+
+#: inc/admin/customizer.php:2012 inc/admin/customizer.php:2521
+msgid "What meta tags to display"
+msgstr "Những thẻ meta nào sẽ hiển thị"
+
+#: inc/admin/customizer.php:2028 inc/admin/customizer.php:2537
+#: inc/module/meta-tags.php:22 inc/module/meta-tags.php:235
+msgid "Post author"
+msgstr "Tác giả"
+
+#: inc/admin/customizer.php:2042 inc/admin/customizer.php:2551
+#: inc/module/meta-tags.php:93 inc/module/meta-tags.php:260
+msgid "Post creation date"
+msgstr "Ngày tạo bài đăng"
+
+#: inc/admin/customizer.php:2056 inc/admin/customizer.php:2565
+#: inc/module/meta-tags.php:130 inc/module/meta-tags.php:297
+msgid "Post update date"
+msgstr "Ngày cập nhật bài đăng"
+
+#: inc/admin/customizer.php:2070 inc/admin/customizer.php:2579
+msgid "Number of comments"
+msgstr "Số bình luận"
+
+#: inc/admin/customizer.php:2084 inc/admin/customizer.php:2607
+#: inc/module/meta-tags.php:71 inc/module/meta-tags.php:380
+msgid "Number of post views"
+msgstr "Số lượt xem bài viết"
+
+#: inc/admin/customizer.php:2091 inc/admin/customizer.php:2614
+msgid "Which taxonomy to display"
+msgstr "Phân loại nào sẽ hiển thị"
+
+#: inc/admin/customizer.php:2107 inc/admin/customizer.php:2630
+msgid "Post categories"
+msgstr "Đăng chuyên mục"
+
+#: inc/admin/customizer.php:2121 inc/admin/customizer.php:2644
+msgid "Post tags"
+msgstr "Thẻ bài viết"
+
+#: inc/admin/customizer.php:2136 inc/admin/customizer.php:2659
+msgid "Meta tag design"
+msgstr "Thiết kế thẻ meta"
+
+#: inc/admin/customizer.php:2141 inc/admin/customizer.php:5062
+msgid "Frame"
+msgstr "Khung"
+
+#: inc/admin/customizer.php:2145 inc/admin/customizer.php:2668
+msgid "Background"
+msgstr "Nền"
+
+#: inc/admin/customizer.php:2158 inc/admin/customizer.php:2681
+msgid "Meta tag size"
+msgstr "Kích thước thẻ meta"
+
+#: inc/admin/customizer.php:2176 inc/admin/customizer.php:2699
+msgid "Align meta blocks to the center"
+msgstr "Căn chỉnh các khối meta vào giữa"
+
+#: inc/admin/customizer.php:2190
+msgid "Add tooltips to meta blocks in categories"
+msgstr "Thêm chú giải công cụ vào khối meta trong danh mục"
+
+#: inc/admin/customizer.php:2204
+msgid "Add decryption of meta tags to meta blocks"
+msgstr "Thêm giải mã thẻ meta vào khối meta"
+
+#: inc/admin/customizer.php:2218
+msgid "Add decryption of meta tags in taxonomy"
+msgstr "Thêm giải mã thẻ meta trong phân loại"
+
+#: inc/admin/customizer.php:2232 inc/admin/customizer.php:2755
+msgid "Remove meta tag icons"
+msgstr "Xóa biểu tượng thẻ meta"
+
+#: inc/admin/customizer.php:2249
+msgid "Pagination"
+msgstr "Phân trang"
+
+#: inc/admin/customizer.php:2262
+msgid "Activate pagination in categories"
+msgstr "Kích hoạt phân trang trong danh mục"
+
+#: inc/admin/customizer.php:2276
+msgid "Activate pagination on the homepage"
+msgstr "Kích hoạt phân trang trên trang chủ"
+
+#: inc/admin/customizer.php:2290
+msgid "Pagination variation"
+msgstr "Biến thể phân trang"
+
+#: inc/admin/customizer.php:2294
+msgid "Defoult (Back and forward)"
+msgstr "Mặc định (Quay lại và chuyển tiếp)"
+
+#: inc/admin/customizer.php:2295
+msgid "Numeric pagination"
+msgstr "Phân trang số"
+
+#: inc/admin/customizer.php:2296
+msgid "Button (Show more)"
+msgstr "Nút (Hiển thị thêm)"
+
+#: inc/admin/customizer.php:2309
+msgid "Pagination block design"
+msgstr "Thiết kế khối phân trang"
+
+#: inc/admin/customizer.php:2313 inc/admin/customizer.php:2829
+#: inc/admin/customizer.php:2860 inc/admin/customizer.php:2952
+#: inc/admin/customizer.php:3243 inc/admin/customizer.php:3444
+#: inc/admin/customizer.php:5244 inc/admin/customizer.php:5265
+#: inc/admin/customizer.php:5285
+msgid "Turn off styles"
+msgstr "Tắt kiểu"
+
+#: inc/admin/customizer.php:2314
+msgid "Buttons"
+msgstr "Nút"
+
+#: inc/admin/customizer.php:2315 inc/admin/customizer.php:2664
+#: inc/admin/customizer.php:4008
+msgid "Frames"
+msgstr "Khung"
+
+#: inc/admin/customizer.php:2328
+msgid "Location of the pagination block"
+msgstr "Vị trí của khối phân trang"
+
+#: inc/admin/customizer.php:2335 inc/admin/customizer.php:5212
+msgid "Full width"
+msgstr "Rộng toàn màn hình"
+
+#: inc/admin/customizer.php:2348
+msgid "Pagination block size"
+msgstr "Kích thước khối phân trang"
+
+#: inc/admin/customizer.php:2367
+msgid "Remove buttons (back and next) from numeric pagination"
+msgstr "Xóa các nút (quay lại và tiếp theo) khỏi phân trang số"
+
+#: inc/admin/customizer.php:2381
+msgid "Show all pagination items (for numeric)"
+msgstr "Hiển thị tất cả các mục phân trang (đối với số)"
+
+#: inc/admin/customizer.php:2395
+msgid "Remove hidden H2 tag from pagination"
+msgstr "Xóa thẻ H2 ẩn khỏi phân trang"
+
+#: inc/admin/customizer.php:2396
+msgid ""
+"Removing H2 tag from pagination is good for SEO, but worse for special "
+"programs (for the visually impaired)"
+msgstr ""
+"Xóa thẻ H2 khỏi phân trang là tốt cho SEO nhưng lại tệ hơn đối với các "
+"chương trình đặc biệt (dành cho người khiếm thị)"
+
+#: inc/admin/customizer.php:2407 inc/admin/customizer.php:2443
+msgid "Posts and pages"
+msgstr "Bài viết và trang"
+
+#: inc/admin/customizer.php:2423
+msgid "Basic settings"
+msgstr "Cài đặt cơ bản"
+
+#: inc/admin/customizer.php:2436
+msgid "Where to display typography"
+msgstr "Nơi hiển thị kiểu chữ"
+
+#: inc/admin/customizer.php:2437
+msgid "Lists, block quotes, headings"
+msgstr "Danh sách, khối trích dẫn, tiêu đề"
+
+#: inc/admin/customizer.php:2441
+msgid "Only posts"
+msgstr "Chỉ bài viết"
+
+#: inc/admin/customizer.php:2442
+msgid "Only pages"
+msgstr "Chỉ các trang"
+
+#: inc/admin/customizer.php:2458
+msgid "Top image"
+msgstr "Hình ảnh hàng đầu"
+
+#: inc/admin/customizer.php:2471
+msgid "Remove the main (top) image in posts"
+msgstr "Xóa hình ảnh chính (trên cùng) trong bài viết"
+
+#: inc/admin/customizer.php:2485
+msgid "Remove the main (top) image in pages"
+msgstr "Xóa hình ảnh chính (trên cùng) trong các trang"
+
+#: inc/admin/customizer.php:2501
+msgid "Meta tags in posts"
+msgstr "Thẻ meta trong bài viết"
+
+#: inc/admin/customizer.php:2514
+msgid "Activate meta tags in posts"
+msgstr "Kích hoạt thẻ meta trong bài viết"
+
+#: inc/admin/customizer.php:2593 inc/module/meta-tags.php:358
+msgid "Post reading time"
+msgstr "Thời gian đọc bài viết"
+
+#: inc/admin/customizer.php:2713
+msgid "Add tooltips to meta blocks in posts"
+msgstr "Thêm chú giải công cụ vào khối meta trong bài viết"
+
+#: inc/admin/customizer.php:2727
+msgid "Remove decryption in meta blocks"
+msgstr "Xóa giải mã trong khối meta"
+
+#: inc/admin/customizer.php:2741
+msgid "Remove decryption in taxonomies"
+msgstr "Xóa giải mã trong phân loại"
+
+#: inc/admin/customizer.php:2769
+msgid "Where to display meta tags for categories"
+msgstr "Nơi hiển thị thẻ meta cho danh mục"
+
+#: inc/admin/customizer.php:2773 inc/admin/customizer.php:2791
+#: inc/admin/customizer.php:4669
+msgid "Top"
+msgstr "Trên"
+
+#: inc/admin/customizer.php:2774 inc/admin/customizer.php:2792
+#: inc/admin/customizer.php:4670
+msgid "Bottom"
+msgstr "Dưới"
+
+#: inc/admin/customizer.php:2787
+msgid "Where to display meta tags for tags"
+msgstr "Nơi hiển thị thẻ meta cho thẻ"
+
+#: inc/admin/customizer.php:2812
+msgid "Lists"
+msgstr "Danh sách"
+
+#: inc/admin/customizer.php:2825
+msgid "Bulleted lists variation"
+msgstr "Biến thể danh sách dấu đầu dòng"
+
+#: inc/admin/customizer.php:2830
+msgid "Small square"
+msgstr "Hinh vuông nhỏ"
+
+#: inc/admin/customizer.php:2831
+msgid "Small circle"
+msgstr "Vòng tròn nhỏ"
+
+#: inc/admin/customizer.php:2832 inc/admin/customizer.php:2862
+msgid "Square frame"
+msgstr "Khung vuông"
+
+#: inc/admin/customizer.php:2833
+msgid "Small dash"
+msgstr "Dấu gạch ngang nhỏ"
+
+#: inc/admin/customizer.php:2834
+msgid "Big dot"
+msgstr "Dấu chấm lớn"
+
+#: inc/admin/customizer.php:2835
+msgid "Big square"
+msgstr "Quảng trường lớn"
+
+#: inc/admin/customizer.php:2836
+msgid "Big circle"
+msgstr "Vòng tròn lớn"
+
+#: inc/admin/customizer.php:2837
+msgid "Rounded square frame"
+msgstr "Khung hình vuông bo tròn"
+
+#: inc/admin/customizer.php:2838
+msgid "Big dash"
+msgstr "Dấu gạch ngang lớn"
+
+#: inc/admin/customizer.php:2839 inc/admin/customizer.php:3272
+#: inc/admin/customizer.php:3473
+msgid "Check mark"
+msgstr "Đánh dấu"
+
+#: inc/admin/customizer.php:2840
+msgid "Rhombus"
+msgstr "Rhombus"
+
+#: inc/admin/customizer.php:2841 inc/admin/customizer.php:4602
+#: inc/admin/customizer.php:4913
+msgid "Triangle"
+msgstr "Hình tam giác"
+
+#: inc/admin/customizer.php:2842
+msgid "Star"
+msgstr "Ngôi sao"
+
+#: inc/admin/customizer.php:2843
+msgid "Snowflake"
+msgstr "Bông tuyết"
+
+#: inc/admin/customizer.php:2856
+msgid "Numeric lists variation"
+msgstr "Biến thể danh sách số"
+
+#: inc/admin/customizer.php:2861
+msgid "Colored square"
+msgstr "Hình vuông màu"
+
+#: inc/admin/customizer.php:2863
+msgid "Colored circle"
+msgstr "vòng tròn màu"
+
+#: inc/admin/customizer.php:2864
+msgid "Round frame"
+msgstr "Khung tròn"
+
+#: inc/admin/customizer.php:2865
+msgid "Colored numbers"
+msgstr "số màu"
+
+#: inc/admin/customizer.php:2866
+msgid "Colored numbers (bold)"
+msgstr "Số màu (đậm)"
+
+#: inc/admin/customizer.php:2867
+msgid "Latin numerals"
+msgstr "Chữ số Latinh"
+
+#: inc/admin/customizer.php:2868
+msgid "Colored letters (EN)"
+msgstr "Chữ màu (EN)"
+
+#: inc/admin/customizer.php:2889
+msgid "Marker color - bulleted lists"
+msgstr "Màu đánh dấu - danh sách có dấu đầu dòng"
+
+#: inc/admin/customizer.php:2903
+msgid "Marker color - numbered lists"
+msgstr "Màu đánh dấu - danh sách đánh số"
+
+#: inc/admin/customizer.php:2917
+msgid "Inner color for marker - numbered lists"
+msgstr "Màu bên trong cho điểm đánh dấu - danh sách đánh số"
+
+#: inc/admin/customizer.php:2918 inc/admin/customizer.php:3095
+#: inc/admin/customizer.php:3317 inc/admin/customizer.php:3517
+msgid "Default - related elements for main theme color"
+msgstr "Các phần tử liên quan mặc định cho màu chủ đề chính"
+
+#: inc/admin/customizer.php:2935
+msgid "Quote blocks"
+msgstr "Khối trích dẫn"
+
+#: inc/admin/customizer.php:2948
+msgid "Design for quote block"
+msgstr "Thiết kế khối báo giá"
+
+#: inc/admin/customizer.php:2953
+msgid "Just a block"
+msgstr "Chỉ là một khối"
+
+#: inc/admin/customizer.php:2954
+msgid "Gradient 1 (fill)"
+msgstr "Độ dốc 1 (điền)"
+
+#: inc/admin/customizer.php:2955
+msgid "Gradient 2 (fill)"
+msgstr "Độ dốc 2 (điền)"
+
+#: inc/admin/customizer.php:2956
+msgid "Grid (fill)"
+msgstr "Lưới (điền)"
+
+#: inc/admin/customizer.php:2957
+msgid "Folded corner"
+msgstr "Góc gấp"
+
+#: inc/admin/customizer.php:2958
+msgid "Solid frame"
+msgstr "Khung vững chắc"
+
+#: inc/admin/customizer.php:2959
+msgid "Dotted frame"
+msgstr "Khung chấm"
+
+#: inc/admin/customizer.php:2960 inc/admin/customizer.php:5213
+msgid "Border left"
+msgstr "Đường viền trái"
+
+#: inc/admin/customizer.php:2961
+msgid "Double border"
+msgstr "Đường viền đôi"
+
+#: inc/admin/customizer.php:2974
+msgid "Background color for quote block"
+msgstr "Màu nền cho khối trích dẫn"
+
+#: inc/admin/customizer.php:2975
+msgid "Some styles work well with the background"
+msgstr "Một số phong cách hoạt động tốt với nền"
+
+#: inc/admin/customizer.php:2989
+msgid "Activate - Automatic background color for block quotes"
+msgstr "Kích hoạt - Màu nền tự động cho dấu ngoặc kép"
+
+#: inc/admin/customizer.php:2990
+msgid "(The color is selected based on the background of the content part)"
+msgstr "(Màu sắc được chọn dựa trên nền của phần nội dung)"
+
+#: inc/admin/customizer.php:3003
+msgid "Text color for quote block"
+msgstr "Màu văn bản cho khối trích dẫn"
+
+#: inc/admin/customizer.php:3004 inc/admin/customizer.php:4568
+msgid "Default - general text color"
+msgstr "Mặc định - màu văn bản chung"
+
+#: inc/admin/customizer.php:3028
+msgid "Add icon to quote block"
+msgstr "Thêm biểu tượng vào khối trích dẫn"
+
+#: inc/admin/customizer.php:3042
+msgid "Choosing the location of the icon in the quote block"
+msgstr "Chọn vị trí của biểu tượng trong khối trích dẫn"
+
+#: inc/admin/customizer.php:3043
+msgid "Together with the icon, the text is also aligned"
+msgstr "Cùng với biểu tượng, văn bản cũng được căn chỉnh"
+
+#: inc/admin/customizer.php:3048
+msgid "Centered"
+msgstr "Trung tâm"
+
+#: inc/admin/customizer.php:3061
+msgid "Selecting an icon for the quote block"
+msgstr "Chọn biểu tượng cho khối trích dẫn"
+
+#: inc/admin/customizer.php:3065
+msgid "Square quotes"
+msgstr "Dấu ngoặc vuông"
+
+#: inc/admin/customizer.php:3066
+msgid "Rectangular quotes"
+msgstr "Dấu ngoặc kép hình chữ nhật"
+
+#: inc/admin/customizer.php:3067
+msgid "Sharp quotes"
+msgstr "Trích dẫn sắc nét"
+
+#: inc/admin/customizer.php:3068
+msgid "Round quotes"
+msgstr "Dấu ngoặc kép"
+
+#: inc/admin/customizer.php:3069
+msgid "Paper clip"
+msgstr "Kẹp giấy"
+
+#: inc/admin/customizer.php:3070
+msgid "Paper clip (vertical)"
+msgstr "Kẹp giấy (dọc)"
+
+#: inc/admin/customizer.php:3071
+msgid "Drawing pin"
+msgstr "Ghim vẽ"
+
+#: inc/admin/customizer.php:3072
+msgid "Drawing pin (vertical)"
+msgstr "Ghim vẽ (dọc)"
+
+#: inc/admin/customizer.php:3073
+msgid "Bulb"
+msgstr "Bóng đèn tròn"
+
+#: inc/admin/customizer.php:3074
+msgid "Bell"
+msgstr "Hình cái Chuông"
+
+#: inc/admin/customizer.php:3075
+msgid "Attention triangle"
+msgstr "Tam giác chú ý"
+
+#: inc/admin/customizer.php:3076
+msgid "Exclamation sheet"
+msgstr "Bảng chấm than"
+
+#: inc/admin/customizer.php:3077
+msgid "Exclamation mark"
+msgstr "Dấu chấm than"
+
+#: inc/admin/customizer.php:3078
+msgid "Cloud conversation"
+msgstr "Cuộc trò chuyện trên đám mây"
+
+#: inc/admin/customizer.php:3079
+msgid "Speaker"
+msgstr "Loa"
+
+#: inc/admin/customizer.php:3080
+msgid "Open book"
+msgstr "Mở sách"
+
+#: inc/admin/customizer.php:3081
+msgid "Embossed tick"
+msgstr "Đánh dấu dập nổi"
+
+#: inc/admin/customizer.php:3082
+msgid "Solid tick"
+msgstr "đánh dấu rắn"
+
+#: inc/admin/customizer.php:3094
+msgid "Icons color for quote block"
+msgstr "Màu biểu tượng cho khối trích dẫn"
+
+#: inc/admin/customizer.php:3108
+msgid "Icon size for quote block"
+msgstr "Kích thước biểu tượng cho khối trích dẫn"
+
+#: inc/admin/customizer.php:3109 inc/admin/customizer.php:3598
+msgid "5 - 100 px (default 24 px)"
+msgstr "5 - 100 px (mặc định 24 px)"
+
+#: inc/admin/customizer.php:3123
+msgid "Add background for icon"
+msgstr "Thêm nền cho biểu tượng"
+
+#: inc/admin/customizer.php:3136
+msgid "Background color of icons and lines for block quotes"
+msgstr "Màu nền của biểu tượng và dòng cho khối trích dẫn"
+
+#: inc/admin/customizer.php:3154
+msgid "H1 headings"
+msgstr "Tiêu đề H1"
+
+#: inc/admin/customizer.php:3166
+msgid "Text color of H1 headings"
+msgstr "Màu văn bản của tiêu đề H1"
+
+#: inc/admin/customizer.php:3167 inc/admin/customizer.php:3368
+#: inc/admin/customizer.php:3569
+msgid "Default - titles text general color"
+msgstr "Mặc định - màu chung của văn bản tiêu đề"
+
+#: inc/admin/customizer.php:3181
+msgid "Header H1 Font"
+msgstr "Phông chữ tiêu đề H1"
+
+#: inc/admin/customizer.php:3195
+msgid "Header H1 text size"
+msgstr "Kích thước văn bản tiêu đề H1"
+
+#: inc/admin/customizer.php:3196
+msgid "5 - 100 px (default 32 px)"
+msgstr "5 - 100 px (mặc định 32 px)"
+
+#: inc/admin/customizer.php:3209
+msgid "Header H1 row height (0.8 - 5, default 1.5)"
+msgstr "Chiều cao hàng tiêu đề H1 (0,8 - 5, mặc định 1,5)"
+
+#: inc/admin/customizer.php:3226
+msgid "Headings H2"
+msgstr "Tiêu đề H2"
+
+#: inc/admin/customizer.php:3239
+msgid "H2 headings variation"
+msgstr "Biến thể tiêu đề H2"
+
+#: inc/admin/customizer.php:3244 inc/admin/customizer.php:3445
+msgid "Simple headers"
+msgstr "Tiêu đề đơn giản"
+
+#: inc/admin/customizer.php:3245 inc/admin/customizer.php:3446
+msgid "Light underlining"
+msgstr "Gạch chân nhẹ"
+
+#: inc/admin/customizer.php:3246 inc/admin/customizer.php:3447
+msgid "Side border"
+msgstr "Đường viền bên"
+
+#: inc/admin/customizer.php:3247 inc/admin/customizer.php:3448
+msgid "With numbering"
+msgstr "Với việc đánh số"
+
+#: inc/admin/customizer.php:3248 inc/admin/customizer.php:3449
+msgid "With icon selection"
+msgstr "Với lựa chọn biểu tượng"
+
+#: inc/admin/customizer.php:3249 inc/admin/customizer.php:3450
+msgid "With arbitrary value"
+msgstr "Với giá trị tùy ý"
+
+#: inc/admin/customizer.php:3262
+msgid "H2 heading icon selection"
+msgstr "Lựa chọn biểu tượng tiêu đề H2"
+
+#: inc/admin/customizer.php:3266 inc/admin/customizer.php:3467
+msgid "Turn off icons"
+msgstr "Tắt biểu tượng"
+
+#: inc/admin/customizer.php:3267 inc/admin/customizer.php:3468
+msgid "Right arrow"
+msgstr "Mũi tên phải"
+
+#: inc/admin/customizer.php:3268 inc/admin/customizer.php:3469
+msgid "Arrow to down"
+msgstr "Mũi tên xuống"
+
+#: inc/admin/customizer.php:3269 inc/admin/customizer.php:3470
+msgid "Arrow right and down"
+msgstr "Mũi tên phải và xuống"
+
+#: inc/admin/customizer.php:3270 inc/admin/customizer.php:3471
+#: inc/admin/customizer.php:4605
+msgid "Volumetric arrow"
+msgstr "Mũi tên thể tích"
+
+#: inc/admin/customizer.php:3271 inc/admin/customizer.php:3472
+msgid "Pencil"
+msgstr "Bút chì"
+
+#: inc/admin/customizer.php:3273 inc/admin/customizer.php:3474
+msgid "Small flag"
+msgstr "Lá cờ nhỏ"
+
+#: inc/admin/customizer.php:3274 inc/admin/customizer.php:3475
+msgid "Blocks"
+msgstr "Khối"
+
+#: inc/admin/customizer.php:3275 inc/admin/customizer.php:3476
+msgid "Block hierarchy"
+msgstr "Khối phân cấp"
+
+#: inc/admin/customizer.php:3281 inc/admin/customizer.php:3482
+msgid "Par."
+msgstr "Mệnh."
+
+#: inc/admin/customizer.php:3288
+msgid "Add label to header H2 counter"
+msgstr "Thêm nhãn vào bộ đếm H2 của tiêu đề"
+
+#: inc/admin/customizer.php:3303
+msgid "Add custom value for H2 header"
+msgstr "Thêm giá trị tùy chỉnh cho tiêu đề H2"
+
+#: inc/admin/customizer.php:3316
+msgid "H2 heading icons text color"
+msgstr "Màu văn bản biểu tượng tiêu đề H2"
+
+#: inc/admin/customizer.php:3330
+msgid "Background color of icons and lines of H2 headings"
+msgstr "Màu nền các biểu tượng và dòng tiêu đề H2"
+
+#: inc/admin/customizer.php:3353
+msgid "Background color of H2 headings"
+msgstr "Màu nền tiêu đề H2"
+
+#: inc/admin/customizer.php:3355 inc/admin/customizer.php:3555
+msgid "Default - site body background color"
+msgstr "Mặc định - màu nền của nội dung trang web"
+
+#: inc/admin/customizer.php:3367
+msgid "Text color of H2 headings"
+msgstr "Màu văn bản của tiêu đề H2"
+
+#: inc/admin/customizer.php:3382
+msgid "Font for H2 headings"
+msgstr "Phông chữ cho tiêu đề H2"
+
+#: inc/admin/customizer.php:3396
+msgid "Text size of H2 headings"
+msgstr "Kích thước văn bản của tiêu đề H2"
+
+#: inc/admin/customizer.php:3397
+msgid "5 - 100 px (default 26 px)"
+msgstr "5 - 100 px (mặc định 26 px)"
+
+#: inc/admin/customizer.php:3410
+msgid "Row height of H2 headings (0.8 - 5, default 1.5)"
+msgstr "Chiều cao hàng của tiêu đề H2 (0,8 - 5, mặc định 1,5)"
+
+#: inc/admin/customizer.php:3427
+msgid "Headings H3 - H6"
+msgstr "Tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3440
+msgid "H3 - H6 headings variation"
+msgstr "Biến thể tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3463
+msgid "H3 - H6 heading icon selection"
+msgstr "Lựa chọn biểu tượng tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3489
+msgid "Add label to header H3 - H6 counter"
+msgstr "Thêm nhãn vào bộ đếm tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3503
+msgid "Add custom value for H3 - H6 header"
+msgstr "Thêm giá trị tùy chỉnh cho tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3516
+msgid "H3 - H6 heading icons text color"
+msgstr "Màu văn bản biểu tượng tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3530
+msgid "Background color of icons and lines for H3 - H6 headings"
+msgstr "Màu nền các icon và dòng cho tiêu đề H3 - H6"
+
+#: inc/admin/customizer.php:3554
+msgid "Background color of H3 - H6 headings"
+msgstr "Màu nền tiêu đề H3 – H6"
+
+#: inc/admin/customizer.php:3568
+msgid "Text color of H3 - H6 headings"
+msgstr "Màu chữ tiêu đề H3 – H6"
+
+#: inc/admin/customizer.php:3583
+msgid "Font for H3 - H6 headings"
+msgstr "Font chữ cho tiêu đề H3 – H6"
+
+#: inc/admin/customizer.php:3597
+msgid "Text size of H3 headings"
+msgstr "Kích thước văn bản của tiêu đề H3"
+
+#: inc/admin/customizer.php:3611
+msgid "Text size of H4 headings"
+msgstr "Kích thước văn bản của tiêu đề H4"
+
+#: inc/admin/customizer.php:3612
+msgid "5 - 100 px (default 22 px)"
+msgstr "5 - 100 px (mặc định 22 px)"
+
+#: inc/admin/customizer.php:3625
+msgid "Text size of H5 headings"
+msgstr "Kích thước văn bản của tiêu đề H5"
+
+#: inc/admin/customizer.php:3626
+msgid "5 - 100 px (default 20 px)"
+msgstr "5 - 100 px (mặc định 20 px)"
+
+#: inc/admin/customizer.php:3639
+msgid "Text size of H6 headings"
+msgstr "Kích thước văn bản của tiêu đề H6"
+
+#: inc/admin/customizer.php:3640
+msgid "5 - 100 px (default 18 px)"
+msgstr "5 - 100 px (mặc định 18 px)"
+
+#: inc/admin/customizer.php:3653
+msgid "Row height of H3 - H6 headings (0.8 - 5, default 1.5)"
+msgstr "Chiều cao hàng của tiêu đề H3 - H6 (0,8 - 5, mặc định 1,5)"
+
+#: inc/admin/customizer.php:3665
+msgid "Links in content"
+msgstr "Liên kết trong nội dung"
+
+#: inc/admin/customizer.php:3678
+msgid "Remove link underline"
+msgstr "Xóa gạch chân liên kết"
+
+#: inc/admin/customizer.php:3679
+msgid "This removes the underlining of links in the content text"
+msgstr "Điều này loại bỏ gạch chân của các liên kết trong văn bản nội dung"
+
+#: inc/admin/customizer.php:3696
+msgid "Author block"
+msgstr "Khối tác giả"
+
+#: inc/admin/customizer.php:3709
+msgid "Activate author section"
+msgstr "Kích hoạt phần tác giả"
+
+#: inc/admin/customizer.php:3723
+msgid "Separator variation for author block"
+msgstr "Biến thể dấu phân cách cho khối tác giả"
+
+#: inc/admin/customizer.php:3727
+msgid "Turn off separators"
+msgstr "Tắt dấu phân cách"
+
+#: inc/admin/customizer.php:3730
+msgid "Dividers in width"
+msgstr "Bộ chia chiều rộng"
+
+#: inc/admin/customizer.php:3731
+msgid "Dividers in center"
+msgstr "Bộ chia ở giữa"
+
+#: inc/admin/customizer.php:3745
+msgid "Change the style of author block separators"
+msgstr "Thay đổi kiểu phân cách khối tác giả"
+
+#: inc/admin/customizer.php:3749
+msgid "Solid line"
+msgstr "Đường Nét Đặc"
+
+#: inc/admin/customizer.php:3750
+msgid "Dashed line"
+msgstr "Vạch đứt"
+
+#: inc/admin/customizer.php:3751
+msgid "Dotted line"
+msgstr "Đường chấm chấm"
+
+#: inc/admin/customizer.php:3752
+msgid "Double line"
+msgstr "Đường đôi"
+
+#: inc/admin/customizer.php:3764
+msgid "Changing the thickness of separators in the author block"
+msgstr "Thay đổi độ dày của dấu phân cách trong khối tác giả"
+
+#: inc/admin/customizer.php:3765
+msgid "0 - 30 px (default 1 px)"
+msgstr "0 - 30 px (mặc định 1 px)"
+
+#: inc/admin/customizer.php:3779
+msgid "Add post date to author block"
+msgstr "Thêm ngày đăng vào khối tác giả"
+
+#: inc/admin/customizer.php:3793
+msgid "Remove link from author name"
+msgstr "Xóa liên kết khỏi tên tác giả"
+
+#: inc/admin/customizer.php:3807
+msgid "Hide avatar in author block"
+msgstr "Ẩn hình đại diện trong khối tác giả"
+
+#: inc/admin/customizer.php:3821
+msgid "Hide description in author block"
+msgstr "Ẩn mô tả trong khối tác giả"
+
+#: inc/admin/customizer.php:3836
+msgid "Add author latest posts to author block"
+msgstr "Thêm bài viết mới nhất của tác giả vào khối tác giả"
+
+#: inc/admin/customizer.php:3843
+msgid "Latest entries of author"
+msgstr "Bài viết mới nhất của tác giả"
+
+#: inc/admin/customizer.php:3851
+msgid "Author posts title"
+msgstr "Tiêu đề bài viết của tác giả"
+
+#: inc/admin/customizer.php:3865
+msgid "Number of author posts in the author block (max 50)"
+msgstr "Số lượng bài viết của tác giả trong khối tác giả (tối đa 50)"
+
+#: inc/admin/customizer.php:3882
+msgid "Section (next entry)"
+msgstr "Phần (mục tiếp theo)"
+
+#: inc/admin/customizer.php:3895
+msgid "Remove section (next entry)"
+msgstr "Xóa phần (mục tiếp theo)"
+
+#: inc/admin/customizer.php:3912 inc/admin/customizer.php:3932
+#: template-parts/content-related.php:15
+msgid "Related posts"
+msgstr "Bài viết liên quan"
+
+#: inc/admin/customizer.php:3925
+msgid "Activate related posts"
+msgstr "Kích hoạt bài viết liên quan"
+
+#: inc/admin/customizer.php:3939
+msgid "Title for block (Related posts)"
+msgstr "Tiêu đề cho khối (Bài viết liên quan)"
+
+#: inc/admin/customizer.php:3953
+msgid "Number of columns for related posts"
+msgstr "Số cột cho bài viết liên quan"
+
+#: inc/admin/customizer.php:3971
+msgid "Number of related posts (max 50)"
+msgstr "Số bài viết liên quan (tối đa 50)"
+
+#: inc/admin/customizer.php:3985
+msgid "Taxonomy for related posts"
+msgstr "Phân loại cho bài viết liên quan"
+
+#: inc/admin/customizer.php:3990
+msgid "Tags"
+msgstr "Thẻ"
+
+#: inc/admin/customizer.php:4003
+msgid "Design for related posts"
+msgstr "Thiết kế bài viết liên quan"
+
+#: inc/admin/customizer.php:4007
+msgid "Simple design"
+msgstr "Thiết kế đơn giản"
+
+#: inc/admin/customizer.php:4009
+msgid "Contrast blocks"
+msgstr "Khối tương phản"
+
+#: inc/admin/customizer.php:4010
+msgid "Soaring blocks"
+msgstr "Khối tăng vọt"
+
+#: inc/admin/customizer.php:4011
+msgid "Polaroid"
+msgstr "Phân cực"
+
+#: inc/admin/customizer.php:4024
+msgid "Remove stub (No photo) in related posts"
+msgstr "Xóa sơ khai (Không có ảnh) trong các bài viết liên quan"
+
+#: inc/admin/customizer.php:4041
+msgid "Comment block"
+msgstr "Khối bình luận"
+
+#: inc/admin/customizer.php:4054
+msgid "Remove comment block (for posts)"
+msgstr "Xóa khối bình luận (đối với bài viết)"
+
+#: inc/admin/customizer.php:4068
+msgid "Remove comment block (for pages)"
+msgstr "Xóa khối bình luận (đối với các trang)"
+
+#: inc/admin/customizer.php:4082
+msgid "Remove URL field in comments (for posts and pages)"
+msgstr "Xóa trường URL trong nhận xét (đối với bài đăng và trang)"
+
+#: inc/admin/customizer.php:4093
+msgid "Main page"
+msgstr "Trang chính"
+
+#: inc/admin/customizer.php:4105
+msgid "Homepage Starting Settings"
+msgstr "Trang chủ Cài đặt khởi động"
+
+#: inc/admin/customizer.php:4117
+msgid "Activate sections with blocks on the main"
+msgstr "Kích hoạt các phần có khối trên chính"
+
+#: inc/admin/customizer.php:4132
+msgid "Size of section headers on the main page"
+msgstr "Kích thước của tiêu đề phần trên trang chính"
+
+#: inc/admin/customizer.php:4154
+msgid "Color of section headings on the main page"
+msgstr "Màu sắc của tiêu đề phần trên trang chính"
+
+#: inc/admin/customizer.php:4155
+msgid "Default - content text color"
+msgstr "Mặc định - màu văn bản nội dung"
+
+#: inc/admin/customizer.php:4179
+msgid "Enable the block with the latest posts on the main page"
+msgstr "Kích hoạt tính năng chặn các bài viết mới nhất trên trang chính"
+
+#: inc/admin/customizer.php:4180
+msgid ""
+"(Post blocks, as well as pagination, are configured in the \"Categories\" "
+"section)"
+msgstr ""
+"(Khối bài đăng cũng như phân trang được định cấu hình trong phần \"Danh "
+"mục\")"
+
+#: inc/admin/customizer.php:4187 template-parts/home/home-article.php:13
+msgid "Latest posts"
+msgstr "Bài viết mới"
+
+#: inc/admin/customizer.php:4194
+msgid "Title for the latest posts block"
+msgstr "Tiêu đề cho khối bài viết mới nhất"
+
+#: inc/admin/customizer.php:4206
+msgid "Different settings"
+msgstr "Cài đặt khác nhau"
+
+#: inc/admin/customizer.php:4228
+msgid "Wide slider"
+msgstr "Thanh trượt rộng"
+
+#: inc/admin/customizer.php:4242
+msgid "Display wide slider"
+msgstr "Hiển thị thanh trượt rộng"
+
+#: inc/admin/customizer.php:4246
+msgid "Not display"
+msgstr "Không hiển thị"
+
+#: inc/admin/customizer.php:4247
+msgid "All site"
+msgstr "Tất cả trang web"
+
+#: inc/admin/customizer.php:4248
+msgid "Except main page"
+msgstr "Ngoại trừ trang chính"
+
+#: inc/admin/customizer.php:4249
+msgid "Only main page"
+msgstr "Chỉ có trang chính"
+
+#: inc/admin/customizer.php:4260
+msgid "Number of slides in the wide slider (max 12)"
+msgstr "Số lượng slide trong thanh trượt rộng (tối đa 12)"
+
+#: inc/admin/customizer.php:4278
+msgid "Selecting a category to display in a wide slider"
+msgstr "Chọn danh mục để hiển thị trong thanh trượt rộng"
+
+#: inc/admin/customizer.php:4291
+msgid "Number of posts available (max 50)"
+msgstr "Số lượng bài viết có sẵn (tối đa 50)"
+
+#: inc/admin/customizer.php:4305
+msgid "Show slider full screen width"
+msgstr "Hiển thị chiều rộng toàn màn hình của thanh trượt"
+
+#: inc/admin/customizer.php:4319
+msgid "Wide slider background color"
+msgstr "Màu nền thanh trượt rộng"
+
+#: inc/admin/customizer.php:4333
+msgid "Enable auto start for Wide slider"
+msgstr "Bật tự động khởi động cho Thanh trượt rộng"
+
+#: inc/admin/customizer.php:4345
+msgid "Slider move time"
+msgstr "Thời gian di chuyển thanh trượt"
+
+#: inc/admin/customizer.php:4346
+msgid "max 50 000 (default 1500)"
+msgstr "tối đa 50 000 (mặc định 1500)"
+
+#: inc/admin/customizer.php:4358
+msgid "Time between slides"
+msgstr "Thời gian giữa các slide"
+
+#: inc/admin/customizer.php:4359
+msgid "max 50 000 (default 5000)"
+msgstr "tối đa 50 000 (mặc định 5000)"
+
+#: inc/admin/customizer.php:4373
+msgid "Enable navigation buttons for Wide slider"
+msgstr "Bật nút điều hướng cho Thanh trượt rộng"
+
+#: inc/admin/customizer.php:4387
+msgid "Headers fill variation for Wide slider"
+msgstr "Biến thể điền tiêu đề cho thanh trượt Rộng"
+
+#: inc/admin/customizer.php:4391 inc/admin/function-panel-home.php:125
+msgid "Not display titles"
+msgstr "Không hiển thị tiêu đề"
+
+#: inc/admin/customizer.php:4392 inc/admin/function-panel-home.php:126
+msgid "Smooth dimming"
+msgstr "Làm mờ mượt mà"
+
+#: inc/admin/customizer.php:4393 inc/admin/function-panel-home.php:127
+msgid "Blackout tape"
+msgstr "Băng cản sáng"
+
+#: inc/admin/customizer.php:4394 inc/admin/function-panel-home.php:128
+msgid "Animated blackout"
+msgstr "Tắt hoạt hình"
+
+#: inc/admin/customizer.php:4407
+msgid "Wide slider headings color"
+msgstr "Màu tiêu đề thanh trượt rộng"
+
+#: inc/admin/customizer.php:4424
+msgid "Breadcrumbs"
+msgstr "Thanh điều hướng"
+
+#: inc/admin/customizer.php:4438
+msgid "Enable breadcrumbs in posts"
+msgstr "Kích hoạt đường dẫn trong bài viết"
+
+#: inc/admin/customizer.php:4452
+msgid "Enable breadcrumbs in categories"
+msgstr "Kích hoạt đường dẫn trong danh mục"
+
+#: inc/admin/customizer.php:4466
+msgid "Show link to home page"
+msgstr "Hiển thị liên kết đến trang chủ"
+
+#: inc/admin/customizer.php:4473 inc/module/breadcrumb.php:11
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/admin/customizer.php:4480
+msgid "Specify your text for the link (Default - Home)"
+msgstr "Chỉ định văn bản của bạn cho liên kết (Mặc định - Trang chủ)"
+
+#: inc/admin/customizer.php:4494
+msgid "Show title in breadcrumb for posts"
+msgstr "Hiển thị tiêu đề trong đường dẫn cho bài viết"
+
+#: inc/admin/customizer.php:4508
+msgid "Show title for categories, archives and tags"
+msgstr "Hiển thị tiêu đề cho danh mục, kho lưu trữ và thẻ"
+
+#: inc/admin/customizer.php:4523
+msgid "Breadcrumbs background color"
+msgstr "Màu định hướng"
+
+#: inc/admin/customizer.php:4537
+msgid "Breadcrumb link text color"
+msgstr "Màu văn bản liên kết đường dẫn"
+
+#: inc/admin/customizer.php:4552
+msgid "Breadcrumb link text color on hover"
+msgstr "Màu văn bản liên kết đường dẫn khi di chuột"
+
+#: inc/admin/customizer.php:4567
+msgid "Separator and header color in breadcrumbs"
+msgstr "Màu phân cách và màu tiêu đề trong đường dẫn"
+
+#: inc/admin/customizer.php:4582
+msgid "Breadcrumbs text size"
+msgstr "Kích thước văn bản Breadcrumb"
+
+#: inc/admin/customizer.php:4598
+msgid "Separator between breadcrumbs"
+msgstr "Phân cách giữa thanh điều hướng"
+
+#: inc/admin/customizer.php:4603
+msgid "Arrowhead"
+msgstr "đầu mũi tên"
+
+#: inc/admin/customizer.php:4604 inc/admin/customizer.php:4912
+msgid "Brace"
+msgstr "Nẹp"
+
+#: inc/admin/customizer.php:4606
+msgid "Linear arrow"
+msgstr "Mũi tên tuyến tính"
+
+#: inc/admin/customizer.php:4617
+msgid "Calm blocks"
+msgstr "Khối bình tĩnh"
+
+#: inc/admin/customizer.php:4631
+msgid "Activate fluently movement of blocks"
+msgstr "Kích hoạt chuyển động trôi chảy của các khối"
+
+#: inc/admin/customizer.php:4632
+msgid "Works for blocks on the main page and category pages"
+msgstr "Hoạt động cho các khối trên trang chính và trang danh mục"
+
+#: inc/admin/customizer.php:4646
+msgid "Range for fluently movement of blocks"
+msgstr "Phạm vi di chuyển trôi chảy của các khối"
+
+#: inc/admin/customizer.php:4665
+msgid "Direction fluently movement of blocks"
+msgstr "Hướng chuyển động trôi chảy của các khối"
+
+#: inc/admin/customizer.php:4683
+msgid "Site map"
+msgstr "Sơ đồ trang web"
+
+#: inc/admin/customizer.php:4690
+msgid ""
+"To display the sitemap, create a new page through the standard WordPress "
+"menu,\n"
+"\t\t\tgo to page edit mode and select the \"Site Map\" template on the right "
+"side, save the page."
+msgstr ""
+"Để hiển thị sơ đồ trang web, hãy tạo một trang mới thông qua menu WordPress "
+"tiêu chuẩn,\n"
+"chuyển đến chế độ chỉnh sửa trang và chọn mẫu \"Sơ đồ trang web\" ở bên "
+"phải, lưu trang."
+
+#: inc/admin/customizer.php:4707
+msgid "Display categories on the sitemap"
+msgstr "Hiển thị danh mục trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4714
+msgid "Category"
+msgstr "Danh mục"
+
+#: inc/admin/customizer.php:4721
+msgid "Category section header on the sitemap"
+msgstr "Tiêu đề phần danh mục trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4733
+msgid "The maximum number of categories on the sitemap"
+msgstr "Số lượng danh mục tối đa trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4747
+msgid "Show posts on sitemap"
+msgstr "Hiển thị bài đăng trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4754 templates/template-site-map.php:56
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/admin/customizer.php:4761
+msgid "Posts section header on the sitemap"
+msgstr "Tiêu đề phần bài viết trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4773
+msgid "The maximum number of posts on the sitemap"
+msgstr "Số lượng bài viết tối đa trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4787
+msgid "Show pages on sitemap"
+msgstr "Hiển thị các trang trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4794 inc/general.php:342
+#: templates/template-site-map.php:110
+msgid "Pages"
+msgstr "Trang"
+
+#: inc/admin/customizer.php:4801
+msgid "Pages section header on the sitemap"
+msgstr "Tiêu đề phần trang trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4813
+msgid "The maximum number of pages on the sitemap"
+msgstr "Số trang tối đa trên sơ đồ trang web"
+
+#: inc/admin/customizer.php:4825
+msgid "Up button"
+msgstr "Nút lên"
+
+#: inc/admin/customizer.php:4839
+msgid "Remove \"Up button\""
+msgstr "Xóa \"Nút lên\""
+
+#: inc/admin/customizer.php:4853
+msgid "Button location"
+msgstr "Vị trí nút"
+
+#: inc/admin/customizer.php:4871
+msgid "Button size"
+msgstr "Kích thước nút"
+
+#: inc/admin/customizer.php:4889
+msgid "Button shape"
+msgstr "Hình dạng nút"
+
+#: inc/admin/customizer.php:4907
+msgid "Button variation"
+msgstr "Biến thể nút"
+
+#: inc/admin/customizer.php:4911 inc/admin/customizer.php:5286
+msgid "Arrow"
+msgstr "Mũi tên"
+
+#: inc/admin/customizer.php:4924
+msgid "SEO settings"
+msgstr "cài đặt SEO"
+
+#: inc/admin/customizer.php:4939
+msgid "Remove prefix (site name) after SEO Title"
+msgstr "Xóa tiền tố (tên trang web) sau Tiêu đề SEO"
+
+#: inc/admin/customizer.php:4953
+msgid ""
+"Remove the prefix (site description) after the SEO Title on the main page"
+msgstr "Xóa tiền tố (mô tả trang web) sau Tiêu đề SEO trên trang chính"
+
+#: inc/admin/customizer.php:4967
+msgid "Set your separator for SEO Title prefix"
+msgstr "Đặt dấu phân cách của bạn cho tiền tố Tiêu đề SEO"
+
+#: inc/admin/customizer.php:4981
+msgid "Set your SEO Title for the homepage"
+msgstr "Đặt tiêu đề SEO của bạn cho trang chủ"
+
+#: inc/admin/customizer.php:4995
+msgid "Set your SEO Description for the homepage"
+msgstr "Đặt Mô tả SEO của bạn cho trang chủ"
+
+#: inc/admin/customizer.php:5009
+msgid "Automatic addition of ALT to images from the title of the post"
+msgstr "Tự động thêm ALT vào hình ảnh từ tiêu đề bài viết"
+
+#: inc/admin/customizer.php:5010
+msgid ""
+"(The function automatically fills the ALT tag for the image when you upload "
+"a file while in a text editor. Based on the title in the current post or "
+"page.)"
+msgstr ""
+"(Chức năng tự động điền thẻ ALT cho hình ảnh khi bạn tải tệp lên trong trình "
+"soạn thảo văn bản. Dựa trên tiêu đề trong bài đăng hoặc trang hiện tại.)"
+
+#: inc/admin/customizer.php:5019
+msgid "No photo"
+msgstr "Không có ảnh"
+
+#: inc/admin/customizer.php:5026
+msgid "Set ALT value for stub No photo"
+msgstr "Đặt giá trị ALT cho sơ khai Không có ảnh"
+
+#: inc/admin/customizer.php:5043
+msgid "Widget settings"
+msgstr "Cài đặt tiện ích"
+
+#: inc/admin/customizer.php:5056
+msgid "Selecting the design of widget sections"
+msgstr "Lựa chọn thiết kế các phần widget"
+
+#: inc/admin/customizer.php:5057
+msgid "Side column, except WooCommerce"
+msgstr "Cột bên, ngoại trừ WooC Commerce"
+
+#: inc/admin/customizer.php:5061 inc/admin/customizer.php:5209
+#: inc/option/set.php:461 inc/option/set.php:467 inc/option/set.php:473
+#: inc/option/set.php:479 inc/option/set.php:485
+msgid "Switch off"
+msgstr "Tắt"
+
+#: inc/admin/customizer.php:5065
+msgid "Side shadow"
+msgstr "Bóng bên"
+
+#: inc/admin/customizer.php:5066
+msgid "Gradient"
+msgstr "Chuyển màu sắc"
+
+#: inc/admin/customizer.php:5080
+msgid "Widgets sections backgrounds"
+msgstr "Hình nền của phần widget"
+
+#: inc/admin/customizer.php:5081
+msgid "Side column, except WooCommerce. Default - color not set."
+msgstr "Cột bên, ngoại trừ WooC Commerce. Mặc định - màu không được đặt."
+
+#: inc/admin/customizer.php:5096
+msgid "Classic widget titles background size"
+msgstr "Kích thước nền tiêu đề tiện ích cổ điển"
+
+#: inc/admin/customizer.php:5097
+msgid "For all side columns"
+msgstr "Đối với tất cả các cột bên"
+
+#: inc/admin/customizer.php:5118
+msgid "Titles background color for classic widgets"
+msgstr "Màu nền tiêu đề cho các widget cổ điển"
+
+#: inc/admin/customizer.php:5119
+msgid "For all side columns. Default - background color of the main menu"
+msgstr "Đối với tất cả các cột bên. Mặc định - màu nền của menu chính"
+
+#: inc/admin/customizer.php:5133
+msgid "Titles text color for classic widgets"
+msgstr "Màu văn bản tiêu đề cho các vật dụng cổ điển"
+
+#: inc/admin/customizer.php:5134
+msgid "For all side columns. Default - text color of the main menu"
+msgstr "Đối với tất cả các cột bên. Mặc định - màu văn bản của menu chính"
+
+#: inc/admin/customizer.php:5149
+msgid "Headers font for all widgets"
+msgstr "Phông chữ tiêu đề cho tất cả các tiện ích"
+
+#: inc/admin/customizer.php:5162
+msgid "Titles text size of all classic widgets"
+msgstr "Kích thước văn bản tiêu đề của tất cả các vật dụng cổ điển"
+
+#: inc/admin/customizer.php:5177
+msgid "Titles of all classic widgets in uppercase"
+msgstr "Tiêu đề của tất cả các vật dụng cổ điển được viết hoa"
+
+#: inc/admin/customizer.php:5191
+msgid "Center align titles of all classic widgets"
+msgstr "Căn giữa tiêu đề của tất cả các tiện ích cổ điển"
+
+#: inc/admin/customizer.php:5205
+msgid "Underline titles of all classic widgets"
+msgstr "Gạch chân tiêu đề của tất cả các vật dụng cổ điển"
+
+#: inc/admin/customizer.php:5210
+msgid "Left and down"
+msgstr "Trái và xuống"
+
+#: inc/admin/customizer.php:5211
+msgid "Center and bottom"
+msgstr "Trung tâm và đáy"
+
+#: inc/admin/customizer.php:5224
+msgid "Line thickness"
+msgstr "Độ dày đường"
+
+#: inc/admin/customizer.php:5225
+msgid "0 - 30 px (default 2 px)"
+msgstr "0 - 30 px (mặc định 2 px)"
+
+#: inc/admin/customizer.php:5240
+msgid "Design for lists of posts and pages in basic classic widgets"
+msgstr "Thiết kế danh sách bài viết và trang trong các widget cổ điển cơ bản"
+
+#: inc/admin/customizer.php:5245
+msgid "File"
+msgstr "Tập tin"
+
+#: inc/admin/customizer.php:5246
+msgid "Round dots"
+msgstr "Chấm tròn"
+
+#: inc/admin/customizer.php:5247
+msgid "Square dots"
+msgstr "Chấm vuông"
+
+#: inc/admin/customizer.php:5248
+msgid "Thin border"
+msgstr "viền mỏng"
+
+#: inc/admin/customizer.php:5261
+msgid "Design for category lists and archives in basic classic widgets"
+msgstr ""
+"Thiết kế danh sách danh mục và kho lưu trữ trong các vật dụng cổ điển cơ bản"
+
+#: inc/admin/customizer.php:5266
+msgid "Folder"
+msgstr "Thư mục"
+
+#: inc/admin/customizer.php:5267
+msgid "Box"
+msgstr "Hộp"
+
+#: inc/admin/customizer.php:5268
+msgid "Thick border"
+msgstr "viền dày"
+
+#: inc/admin/customizer.php:5281
+msgid "Design for menu lists in basic classic widgets"
+msgstr "Thiết kế danh sách menu trong widget cổ điển cơ bản"
+
+#: inc/admin/customizer.php:5288
+msgid "Icon (sign)"
+msgstr "Biểu tượng (ký hiệu)"
+
+#: inc/admin/customizer.php:5302
+msgid "Text color of menu items of basic classic widgets"
+msgstr "Màu văn bản của các mục menu của các widget cổ điển cơ bản"
+
+#: inc/admin/customizer.php:5304 inc/admin/customizer.php:5319
+msgid "default - sets the overall color of the links"
+msgstr "mặc định - đặt màu tổng thể của các liên kết"
+
+#: inc/admin/customizer.php:5317
+msgid "Text color of menu items of basic classic widgets (on hover)"
+msgstr ""
+"Màu văn bản của các mục menu của các tiện ích cổ điển cơ bản (khi di chuột)"
+
+#: inc/admin/customizer.php:5332
+msgid "Background color of menu items of basic classic widgets"
+msgstr "Màu nền của các mục menu của các widget cổ điển cơ bản"
+
+#: inc/admin/customizer.php:5334
+msgid "Default - background not set"
+msgstr "Mặc định - nền chưa được đặt"
+
+#: inc/admin/customizer.php:5347
+msgid "Disable demo widgets"
+msgstr "Vô hiệu hóa các tiện ích demo"
+
+#: inc/admin/customizer.php:5365
+msgid "Bottom part"
+msgstr "Phần dưới cùng"
+
+#: inc/admin/customizer.php:5378
+msgid "Activate footer"
+msgstr "Kích hoạt chân trang"
+
+#: inc/admin/customizer.php:5393
+msgid "Footer background color"
+msgstr "Màu nền cho footer"
+
+#: inc/admin/customizer.php:5394
+msgid "Default - background color of the main menu"
+msgstr "Mặc định - màu nền của menu chính"
+
+#: inc/admin/customizer.php:5408
+msgid "Widgets headers text color in footer"
+msgstr "Màu văn bản tiêu đề của widget ở chân trang"
+
+#: inc/admin/customizer.php:5409
+msgid "Default - color of the main menu"
+msgstr "Mặc định - màu của menu chính"
+
+#: inc/admin/customizer.php:5423
+msgid "Footer text color"
+msgstr "Màu văn bản cuối trang"
+
+#: inc/admin/customizer.php:5424
+msgid "Default - text color of the main menu"
+msgstr "Mặc định - màu văn bản của menu chính"
+
+#: inc/admin/customizer.php:5438
+msgid "Footer link color"
+msgstr "Màu liên kết chân trang"
+
+#: inc/admin/customizer.php:5452
+msgid "Footer link color (on hover)"
+msgstr "Màu liên kết chân trang (khi di chuột)"
+
+#: inc/admin/customizer.php:5466
+msgid "Footer elements color"
+msgstr "Màu phần tử chân trang"
+
+#: inc/admin/customizer.php:5483
+msgid "Activate bottom menu"
+msgstr "Kích hoạt menu dưới cùng"
+
+#: inc/admin/customizer.php:5496
+msgid "Bottom menu text size (5 - 50 px, default 14 px)"
+msgstr "Kích thước văn bản menu dưới cùng (5 - 50 px, mặc định 14 px)"
+
+#: inc/admin/customizer.php:5508
+msgid "Text at the bottom of the footer"
+msgstr "Văn bản ở cuối chân trang"
+
+#: inc/admin/customizer.php:5522 inc/admin/customizer.php:5742
+msgid "Advanced settings (Airin Blog)"
+msgstr "Cài đặt nâng cao (Airin Blog)"
+
+#: inc/admin/customizer.php:5536
+msgid "Enable styling support for The Events Calendar"
+msgstr "Bật hỗ trợ tạo kiểu cho Lịch sự kiện"
+
+#: inc/admin/customizer.php:5537
+msgid ""
+"Customizes the Skeleton Styles stylesheet according to the template design. "
+"Turning it off can be useful if you want to control the stylesheet yourself "
+"(Skeleton Styles)"
+msgstr ""
+"Tùy chỉnh biểu định kiểu Skeleton Styles theo thiết kế mẫu. Việc tắt nó có "
+"thể hữu ích nếu bạn muốn tự mình kiểm soát biểu định kiểu (Skeleton Styles)"
+
+#: inc/admin/customizer.php:5566
+msgid "Disable sidebar on bbPress pages"
+msgstr "Vô hiệu hóa thanh bên trên các trang bbPress"
+
+#: inc/admin/customizer.php:5581
+msgid "Disable breadcrumbs in bbPress"
+msgstr "Vô hiệu hóa đường dẫn trong bbPress"
+
+#: inc/admin/customizer.php:5595
+msgid "Activate your names for user roles"
+msgstr "Kích hoạt tên của bạn cho vai trò người dùng"
+
+#: inc/admin/customizer.php:5609
+msgid "Change role name - Keymaster"
+msgstr "Đổi tên vai trò - Keymaster"
+
+#: inc/admin/customizer.php:5623
+msgid "Change role name - Moderator"
+msgstr "Thay đổi tên vai trò - Người điều hành"
+
+#: inc/admin/customizer.php:5637
+msgid "Change role name - Participant"
+msgstr "Thay đổi tên vai trò - Người tham gia"
+
+#: inc/admin/customizer.php:5651
+msgid "Change role name - Spectator"
+msgstr "Đổi tên vai trò - Khán giả"
+
+#: inc/admin/customizer.php:5665
+msgid "Change role name - Blocked"
+msgstr "Thay đổi tên vai trò - Bị chặn"
+
+#: inc/admin/customizer.php:5680
+msgid "Disable style support for bbPress"
+msgstr "Tắt hỗ trợ kiểu cho bbPress"
+
+#: inc/admin/customizer.php:5681
+msgid ""
+"Can be useful if you want to control the styles of the bbPress plugin "
+"yourself"
+msgstr "Có thể hữu ích nếu bạn muốn tự mình kiểm soát kiểu của plugin bbPress"
+
+#: inc/admin/customizer.php:5711
+msgid "Disable sidebar on BuddyPress pages"
+msgstr "Tắt thanh bên trên trang BuddyPress"
+
+#: inc/admin/customizer.php:5725
+msgid "Disable style support for BuddyPress"
+msgstr "Tắt hỗ trợ kiểu cho BuddyPress"
+
+#: inc/admin/customizer.php:5726
+msgid ""
+"Can be useful if you want to control the styles of the BuddyPress plugin "
+"yourself"
+msgstr ""
+"Có thể hữu ích nếu bạn muốn tự mình kiểm soát các kiểu của plugin BuddyPress"
+
+#: inc/admin/customizer.php:5762
+msgid "Enable cart in top menu"
+msgstr "Bật giỏ hàng ở menu trên cùng"
+
+#: inc/admin/customizer.php:5776
+msgid "Cart size in the top menu"
+msgstr "Kích thước giỏ hàng ở menu trên cùng"
+
+#: inc/admin/customizer.php:5795
+msgid "Enable cart in main menu"
+msgstr "Kích hoạt giỏ hàng trong menu chính"
+
+#: inc/admin/customizer.php:5809
+msgid "Enable search on store page"
+msgstr "Bật tìm kiếm trên trang cửa hàng"
+
+#: inc/admin/customizer.php:5823
+msgid "Enable search on product category pages"
+msgstr "Cho phép tìm kiếm trên các trang danh mục sản phẩm"
+
+#: inc/admin/customizer.php:5837
+msgid "Product price color"
+msgstr "Màu sắc giá sản phẩm"
+
+#: inc/admin/customizer.php:5852
+msgid "Disable sticker - Sale"
+msgstr "Tắt nhãn dán - Giảm giá"
+
+#: inc/admin/customizer.php:5867
+msgid "Sticker color - Sale"
+msgstr "Màu nhãn dán - Giảm giá"
+
+#: inc/admin/customizer.php:5881
+msgid "Disable zoom in the main product photo"
+msgstr "Vô hiệu hóa phóng to ảnh sản phẩm chính"
+
+#: inc/admin/customizer.php:5895
+msgid "Disable slider in product photos"
+msgstr "Tắt thanh trượt trong ảnh sản phẩm"
+
+#: inc/admin/customizer.php:5909
+msgid "Disable lightbox in product photos"
+msgstr "Tắt hộp đèn trong ảnh sản phẩm"
+
+#: inc/admin/customizer.php:5923
+msgid "Disable related products on the products page"
+msgstr "Vô hiệu hóa các sản phẩm liên quan trên trang sản phẩm"
+
+#: inc/admin/customizer.php:5936
+msgid "Specify the number of related products"
+msgstr "Chỉ định số lượng sản phẩm liên quan"
+
+#: inc/admin/customizer.php:5949
+msgid "Specify the number of columns of related products"
+msgstr "Chỉ định số cột của sản phẩm liên quan"
+
+#: inc/admin/customizer.php:5963
+msgid "Add popular products to products page"
+msgstr "Thêm sản phẩm phổ biến vào trang sản phẩm"
+
+#: inc/admin/customizer.php:5976
+msgid "Specify the number of popular products"
+msgstr "Chỉ định số lượng sản phẩm phổ biến"
+
+#: inc/admin/customizer.php:5989
+msgid "Specify the number of columns of popular products"
+msgstr "Chỉ định số cột của các sản phẩm phổ biến"
+
+#: inc/admin/customizer.php:6003
+msgid "Add breadcrumbs to product category pages"
+msgstr "Thêm đường dẫn vào trang danh mục sản phẩm"
+
+#: inc/admin/customizer.php:6017
+msgid "Add breadcrumbs to product pages"
+msgstr "Thêm đường dẫn vào trang sản phẩm"
+
+#: inc/admin/customizer.php:6031
+msgid "Where does the main link lead in breadcrumbs"
+msgstr "Liên kết chính dẫn đến đâu trong đường dẫn"
+
+#: inc/admin/customizer.php:6035
+msgid "Main"
+msgstr "Chính"
+
+#: inc/admin/customizer.php:6049
+msgid "Text for the main link in breadcrumbs"
+msgstr "Văn bản cho liên kết chính trong đường dẫn"
+
+#: inc/admin/customizer.php:6063
+msgid ""
+"Add the inscription (Out of stock) to the product card in the product grid"
+msgstr "Thêm dòng chữ (Hết hàng) vào thẻ sản phẩm trong lưới sản phẩm"
+
+#: inc/admin/customizer.php:6077
+msgid "Add an inscription (Out of stock) on the product page"
+msgstr "Thêm dòng chữ (Hết hàng) trên trang sản phẩm"
+
+#: inc/admin/customizer.php:6091
+msgid "Lettering color (Out of stock)"
+msgstr "Màu chữ (Hết hàng)"
+
+#: inc/admin/customizer.php:6105
+msgid "Change label (Out of stock)"
+msgstr "Đổi nhãn (Hết hàng)"
+
+#: inc/admin/customizer.php:6122 inc/admin/customizer.php:6159
+#: inc/option/set.php:138
+msgid "Useful links"
+msgstr "Liên kết hữu ích"
+
+#: inc/admin/customizer.php:6131
+msgid "Presentation page"
+msgstr "Trang trình bày"
+
+#: inc/admin/customizer.php:6135 inc/option/set.php:389
+msgid "View demo"
+msgstr "Xem bản demo"
+
+#: inc/admin/customizer.php:6139
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/admin/customizer.php:6143
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/admin/customizer.php:6172
+msgid "Reset settings | Apply presets"
+msgstr "Đặt lại cài đặt | Áp dụng cài đặt trước"
+
+#: inc/admin/customizer.php:6177
+msgid "Reset theme settings and Apply presets"
+msgstr "Đặt lại cài đặt chủ đề và Áp dụng cài đặt trước"
+
+#: inc/admin/customizer.php:6195
+msgid ""
+"Open Features (by activating this, you confirm that you want to reset all "
+"settings for this theme and understand the risk of permanent data loss)"
+msgstr ""
+"Mở Tính năng (bằng cách kích hoạt tính năng này, bạn xác nhận rằng bạn muốn "
+"đặt lại tất cả cài đặt cho chủ đề này và hiểu được nguy cơ mất dữ liệu vĩnh "
+"viễn)"
+
+#: inc/admin/customizer.php:6196
+msgid ""
+"Important! These options only affect this themes settings (visual customizer "
+"settings). If you have a lot of valuable settings, please back up your "
+"database before using this feature."
+msgstr ""
+"Quan trọng! Các tùy chọn này chỉ ảnh hưởng đến cài đặt chủ đề này (cài đặt "
+"tùy biến trực quan). Nếu bạn có nhiều cài đặt có giá trị, vui lòng sao lưu "
+"cơ sở dữ liệu trước khi sử dụng tính năng này."
+
+#: inc/admin/customizer.php:6206 inc/admin/function-panel-reset.php:1285
+#: inc/admin/function-panel-reset.php:1299
+#: inc/admin/function-panel-reset.php:1313
+#: inc/admin/function-panel-reset.php:1327
+#: inc/admin/function-panel-reset.php:1341
+#: inc/admin/function-panel-reset.php:1355
+#: inc/admin/function-panel-reset.php:1369
+#: inc/admin/function-panel-reset.php:1383
+#: inc/admin/function-panel-reset.php:1397
+#: inc/admin/function-panel-reset.php:1411
+#: inc/admin/function-panel-reset.php:1425
+#: inc/admin/function-panel-reset.php:1439
+#: inc/admin/function-panel-reset.php:1453
+#: inc/admin/function-panel-reset.php:1467
+msgid "Reset settings"
+msgstr "Cài đặt lại"
+
+#: inc/admin/function-panel-color.php:492
+msgid ""
+"This setting will apply the selected color scheme, all your colors will be "
+"reassigned"
+msgstr ""
+"Cài đặt này sẽ áp dụng bảng màu đã chọn, tất cả các màu của bạn sẽ được chỉ "
+"định lại"
+
+#: inc/admin/function-panel-color.php:499
+msgid "Color scheme option"
+msgstr "Tùy chọn bảng màu"
+
+#: inc/admin/function-panel-color.php:653 inc/demo/demo.php:22
+#: inc/demo/demo.php:142 inc/demo/demo.php:382 inc/demo/demo.php:502
+msgid "Light color scheme (Green and Orange)"
+msgstr "Phối màu sáng (Xanh lá cây và Cam)"
+
+#: inc/admin/function-panel-color.php:654
+#: inc/admin/function-panel-color.php:659
+#: inc/admin/function-panel-color.php:664
+#: inc/admin/function-panel-color.php:669
+#: inc/admin/function-panel-color.php:674
+#: inc/admin/function-panel-color.php:679
+#: inc/admin/function-panel-color.php:684
+#: inc/admin/function-panel-color.php:689
+#: inc/admin/function-panel-color.php:694
+#: inc/admin/function-panel-color.php:699
+#: inc/admin/function-panel-color.php:704
+#: inc/admin/function-panel-color.php:709
+msgid "Apply"
+msgstr "Áp dụng"
+
+#: inc/admin/function-panel-color.php:658 inc/demo/demo.php:31
+#: inc/demo/demo.php:151 inc/demo/demo.php:391 inc/demo/demo.php:511
+msgid "Light color scheme (Light grey and Light red)"
+msgstr "Phối màu sáng (Xám nhạt và Đỏ nhạt)"
+
+#: inc/admin/function-panel-color.php:663 inc/demo/demo.php:40
+#: inc/demo/demo.php:160 inc/demo/demo.php:400 inc/demo/demo.php:520
+msgid "Light color scheme (Dark blue and Light blue)"
+msgstr "Phối màu sáng (Xanh đậm và Xanh nhạt)"
+
+#: inc/admin/function-panel-color.php:668 inc/demo/demo.php:49
+#: inc/demo/demo.php:169 inc/demo/demo.php:409 inc/demo/demo.php:529
+msgid "Light color scheme (Blue)"
+msgstr "Phối màu nhẹ nhàng (Xanh dương)"
+
+#: inc/admin/function-panel-color.php:673 inc/demo/demo.php:58
+#: inc/demo/demo.php:178 inc/demo/demo.php:418 inc/demo/demo.php:538
+msgid "Dark color scheme (Red and Orange)"
+msgstr "Phối màu tối (Đỏ và Cam)"
+
+#: inc/admin/function-panel-color.php:678 inc/demo/demo.php:67
+#: inc/demo/demo.php:187 inc/demo/demo.php:427 inc/demo/demo.php:547
+msgid "Dark color scheme (Green and Orange)"
+msgstr "Phối màu tối (Xanh lá cây và Cam)"
+
+#: inc/admin/function-panel-color.php:683 inc/demo/demo.php:76
+#: inc/demo/demo.php:196 inc/demo/demo.php:436 inc/demo/demo.php:556
+msgid "Light color scheme (Dark grey and Red)"
+msgstr "Phối màu sáng (Xám đậm và Đỏ)"
+
+#: inc/admin/function-panel-color.php:688 inc/demo/demo.php:85
+#: inc/demo/demo.php:205 inc/demo/demo.php:445 inc/demo/demo.php:565
+msgid "Light color scheme (Light grey and Green)"
+msgstr "Phối màu sáng (Xám nhạt và Xanh lục)"
+
+#: inc/admin/function-panel-color.php:693 inc/demo/demo.php:94
+#: inc/demo/demo.php:214 inc/demo/demo.php:454 inc/demo/demo.php:574
+msgid "Light color scheme (Orange and Gray)"
+msgstr "Phối màu sáng (Cam và Xám)"
+
+#: inc/admin/function-panel-color.php:698 inc/demo/demo.php:103
+#: inc/demo/demo.php:223 inc/demo/demo.php:463 inc/demo/demo.php:583
+msgid "Light color scheme (Violet and Pink)"
+msgstr "Phối màu sáng (Tím và Hồng)"
+
+#: inc/admin/function-panel-color.php:703 inc/demo/demo.php:112
+#: inc/demo/demo.php:232 inc/demo/demo.php:472 inc/demo/demo.php:592
+msgid "Light color scheme (Heavenly and Light blue)"
+msgstr "Phối màu nhẹ nhàng (Thiên đường và Xanh nhạt)"
+
+#: inc/admin/function-panel-color.php:708 inc/demo/demo.php:121
+#: inc/demo/demo.php:241 inc/demo/demo.php:481 inc/demo/demo.php:601
+msgid "Light color scheme (Turquoise)"
+msgstr "Phối màu sáng (Turquoise)"
+
+#: inc/admin/function-panel-home.php:48
+msgid "Sections with blocks on the main"
+msgstr "Các phần có khối trên chính"
+
+#: inc/admin/function-panel-home.php:49 inc/admin/function-panel-xlmega.php:91
+msgid "Drag to reposition blocks"
+msgstr "Kéo để định vị lại các khối"
+
+#: inc/admin/function-panel-home.php:52 inc/admin/function-panel-soc.php:55
+#: inc/admin/function-panel-xlmega.php:94
+msgid "Section with settings"
+msgstr "Phần có cài đặt"
+
+#: inc/admin/function-panel-home.php:53 inc/admin/function-panel-xlmega.php:95
+msgid "Add block"
+msgstr "Thêm khối"
+
+#: inc/admin/function-panel-home.php:58 inc/admin/function-panel-xlmega.php:100
+msgid "Section option"
+msgstr "Tùy chọn phần"
+
+#: inc/admin/function-panel-home.php:74 inc/admin/function-panel-xlmega.php:113
+msgid "Section heading"
+msgstr "Phần nhóm"
+
+#: inc/admin/function-panel-home.php:80 inc/admin/function-panel-home.php:86
+#: inc/admin/function-panel-home.php:92
+msgid "Select category"
+msgstr "Chọn danh mục"
+
+#: inc/admin/function-panel-home.php:98 inc/admin/function-panel-xlmega.php:179
+msgid "Post sorting"
+msgstr "Bài viết phân loại"
+
+#: inc/admin/function-panel-home.php:100
+#: inc/admin/function-panel-xlmega.php:181
+msgid "By publication date"
+msgstr "Theo ngày xuất bản"
+
+#: inc/admin/function-panel-home.php:101
+#: inc/admin/function-panel-xlmega.php:182
+msgid "By date modified"
+msgstr "Theo ngày sửa đổi"
+
+#: inc/admin/function-panel-home.php:102
+#: inc/admin/function-panel-xlmega.php:183
+msgid "By title"
+msgstr "Theo tiêu đề"
+
+#: inc/admin/function-panel-home.php:103
+#: inc/admin/function-panel-xlmega.php:184
+msgid "By number of comments"
+msgstr "Theo số lượng bình luận"
+
+#: inc/admin/function-panel-home.php:104
+#: inc/admin/function-panel-xlmega.php:185
+msgid "In random order"
+msgstr "Theo thứ tự ngẫu nhiên"
+
+#: inc/admin/function-panel-home.php:111
+msgid "Number of posts available"
+msgstr "Số lượng bài viết có sẵn"
+
+#: inc/admin/function-panel-home.php:117
+#: inc/admin/function-panel-xlmega.php:192
+msgid "Number of posts displayed"
+msgstr "Số lượng bài viết được hiển thị"
+
+#: inc/admin/function-panel-home.php:123
+msgid "Post title option"
+msgstr "Tùy chọn tiêu đề bài đăng"
+
+#: inc/admin/function-panel-home.php:135
+#: inc/admin/function-panel-xlmega.php:198
+msgid "Remove post titles"
+msgstr "Xóa tiêu đề bài viết"
+
+#: inc/admin/function-panel-home.php:141
+#: inc/admin/function-panel-xlmega.php:204
+msgid "Title text size"
+msgstr "Kích thước văn bản tiêu đề"
+
+#: inc/admin/function-panel-home.php:154
+msgid "Title text size for small cards"
+msgstr "Kích thước văn bản tiêu đề cho thẻ nhỏ"
+
+#: inc/admin/function-panel-home.php:167
+#: inc/admin/function-panel-xlmega.php:217
+msgid "Posts titles text color"
+msgstr "Màu văn bản tiêu đề bài viết"
+
+#: inc/admin/function-panel-home.php:173
+#: inc/admin/function-panel-xlmega.php:223
+msgid "Posts titles color on hover"
+msgstr "Màu tiêu đề bài viết khi di chuột"
+
+#: inc/admin/function-panel-home.php:179
+#: inc/admin/function-panel-xlmega.php:229
+msgid "Posts background color"
+msgstr "Màu nền bài viết"
+
+#: inc/admin/function-panel-home.php:185
+#: inc/admin/function-panel-xlmega.php:235
+msgid "Background color for posts (on hover)"
+msgstr "Màu nền cho bài viết (khi di chuột)"
+
+#: inc/admin/function-panel-home.php:191
+msgid "Enable slider auto start"
+msgstr "Bật tự động khởi động thanh trượt"
+
+#: inc/admin/function-panel-home.php:197
+msgid "Animation for auto slider"
+msgstr "Hoạt hình cho thanh trượt tự động"
+
+#: inc/admin/function-panel-home.php:199
+msgid "Standard flipping"
+msgstr "Lật tiêu chuẩn"
+
+#: inc/admin/function-panel-home.php:200
+msgid "Dynamic zoom"
+msgstr "Thu phóng động"
+
+#: inc/admin/function-panel-home.php:201
+msgid "Upheaval"
+msgstr "Biến động"
+
+#: inc/admin/function-panel-home.php:202
+msgid "Fading away"
+msgstr "Mờ đi"
+
+#: inc/admin/function-panel-home.php:209
+msgid "Enable slider navigation buttons"
+msgstr "Bật các nút điều hướng thanh trượt"
+
+#: inc/admin/function-panel-home.php:278
+msgid "Grid three blocks"
+msgstr "Lưới ba khối"
+
+#: inc/admin/function-panel-home.php:279
+msgid "Grid narrow blocks"
+msgstr "Lưới khối hẹp"
+
+#: inc/admin/function-panel-home.php:280
+msgid "Grid five blocks"
+msgstr "Lưới năm khối"
+
+#: inc/admin/function-panel-home.php:281
+msgid "Vertical columns"
+msgstr "Cột dọc"
+
+#: inc/admin/function-panel-home.php:282
+msgid "Big slider"
+msgstr "Thanh trượt lớn"
+
+#: inc/admin/function-panel-home.php:283
+msgid "Slider three blocks"
+msgstr "Thanh trượt ba khối"
+
+#: inc/admin/function-panel-home.php:284
+msgid "Slider two blocks"
+msgstr "Trượt hai khối"
+
+#: inc/admin/function-panel-home.php:285
+msgid "Partial slider"
+msgstr "Thanh trượt một phần"
+
+#: inc/admin/function-panel-home.php:343
+#: inc/admin/function-panel-xlmega.php:382
+msgid "No image selected"
+msgstr "Chưa chọn ảnh"
+
+#: inc/admin/function-panel-home.php:349
+#: inc/admin/function-panel-xlmega.php:388
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/admin/function-panel-home.php:350
+#: inc/admin/function-panel-xlmega.php:389
+msgid "Select Image"
+msgstr "Chọn ảnh"
+
+#: inc/admin/function-panel-home.php:359
+#: inc/admin/function-panel-xlmega.php:398
+#: inc/admin/function-panel-xlmega.php:408
+msgid "Latest posts (default)"
+msgstr "Bài viết mới nhất (mặc định)"
+
+#: inc/admin/function-panel-home.php:445
+#: inc/admin/function-panel-xlmega.php:494
+msgid "Latest Posts"
+msgstr "Bài viết mới nhất"
+
+#: inc/admin/function-panel-home.php:469 inc/admin/function-panel-soc.php:234
+#: inc/admin/function-panel-xlmega.php:518
+msgid "Roll up block"
+msgstr "Khối cuộn lên"
+
+#: inc/admin/function-panel-home.php:470 inc/admin/function-panel-soc.php:235
+#: inc/admin/function-panel-xlmega.php:519
+msgid "Delete block"
+msgstr "Xóa khối"
+
+#: inc/admin/function-panel-reset.php:1112
+msgid "Preset settings"
+msgstr "Cài đặt đặt trước"
+
+#: inc/admin/function-panel-reset.php:1113
+msgid ""
+"This will reset all theme settings to default, apply the chosen color scheme "
+"and activate some settings for the example"
+msgstr ""
+"Thao tác này sẽ đặt lại tất cả cài đặt chủ đề về mặc định, áp dụng bảng màu "
+"đã chọn và kích hoạt một số cài đặt chẳng hạn"
+
+#: inc/admin/function-panel-reset.php:1120
+msgid "Preset options"
+msgstr "Tùy chọn đặt trước"
+
+#: inc/admin/function-panel-reset.php:1284 inc/demo/demo.php:13
+#: inc/demo/demo.php:133 inc/demo/demo.php:373 inc/demo/demo.php:493
+msgid "Without settings (Defaults)"
+msgstr "Không có cài đặt (Mặc định)"
+
+#: inc/admin/function-panel-reset.php:1292
+msgid "Style: Confident oasis"
+msgstr "Phong cách: Ốc đảo tự tin"
+
+#: inc/admin/function-panel-reset.php:1294
+msgid "Font: Roboto"
+msgstr "Phông chữ: Roboto"
+
+#: inc/admin/function-panel-reset.php:1296
+msgid "Color scheme: Light (Green and Orange)"
+msgstr "Bảng màu: Nhạt (Xanh lá và Cam)"
+
+#: inc/admin/function-panel-reset.php:1306
+msgid "Style: Photo maximalism"
+msgstr "Phong cách: Chủ nghĩa tối đa hình ảnh"
+
+#: inc/admin/function-panel-reset.php:1308
+msgid "Font: Comfortaa and Roboto"
+msgstr "Phông chữ: Comfortaa và Roboto"
+
+#: inc/admin/function-panel-reset.php:1310
+msgid "Color scheme: Light (Light grey and Light red)"
+msgstr "Bảng màu: Nhạt (Xám nhạt và Đỏ nhạt)"
+
+#: inc/admin/function-panel-reset.php:1320
+msgid "Style: News book"
+msgstr "Phong cách: Sách tin tức"
+
+#: inc/admin/function-panel-reset.php:1322
+msgid "Font: Philosopher"
+msgstr "Phông chữ: Nhà triết học"
+
+#: inc/admin/function-panel-reset.php:1324
+msgid "Color scheme: Light (Dark blue and Light blue)"
+msgstr "Bảng màu: Nhạt (Xanh đậm và Xanh nhạt)"
+
+#: inc/admin/function-panel-reset.php:1334
+msgid "Style: Minimalism"
+msgstr "Phong cách: Chủ nghĩa tối giản"
+
+#: inc/admin/function-panel-reset.php:1336
+msgid "Font: Charis-sil"
+msgstr "Phông chữ: Charis-sil"
+
+#: inc/admin/function-panel-reset.php:1338
+msgid "Color scheme: Light (Blue)"
+msgstr "Bảng màu: Nhạt (Xanh)"
+
+#: inc/admin/function-panel-reset.php:1348
+msgid "Style: Night magazine"
+msgstr "Phong cách: Tạp chí đêm"
+
+#: inc/admin/function-panel-reset.php:1350
+msgid "Font: Play"
+msgstr "Phông chữ: Chơi"
+
+#: inc/admin/function-panel-reset.php:1352
+msgid "Color scheme: Dark (Red and Orange)"
+msgstr "Bảng màu: Tối (Đỏ và Cam)"
+
+#: inc/admin/function-panel-reset.php:1362
+msgid "Style: Intrusive frames"
+msgstr "Phong cách: Khung xâm nhập"
+
+#: inc/admin/function-panel-reset.php:1364
+msgid "Font: Bitter"
+msgstr "Phông chữ: Đắng"
+
+#: inc/admin/function-panel-reset.php:1366
+msgid "Color scheme: Dark (Green and Orange)"
+msgstr "Bảng màu: Tối (Xanh và Cam)"
+
+#: inc/admin/function-panel-reset.php:1376
+msgid "Style: News time"
+msgstr "Phong cách: Thời sự"
+
+#: inc/admin/function-panel-reset.php:1378
+msgid "Font: Fira-sans and Oswald"
+msgstr "Phông chữ: Fira-sans và Oswald"
+
+#: inc/admin/function-panel-reset.php:1380
+msgid "Color scheme: Light (Dark grey and Red)"
+msgstr "Bảng màu: Nhạt (Xám đậm và Đỏ)"
+
+#: inc/admin/function-panel-reset.php:1390
+msgid "Style: Hippopotamus"
+msgstr "Phong cách: Hà mã"
+
+#: inc/admin/function-panel-reset.php:1392
+msgid "Font: Jost"
+msgstr "Phông chữ: Jost"
+
+#: inc/admin/function-panel-reset.php:1394
+msgid "Color scheme: Light (Light grey and Green)"
+msgstr "Bảng màu: Nhạt (Xám nhạt và Xanh lục)"
+
+#: inc/admin/function-panel-reset.php:1404
+msgid "Style: Strict carrot"
+msgstr "Phong cách: Cà rốt nghiêm ngặt"
+
+#: inc/admin/function-panel-reset.php:1406
+msgid "Font: Cuprum and Exo-2"
+msgstr "Phông chữ: Cuprum và Exo-2"
+
+#: inc/admin/function-panel-reset.php:1408
+msgid "Color scheme: Light (Orange and Gray)"
+msgstr "Bảng màu: Nhạt (Cam và Xám)"
+
+#: inc/admin/function-panel-reset.php:1418
+msgid "Style: Womens blog"
+msgstr "Phong cách: Blog phụ nữ"
+
+#: inc/admin/function-panel-reset.php:1420
+msgid "Font: Bad-script and Caveat"
+msgstr "Phông chữ: Chữ xấu và hãy cẩn thận"
+
+#: inc/admin/function-panel-reset.php:1422
+msgid "Color scheme: Light (Violet and Pink)"
+msgstr "Bảng màu: Nhạt (Tím và Hồng)"
+
+#: inc/admin/function-panel-reset.php:1432
+msgid "Style: Heavenly"
+msgstr "Phong cách: Thiên đường"
+
+#: inc/admin/function-panel-reset.php:1434
+msgid "Font: Bellota"
+msgstr "Phông chữ: Bellota"
+
+#: inc/admin/function-panel-reset.php:1436
+msgid "Color scheme: Light (Heavenly and Light blue)"
+msgstr "Phối màu: Ánh sáng (Thiên đường và Xanh nhạt)"
+
+#: inc/admin/function-panel-reset.php:1446
+msgid "Style: Through limitations"
+msgstr "Phong cách: Thông qua những hạn chế"
+
+#: inc/admin/function-panel-reset.php:1448
+msgid "Font: Neucha and Cuprum"
+msgstr "Phông chữ: Neucha và Cuprum"
+
+#: inc/admin/function-panel-reset.php:1450
+msgid "Color scheme: Light (Turquoise)"
+msgstr "Bảng màu: Ánh sáng (Turquoise)"
+
+#: inc/admin/function-panel-reset.php:1460
+msgid "Style: Mixing colors"
+msgstr "Phong cách: Pha trộn màu sắc"
+
+#: inc/admin/function-panel-reset.php:1462
+msgid "Font: Underdog"
+msgstr "Phông chữ: Underdog"
+
+#: inc/admin/function-panel-reset.php:1464
+msgid "Multicolor scheme: Demo location of color"
+msgstr "Lược đồ nhiều màu: Vị trí demo của màu"
+
+#: inc/admin/function-panel-soc.php:52
+msgid "Drag the block with the cursor to change the position of the links"
+msgstr "Kéo khối bằng con trỏ để thay đổi vị trí của các liên kết"
+
+#: inc/admin/function-panel-soc.php:56
+msgid "Add section"
+msgstr "Thêm phần"
+
+#: inc/admin/function-panel-soc.php:61
+msgid "Picture variant"
+msgstr "Biến thể hình ảnh"
+
+#: inc/admin/function-panel-soc.php:68
+msgid "Link to social network (URL)"
+msgstr "Liên kết tới mạng xã hội (URL)"
+
+#: inc/admin/function-panel-soc.php:74
+msgid "Open link in new tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: inc/admin/function-panel-soc.php:140
+msgid "Social link"
+msgstr "Liên kết xã hội"
+
+#: inc/admin/function-panel-xlmega.php:15
+msgid "XL Mega menu"
+msgstr "Thực đơn XL Mega"
+
+#: inc/admin/function-panel-xlmega.php:30
+msgid "Activate XL Mega menu"
+msgstr "Kích hoạt menu XL Mega"
+
+#: inc/admin/function-panel-xlmega.php:44
+msgid "Priority partition"
+msgstr "Phân vùng ưu tiên"
+
+#: inc/admin/function-panel-xlmega.php:48
+msgid "First the graphical menu, then the lists"
+msgstr "Đầu tiên là menu đồ họa, sau đó là danh sách"
+
+#: inc/admin/function-panel-xlmega.php:49
+msgid "First the list menu, then the graphic"
+msgstr "Đầu tiên là menu danh sách, sau đó là đồ họa"
+
+#: inc/admin/function-panel-xlmega.php:90
+msgid "Sections with blocks on the mega menu"
+msgstr "Các phần có khối trên menu mega"
+
+#: inc/admin/function-panel-xlmega.php:119
+msgid "Title for column 1"
+msgstr "Tiêu đề cho cột 1"
+
+#: inc/admin/function-panel-xlmega.php:125
+msgid "Select category 1"
+msgstr "Chọn loại 1"
+
+#: inc/admin/function-panel-xlmega.php:131
+msgid "Title for column 2"
+msgstr "Tiêu đề cho cột 2"
+
+#: inc/admin/function-panel-xlmega.php:137
+msgid "Select category 2"
+msgstr "Chọn loại 2"
+
+#: inc/admin/function-panel-xlmega.php:143
+msgid "Title for column 3"
+msgstr "Tiêu đề cho cột 3"
+
+#: inc/admin/function-panel-xlmega.php:149
+msgid "Select category 3"
+msgstr "Chọn loại 3"
+
+#: inc/admin/function-panel-xlmega.php:155
+msgid "Title for column 4"
+msgstr "Tiêu đề cho cột 4"
+
+#: inc/admin/function-panel-xlmega.php:161
+msgid "Select category 4"
+msgstr "Chọn danh mục 4"
+
+#: inc/admin/function-panel-xlmega.php:167
+msgid "Title for column 5"
+msgstr "Tiêu đề cho cột 5"
+
+#: inc/admin/function-panel-xlmega.php:173
+msgid "Select category 5"
+msgstr "Chọn danh mục 5"
+
+#: inc/admin/function-panel-xlmega.php:320
+msgid "Grid strings blocks"
+msgstr "Khối chuỗi lưới"
+
+#: inc/admin/function-panel-xlmega.php:321
+msgid "Grid narrow small blocks"
+msgstr "Lưới thu hẹp các khối nhỏ"
+
+#: inc/admin/function-panel-xlmega.php:322
+msgid "Grid narrow mid blocks"
+msgstr "Lưới thu hẹp khối giữa"
+
+#: inc/admin/function-panel-xlmega.php:323
+msgid "Grid narrow big blocks"
+msgstr "Lưới thu hẹp khối lớn"
+
+#: inc/admin/function-panel-xlmega.php:324
+msgid "Grid image blocks"
+msgstr "Khối hình ảnh lưới"
+
+#: inc/demo/demo.php:14 inc/demo/demo.php:23 inc/demo/demo.php:32
+#: inc/demo/demo.php:41 inc/demo/demo.php:50 inc/demo/demo.php:59
+#: inc/demo/demo.php:68 inc/demo/demo.php:77 inc/demo/demo.php:86
+#: inc/demo/demo.php:95 inc/demo/demo.php:104 inc/demo/demo.php:113
+#: inc/demo/demo.php:122
+msgid "News"
+msgstr "Tin tức"
+
+#: inc/demo/demo.php:77 inc/demo/demo.php:161 inc/demo/demo.php:383
+#: inc/demo/demo.php:539
+msgid "Favorites"
+msgstr "Yêu thích"
+
+#: inc/demo/demo.php:134 inc/demo/demo.php:143 inc/demo/demo.php:152
+#: inc/demo/demo.php:161 inc/demo/demo.php:170 inc/demo/demo.php:179
+#: inc/demo/demo.php:188 inc/demo/demo.php:197 inc/demo/demo.php:206
+#: inc/demo/demo.php:215 inc/demo/demo.php:224 inc/demo/demo.php:233
+#: inc/demo/demo.php:242
+msgid "Cars"
+msgstr "Xe"
+
+#: inc/demo/demo.php:374 inc/demo/demo.php:383 inc/demo/demo.php:392
+#: inc/demo/demo.php:401 inc/demo/demo.php:410 inc/demo/demo.php:419
+#: inc/demo/demo.php:428 inc/demo/demo.php:437 inc/demo/demo.php:446
+#: inc/demo/demo.php:455 inc/demo/demo.php:464 inc/demo/demo.php:473
+#: inc/demo/demo.php:482
+msgid "Travel"
+msgstr "Du lịch"
+
+#: inc/demo/demo.php:494 inc/demo/demo.php:503 inc/demo/demo.php:512
+#: inc/demo/demo.php:521 inc/demo/demo.php:530 inc/demo/demo.php:539
+#: inc/demo/demo.php:548 inc/demo/demo.php:557 inc/demo/demo.php:566
+#: inc/demo/demo.php:575 inc/demo/demo.php:584 inc/demo/demo.php:593
+#: inc/demo/demo.php:602
+msgid "Food"
+msgstr "Thực Phẩm"
+
+#: inc/function-customizer.php:7108
+msgid "Widget example (Pages)"
+msgstr "Ví dụ về tiện ích (Trang)"
+
+#: inc/function-customizer.php:7121 inc/function-customizer.php:7198
+msgid "Widget example (Categories)"
+msgstr "Ví dụ về widget (Danh mục)"
+
+#: inc/function-customizer.php:7134 inc/function-customizer.php:7181
+msgid "Widget example (Archives)"
+msgstr "Ví dụ về tiện ích (Lưu trữ)"
+
+#: inc/function-customizer.php:7146
+msgid "Widget example (Tag cloud)"
+msgstr "Ví dụ về tiện ích (Đám mây thẻ)"
+
+#: inc/function-customizer.php:7163
+msgid "Widget (Categories)"
+msgstr "Tiện ích (Danh mục)"
+
+#: inc/function-customizer.php:7218
+msgid "Widget (Calendar)"
+msgstr "Tiện ích (Lịch)"
+
+#: inc/function-customizer.php:7397
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: inc/function-customizer.php:7664 inc/function-customizer.php:7686
+#: inc/general.php:332
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#. translators: Hidden accessibility text.
+#: inc/function-customizer.php:7694
+msgid "Close search"
+msgstr "Đóng tìm kiếm"
+
+#: inc/general.php:44
+msgid ""
+"Airin Blog - is a Multipurpose, responsive, fast, minimal magazine theme for "
+"blogs and article sites, news and media, with many settings for all "
+"occasions. Modern minimalism combined with versatility and adaptability. "
+"Lots of customization options that will provide endless options for creating "
+"a unique site. Flexible functionality - different sidebar orientation, "
+"flexible header with logo, 4 menu locations, main menu (mega menu), three "
+"pagination options, breadcrumbs, author block and related posts. Powerful "
+"Typography - Change font size and line height, choose fonts, add color "
+"typography for posts and pages. Clean code, no frameworks, full support for "
+"the WordPress visual customizer. Speed, adaptability and modularity. A "
+"minimum of scripts for modules to work. Decide for yourself which modules "
+"will work. SEO optimization with correct titles and markup. Adaptation for "
+"WooCommerce, Elementor, bbPress, Events Calendar, Jetpack, WPML. Watch full "
+"demos here - airinblog.web-zone.org"
+msgstr ""
+"Airin Blog - là một chủ đề tạp chí đa năng, đáp ứng, nhanh chóng, tối giản "
+"dành cho blog và các trang bài viết, tin tức và phương tiện truyền thông, "
+"với nhiều cài đặt cho mọi trường hợp. Chủ nghĩa tối giản hiện đại kết hợp "
+"với tính linh hoạt và khả năng thích ứng. Rất nhiều tùy chọn tùy chỉnh sẽ "
+"cung cấp vô số tùy chọn để tạo một trang web độc đáo. Chức năng linh hoạt - "
+"hướng thanh bên khác nhau, tiêu đề linh hoạt có logo, 4 vị trí menu, menu "
+"chính (menu lớn), ba tùy chọn phân trang, đường dẫn, khối tác giả và các bài "
+"đăng liên quan. Kiểu chữ mạnh mẽ - Thay đổi kích thước phông chữ và chiều "
+"cao dòng, chọn phông chữ, thêm kiểu chữ màu cho bài viết và trang. Mã sạch, "
+"không có khung, hỗ trợ đầy đủ cho tùy biến hình ảnh WordPress. Tốc độ, khả "
+"năng thích ứng và tính mô đun. Tối thiểu các tập lệnh để mô-đun hoạt động. "
+"Hãy tự quyết định mô-đun nào sẽ hoạt động. Tối ưu hóa SEO với tiêu đề và "
+"đánh dấu chính xác. Thích ứng cho WooCommerce, Elementor, bbPress, Events "
+"Calendar, Jetpack, WPML. Xem bản demo đầy đủ tại đây - airinblog.web-zone.org"
+
+#: inc/general.php:107
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: inc/general.php:108
+msgid "Top Menu"
+msgstr "Menu trên cùng"
+
+#: inc/general.php:109
+msgid "Footer Menu"
+msgstr "Menu chân trang"
+
+#: inc/general.php:110
+msgid "Widget Menu"
+msgstr "Trình đơn tiện ích"
+
+#: inc/general.php:218 inc/general.php:219 inc/general.php:220
+msgid "Theme"
+msgstr "Chủ đề"
+
+#: inc/general.php:229
+msgid "Side column"
+msgstr "Cột bên"
+
+#: inc/general.php:231
+msgid ""
+"These widgets are displayed in the right or left column, depending on the "
+"site settings"
+msgstr ""
+"Các widget này được hiển thị ở cột bên phải hoặc bên trái, tùy thuộc vào cài "
+"đặt trang web"
+
+#: inc/general.php:240
+msgid "Side column (WooCommerce)"
+msgstr "Cột bên (WooC Commerce)"
+
+#: inc/general.php:242
+msgid "These widgets are displayed in the sidebar on WooCommerce pages"
+msgstr ""
+"Các tiện ích này được hiển thị trong thanh bên trên các trang WooC Commerce"
+
+#: inc/general.php:251
+msgid "Side column (bbPress)"
+msgstr "Cột bên (bbPress)"
+
+#: inc/general.php:253
+msgid "These widgets are displayed in the sidebar on bbPress pages"
+msgstr "Các tiện ích này được hiển thị trong thanh bên trên các trang bbPress"
+
+#: inc/general.php:262
+msgid "Side column (BuddyPress)"
+msgstr "Cột bên (BuddyPress)"
+
+#: inc/general.php:264
+msgid "These widgets are displayed in the sidebar on BuddyPress pages"
+msgstr "Các tiện ích này được hiển thị trong thanh bên trên trang BuddyPress"
+
+#: inc/general.php:273
+msgid "Footer 1"
+msgstr "Chân trang 1"
+
+#: inc/general.php:275
+msgid "These widgets are displayed in the first column of the footer"
+msgstr "Các widget này được hiển thị ở cột đầu tiên của footer"
+
+#: inc/general.php:282
+msgid "Footer 2"
+msgstr "Chân trang 2"
+
+#: inc/general.php:284
+msgid "These widgets are displayed in the second column of the footer"
+msgstr "Các widget này được hiển thị ở cột thứ hai của footer"
+
+#: inc/general.php:291
+msgid "Footer 3"
+msgstr "Chân trang 3"
+
+#: inc/general.php:293
+msgid "These widgets are displayed in the third column of the footer"
+msgstr "Các tiện ích này được hiển thị ở cột thứ ba của chân trang"
+
+#: inc/general.php:300
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: inc/general.php:302
+msgid "These widgets are displayed in the fourth column of the footer"
+msgstr "Các widget này được hiển thị ở cột thứ tư của chân trang"
+
+#: inc/general.php:362
+msgid "Tag cloud"
+msgstr "Gắn thẻ đám mây"
+
+#: inc/general.php:372
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/general.php:384
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: inc/general.php:395 inc/general.php:407
+msgid "Title for text"
+msgstr "Tiêu đề cho văn bản"
+
+#: inc/general.php:396 inc/general.php:408
+msgid "Test text"
+msgstr "Văn bản kiểm tra"
+
+#: inc/general.php:420
+msgid "Calendar"
+msgstr "Lịch"
+
+#: inc/general.php:574
+msgid "Nothing found:"
+msgstr "Không kết quả:"
+
+#: inc/general.php:575
+msgid "No sorting"
+msgstr "Không sắp xếp"
+
+#: inc/general.php:604
+msgid "MENU"
+msgstr "MENU"
+
+#: inc/general.php:723
+msgid ""
+"\n"
+" Important!\n"
+"\n"
+" You are deleting all settings for the current theme.\n"
+"\n"
+" This action is irreversible!"
+msgstr ""
+"\n"
+" Quan trọng!\n"
+"\n"
+" Bạn đang xóa tất cả cài đặt cho chủ đề hiện tại.\n"
+"\n"
+" Hành động này là không thể thay đổi được!"
+
+#: inc/general.php:724
+msgid ""
+"\n"
+" Important!\n"
+"\n"
+" You change all colors of the current theme.\n"
+"\n"
+" This action is irreversible!"
+msgstr ""
+"\n"
+" Quan trọng!\n"
+"\n"
+" Bạn thay đổi tất cả màu sắc của chủ đề hiện tại.\n"
+"\n"
+" Hành động này là không thể thay đổi được!"
+
+#: inc/module/breadcrumb.php:168
+msgid "Posted by "
+msgstr "Đăng bởi "
+
+#: inc/module/breadcrumb.php:174
+msgid "Error 404 "
+msgstr "Lỗi 404 "
+
+#: inc/module/breadcrumb.php:179
+msgid "Page"
+msgstr "Trang"
+
+#: inc/module/meta-tags.php:27 inc/module/meta-tags.php:240
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/module/meta-tags.php:33 inc/module/meta-tags.php:246
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/module/meta-tags.php:48 inc/module/meta-tags.php:335
+msgid "Number of comments on a post"
+msgstr "Số lượng bình luận trên một bài viết"
+
+#: inc/module/meta-tags.php:53 inc/module/meta-tags.php:340
+msgid "Comments"
+msgstr "Bình luận"
+
+#: inc/module/meta-tags.php:76 inc/module/meta-tags.php:385
+msgid "Views"
+msgstr "Lượt xem"
+
+#: inc/module/meta-tags.php:98 inc/module/meta-tags.php:265
+msgid "Created"
+msgstr "Đã tạo"
+
+#: inc/module/meta-tags.php:116 inc/module/meta-tags.php:153
+#: inc/module/meta-tags.php:283 inc/module/meta-tags.php:320
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/module/meta-tags.php:135 inc/module/meta-tags.php:302
+msgid "Updated"
+msgstr "Đã cập nhật"
+
+#: inc/module/meta-tags.php:173 inc/module/meta-tags.php:411
+#: inc/module/meta-tags.php:462
+msgid "Categories:"
+msgstr "Danh mục:"
+
+#: inc/module/meta-tags.php:191 inc/module/meta-tags.php:433
+#: inc/module/meta-tags.php:480
+msgid "Tags:"
+msgstr "Thẻ:"
+
+#: inc/module/meta-tags.php:221
+msgid "Less 1 min"
+msgstr "Ít hơn 1 phút"
+
+#: inc/module/meta-tags.php:223
+msgid "min"
+msgstr "phút"
+
+#: inc/module/meta-tags.php:363
+msgid "Reading time"
+msgstr "Thời gian đọc"
+
+#: inc/module/top-menu.php:43
+msgid "Mobile"
+msgstr "Di động"
+
+#: inc/option/hook.php:44
+msgid "Page for adding codes"
+msgstr "Trang để thêm mã"
+
+#: inc/option/hook.php:60
+msgid "Before closing HEAD tag"
+msgstr "Trước khi đóng thẻ HEAD"
+
+#: inc/option/hook.php:67
+msgid "Before the closing BODY tag"
+msgstr "Trước thẻ đóng BODY"
+
+#: inc/option/hook.php:74
+msgid "Before the closing FOOTER tag"
+msgstr "Trước thẻ FOOTER đóng"
+
+#: inc/option/hook.php:83
+msgid "Before top menu"
+msgstr "Trước menu trên cùng"
+
+#: inc/option/hook.php:89
+msgid "After top menu"
+msgstr "Sau menu trên cùng"
+
+#: inc/option/hook.php:98
+msgid "Before main menu"
+msgstr "Trước menu chính"
+
+#: inc/option/hook.php:104
+msgid "After main menu"
+msgstr "Sau menu chính"
+
+#: inc/option/hook.php:113
+msgid "After Wide slider"
+msgstr "Sau Thanh trượt rộng"
+
+#: inc/option/hook.php:122
+msgid "Top of footer"
+msgstr "Đầu chân trang"
+
+#: inc/option/hook.php:128
+msgid "Before bottom menu"
+msgstr "Trước menu dưới cùng"
+
+#: inc/option/hook.php:137
+msgid "Before the big slider on the main page"
+msgstr "Trước thanh trượt lớn trên trang chính"
+
+#: inc/option/hook.php:143
+msgid "Before the \"Grid five blocks\" section on the main page"
+msgstr "Trước phần \"Lưới năm khối\" trên trang chính"
+
+#: inc/option/hook.php:149
+msgid "Before the \"Grid narrow blocks\" section on the main page"
+msgstr "Trước phần \"Lưới thu hẹp khối\" trên trang chính"
+
+#: inc/option/hook.php:155
+msgid "Before the \"Grid three blocks\" section on the main page"
+msgstr "Trước phần \"Lưới ba khối\" trên trang chính"
+
+#: inc/option/hook.php:161
+msgid "Before the \"Vertical columns\" section on the main page"
+msgstr "Trước phần “Cột dọc” trên trang chính"
+
+#: inc/option/hook.php:167
+msgid "Before the \"Partial slider\" section on the main page"
+msgstr "Trước phần \"Thanh trượt một phần\" trên trang chính"
+
+#: inc/option/hook.php:173
+msgid "Before the \"Slider three blocks\" section on the main page"
+msgstr "Trước phần \"Thanh trượt ba khối\" trên trang chính"
+
+#: inc/option/hook.php:179
+msgid "Before the \"Slider two blocks\" section on the main page"
+msgstr "Trước phần \"Thanh trượt hai khối\" trên trang chính"
+
+#: inc/option/hook.php:185
+msgid "Before the \"Rrecent posts\" section on the main page"
+msgstr "Trước phần \"Bài viết gần đây\" trên trang chính"
+
+#: inc/option/hook.php:191
+msgid "After the \"Rrecent posts\" section on the main page"
+msgstr "Sau phần \"Bài viết gần đây\" trên trang chính"
+
+#: inc/option/hook.php:200
+msgid "Before breadcrumbs"
+msgstr "Trước mẩu bánh mì"
+
+#: inc/option/hook.php:209
+msgid "Before the list of posts on the category page"
+msgstr "Trước danh sách bài viết trên trang chuyên mục"
+
+#: inc/option/hook.php:215
+msgid "After the list of posts on the category page"
+msgstr "Sau danh sách bài viết trên trang chuyên mục"
+
+#: inc/option/hook.php:224
+msgid "Before the main image inside the post"
+msgstr "Trước hình ảnh chính bên trong bài viết"
+
+#: inc/option/hook.php:230
+msgid "Before the title inside the post"
+msgstr "Trước tiêu đề bên trong bài viết"
+
+#: inc/option/hook.php:236
+msgid "Before meta data inside a post"
+msgstr "Trước dữ liệu meta bên trong một bài viết"
+
+#: inc/option/hook.php:242
+msgid "Before content within a post"
+msgstr "Trước nội dung trong bài viết"
+
+#: inc/option/hook.php:248
+msgid "Before the author section inside the post"
+msgstr "Trước phần tác giả bên trong bài viết"
+
+#: inc/option/hook.php:254
+msgid "Before the \"Next post\" block inside the post"
+msgstr "Trước khối \"Bài tiếp theo\" bên trong bài viết"
+
+#: inc/option/hook.php:260
+msgid "Before the \"Related posts\" block inside the post"
+msgstr "Trước khối \"Bài viết liên quan\" bên trong bài viết"
+
+#: inc/option/hook.php:266
+msgid "Before the \"Comments\" block inside the post"
+msgstr "Trước khối \"Bình luận\" bên trong bài viết"
+
+#: inc/option/hook.php:272
+msgid "At the end of the post"
+msgstr "Ở cuối bài viết"
+
+#: inc/option/hook.php:281
+msgid "Before the main image inside the page"
+msgstr "Trước hình ảnh chính bên trong trang"
+
+#: inc/option/hook.php:287
+msgid "Before the title inside the page"
+msgstr "Trước tiêu đề bên trong trang"
+
+#: inc/option/hook.php:293
+msgid "After the title inside the page"
+msgstr "Sau tiêu đề bên trong trang"
+
+#: inc/option/hook.php:299
+msgid "At the end of the page"
+msgstr "Ở cuối trang"
+
+#: inc/option/hook.php:308
+msgid "Before searching for products (WooCommerce)"
+msgstr "Trước khi tìm kiếm sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:314
+msgid "Above the product grid (WooCommerce)"
+msgstr "Phía trên lưới sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:320
+msgid "After the product grid (WooCommerce)"
+msgstr "Sau lưới sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:329
+msgid "At the top of the product page (WooCommerce)"
+msgstr "Ở đầu trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:335
+msgid "After the title on the product page (WooCommerce)"
+msgstr "Sau tiêu đề trên trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:341
+msgid "After the price on the product page (WooCommerce)"
+msgstr "Sau giá trên trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:347
+msgid "At the bottom of the product data on the product page (WooCommerce)"
+msgstr "Ở cuối dữ liệu sản phẩm trên trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:353
+msgid "Before related products on product page (WooCommerce)"
+msgstr "Trước các sản phẩm liên quan trên trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:359
+msgid "At the end of the product page (WooCommerce)"
+msgstr "Ở cuối trang sản phẩm (WooC Commerce)"
+
+#: inc/option/hook.php:368
+msgid "Above the list of products on the shopping cart page (WooCommerce)"
+msgstr "Phía trên danh sách sản phẩm trên trang giỏ hàng (WooC Commerce)"
+
+#: inc/option/hook.php:374
+msgid "After the list of products on the cart page (WooCommerce)"
+msgstr "Sau danh sách sản phẩm trên trang giỏ hàng (WooC Commerce)"
+
+#: inc/option/hook.php:380
+msgid "At the bottom of the cart page (WooCommerce)"
+msgstr "Ở cuối trang giỏ hàng (WooC Commerce)"
+
+#: inc/option/hook.php:389
+msgid "Under the heading on the order page (WooCommerce)"
+msgstr "Dưới tiêu đề trên trang đặt hàng (WooC Commerce)"
+
+#: inc/option/hook.php:395
+msgid "After the order details on the order page (WooCommerce)"
+msgstr "Sau chi tiết đơn hàng trên trang đặt hàng (WooC Commerce)"
+
+#: inc/option/hook.php:401
+msgid "At the end of the order page (WooCommerce)"
+msgstr "Ở cuối trang đặt hàng (WooC Commerce)"
+
+#: inc/option/hook.php:410
+msgid "Above the order information on the page - Order accepted (WooCommerce)"
+msgstr ""
+"Phía trên thông tin đơn hàng trên trang - Đơn hàng được chấp nhận (WooC "
+"Commerce)"
+
+#: inc/option/hook.php:416
+msgid ""
+"After the information about the order on the page - Order accepted "
+"(WooCommerce)"
+msgstr ""
+"Sau thông tin về đơn hàng trên trang - Đơn hàng được chấp nhận (WooC "
+"Commerce)"
+
+#: inc/option/hook.php:422
+msgid "At the bottom of the page - Order accepted (WooCommerce)"
+msgstr "Ở cuối trang - Đơn hàng được chấp nhận (WooC Commerce)"
+
+#: inc/option/hook.php:431
+msgid "Top of personal account (WooCommerce)"
+msgstr "Đầu tài khoản cá nhân (WooC Commerce)"
+
+#: inc/option/hook.php:437
+msgid "At the bottom of the dashboard tab in personal account (WooCommerce)"
+msgstr "Ở cuối tab bảng điều khiển trong tài khoản cá nhân (WooC Commerce)"
+
+#: inc/option/hook.php:443
+msgid "At the bottom of your personal account (WooCommerce)"
+msgstr "Ở cuối tài khoản cá nhân của bạn (WooC Commerce)"
+
+#: inc/option/hook.php:452
+msgid "Above the heading on the page (bbPress)"
+msgstr "Phía trên tiêu đề trên trang (bbPress)"
+
+#: inc/option/hook.php:458
+msgid "After the title on the page (bbPress)"
+msgstr "Sau tiêu đề trên trang (bbPress)"
+
+#: inc/option/hook.php:464
+msgid "At the end of the page (bbPress)"
+msgstr "Ở cuối trang (bbPress)"
+
+#: inc/option/hook.php:473
+msgid "Above the heading on the page (BuddyPress)"
+msgstr "Phía trên tiêu đề trên trang (BuddyPress)"
+
+#: inc/option/hook.php:479
+msgid "After the title on the page (BuddyPress)"
+msgstr "Sau tiêu đề trên trang (BuddyPress)"
+
+#: inc/option/hook.php:485
+msgid "At the end of the page (BuddyPress)"
+msgstr "Ở cuối trang (BuddyPress)"
+
+#: inc/option/set.php:32
+msgid "All settings saved!"
+msgstr "Đã lưu tất cả cài đặt!"
+
+#: inc/option/set.php:51
+msgid "Pro page"
+msgstr "trang chuyên nghiệp"
+
+#: inc/option/set.php:59
+msgid "General"
+msgstr "Chung"
+
+#: inc/option/set.php:62
+msgid "Codes (Hooks theme)"
+msgstr "Mã (chủ đề Hooks)"
+
+#: inc/option/set.php:70
+msgid "Information"
+msgstr "Thông tin"
+
+#: inc/option/set.php:110
+msgid "Additional theme extension"
+msgstr "Tiện ích mở rộng chủ đề bổ sung"
+
+#: inc/option/set.php:118
+msgid "Technical support"
+msgstr "Hỗ trợ kỹ thuật"
+
+#: inc/option/set.php:128
+msgid "Additional support for PRO subscriptions"
+msgstr "Hỗ trợ bổ sung cho đăng ký PRO"
+
+#: inc/option/set.php:177
+msgid "Avatar for users"
+msgstr "Hình đại diện cho người dùng"
+
+#: inc/option/set.php:185
+msgid "Change avatar (default) for users without an avatar"
+msgstr "Thay đổi avatar (mặc định) cho người dùng không có avatar"
+
+#: inc/option/set.php:205
+msgid "Removing extra image sizes"
+msgstr "Xóa kích thước hình ảnh bổ sung"
+
+#: inc/option/set.php:213
+msgid "Remove image slicing for 1920 x 1080"
+msgstr "Loại bỏ việc cắt ảnh cho 1920 x 1080"
+
+#: inc/option/set.php:224
+msgid "Remove image slicing for 2560 x 2560, aka \"scaled\""
+msgstr "Xóa việc cắt hình ảnh cho 2560 x 2560, hay còn gọi là \"thu nhỏ\""
+
+#: inc/option/set.php:234
+msgid "Remove image slicing for 2048 x 2048"
+msgstr "Xóa hình ảnh cắt cho 2048 x 2048"
+
+#: inc/option/set.php:244
+msgid "Remove image slicing for 1536 x 1536"
+msgstr "Loại bỏ việc cắt ảnh cho 1536 x 1536"
+
+#: inc/option/set.php:254
+msgid "Remove image slicing for 768 x 768, aka \"medium_large\""
+msgstr "Xóa phần cắt hình ảnh cho 768 x 768, còn gọi là \"medium_large\""
+
+#: inc/option/set.php:269
+msgid "Main post image"
+msgstr "Hình ảnh bài viết chính"
+
+#: inc/option/set.php:277
+msgid ""
+"Add a new image size and apply the default for the main image of posts and "
+"pages"
+msgstr ""
+"Thêm kích thước hình ảnh mới và áp dụng mặc định cho hình ảnh chính của bài "
+"viết và trang"
+
+#: inc/option/set.php:292
+msgid "To restore the default settings, clear the field data and save"
+msgstr "Để khôi phục cài đặt mặc định, hãy xóa dữ liệu trường và lưu"
+
+#: inc/option/set.php:323
+msgid ""
+"Some functionality is provided in a separate plugin (as required by "
+"WordPress)"
+msgstr ""
+"Một số chức năng được cung cấp trong một plugin riêng biệt (theo yêu cầu của "
+"WordPress)"
+
+#: inc/option/set.php:324
+msgid "To extend the theme, install the free plugin "
+msgstr "Để mở rộng chủ đề, hãy cài đặt plugin miễn phí "
+
+#: inc/option/set.php:325
+msgid "What does this give?"
+msgstr "Điều này mang lại điều gì?"
+
+#: inc/option/set.php:326
+msgid "Additional widgets for the front part"
+msgstr "Các vật dụng bổ sung cho phần phía trước"
+
+#: inc/option/set.php:327
+msgid "Two author widgets"
+msgstr "Hai widget tác giả"
+
+#: inc/option/set.php:328
+msgid "Two widgets for recent posts"
+msgstr "Hai widget cho các bài viết gần đây"
+
+#: inc/option/set.php:329
+msgid "Widget with slider"
+msgstr "Tiện ích có thanh trượt"
+
+#: inc/option/set.php:330
+msgid "Widget with banner"
+msgstr "Tiện ích có biểu ngữ"
+
+#: inc/option/set.php:331
+msgid "Widget with links"
+msgstr "Widget có liên kết"
+
+#: inc/option/set.php:332
+msgid "Additional useful functionality in the admin panel"
+msgstr "Chức năng hữu ích bổ sung trong bảng quản trị"
+
+#: inc/option/set.php:333
+msgid ""
+"Column \"Views of posts\" (counter) in the list of posts of the admin panel"
+msgstr ""
+"Cột “Lượt xem bài viết” (bộ đếm) trong danh sách bài viết của bảng quản trị"
+
+#: inc/option/set.php:334
+msgid "\"Thumbnails\" column in the list of admin posts"
+msgstr "Cột \"Hình thu nhỏ\" trong danh sách bài viết của quản trị viên"
+
+#: inc/option/set.php:335
+msgid "Category filter in classic editor"
+msgstr "Bộ lọc danh mục trong trình chỉnh sửa cổ điển"
+
+#: inc/option/set.php:336
+msgid "Disabling the block editor (Gutenberg) in a text editor"
+msgstr ""
+"Vô hiệu hóa trình soạn thảo khối (Gutenberg) trong trình soạn thảo văn bản"
+
+#: inc/option/set.php:337
+msgid "Disabling block editor (Gutenberg) in widgets"
+msgstr "Vô hiệu hóa trình chỉnh sửa khối (Gutenberg) trong các widget"
+
+#: inc/option/set.php:338
+msgid ""
+"Changing the WordPress graphics engine (useful if large photos are not "
+"loading)"
+msgstr "Thay đổi công cụ đồ họa WordPress (hữu ích nếu ảnh lớn không tải được)"
+
+#: inc/option/set.php:339
+msgid "View more information"
+msgstr "Xem thêm thông tin"
+
+#: inc/option/set.php:366
+msgid "Management and configuration instruction for Airin Blog theme"
+msgstr "Hướng dẫn quản lý và cấu hình theme Airin Blog"
+
+#: inc/option/set.php:370
+msgid "Information materials for the Airin Blog theme"
+msgstr "Tài liệu thông tin cho chủ đề Airin Blog"
+
+#: inc/option/set.php:374
+msgid "Watch live sites demos"
+msgstr "Xem bản demo trang web trực tiếp"
+
+#: inc/option/set.php:378
+msgid "Import ready-made demo versions of websites"
+msgstr "Nhập phiên bản demo làm sẵn của trang web"
+
+#: inc/option/set.php:382 inc/option/set.php:393
+msgid "Rate this theme"
+msgstr "Đánh giá chủ đề này"
+
+#: inc/option/set.php:410
+msgid ""
+"All settings of the front part of the theme are located in the visual editor"
+msgstr ""
+"Tất cả các cài đặt của phần trước của chủ đề đều nằm trong trình chỉnh sửa "
+"trực quan"
+
+#: inc/option/set.php:411
+msgid "Go to visual editor"
+msgstr "Chuyển đến trình soạn thảo trực quan"
+
+#: inc/option/set.php:422
+msgid "Various settings of the administrative part of the theme"
+msgstr "Các cài đặt khác nhau của phần quản trị của chủ đề"
+
+#: inc/option/set.php:435
+msgid "Avatar URL (only external address), demo - "
+msgstr "URL Avatar (chỉ địa chỉ bên ngoài), bản demo - "
+
+#: inc/option/set.php:451
+msgid ""
+"When uploading an image to the media library, WordPress cuts many sizes from "
+"one image."
+msgstr ""
+"Khi tải hình ảnh lên thư viện phương tiện, WordPress sẽ cắt nhiều kích cỡ từ "
+"một hình ảnh."
+
+#: inc/option/set.php:452
+msgid ""
+"All these files take up a huge amount of space, while some of them are not "
+"used at all."
+msgstr ""
+"Tất cả các tệp này chiếm một lượng lớn dung lượng, trong khi một số tệp "
+"trong số chúng hoàn toàn không được sử dụng."
+
+#: inc/option/set.php:453
+msgid ""
+"The presented settings allow you to remove from the slicing the largest "
+"sizes that are not used in this theme."
+msgstr ""
+"Các cài đặt được trình bày cho phép bạn loại bỏ khỏi việc cắt các kích thước "
+"lớn nhất không được sử dụng trong chủ đề này."
+
+#: inc/option/set.php:454 inc/option/set.php:518
+msgid ""
+"It is important to know! These settings cannot delete or modify existing "
+"image files. Slicing of images occurs at the time of uploading a new image "
+"to the WordPress media library."
+msgstr ""
+"Điều quan trọng là phải biết! Các cài đặt này không thể xóa hoặc sửa đổi các "
+"tệp hình ảnh hiện có. Việc cắt hình ảnh xảy ra tại thời điểm tải hình ảnh "
+"mới lên thư viện phương tiện WordPress."
+
+#: inc/option/set.php:460
+msgid ""
+"The size is registered by this theme. Used only when \"Full width website\" "
+"is set."
+msgstr ""
+"Kích thước được đăng ký theo chủ đề này. Chỉ được sử dụng khi \"Trang web có "
+"chiều rộng đầy đủ\" được đặt."
+
+#: inc/option/set.php:466
+msgid ""
+"The size is registered by WordPress itself. Can be used by this theme when "
+"1920 x 1080 is disabled and set to Full Screen."
+msgstr ""
+"Kích thước được đăng ký bởi chính WordPress. Có thể được chủ đề này sử dụng "
+"khi 1920 x 1080 bị tắt và được đặt thành Toàn màn hình."
+
+#: inc/option/set.php:472 inc/option/set.php:478 inc/option/set.php:484
+msgid "The size is registered by WordPress itself. Not used in this theme."
+msgstr ""
+"Kích thước được đăng ký bởi chính WordPress. Không được sử dụng trong chủ đề "
+"này."
+
+#: inc/option/set.php:498
+msgid ""
+"These settings register a new size for the main (top) image of posts and "
+"pages."
+msgstr ""
+"Các cài đặt này đăng ký kích thước mới cho hình ảnh chính (trên cùng) của "
+"bài đăng và trang."
+
+#: inc/option/set.php:501
+msgid ""
+"After applying, all new uploaded images will be supplemented with the new "
+"size, which is apply by default for the main image of posts and pages."
+msgstr ""
+"Sau khi áp dụng, tất cả hình ảnh mới tải lên sẽ được bổ sung kích thước mới, "
+"mặc định được áp dụng cho hình ảnh chính của bài viết và trang."
+
+#: inc/option/set.php:504
+msgid "Width"
+msgstr "Rộng"
+
+#: inc/option/set.php:504 inc/option/set.php:517
+msgid "default"
+msgstr "mặc định"
+
+#: inc/option/set.php:516
+msgid "Height"
+msgstr "Chiều cao"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Bắt buộc cài đặt Plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Cài đặt Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Cập nhật Plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Đã xảy ra lỗi với plugin API."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Theme này yêu cầu plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Theme này đề xuất plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Plugin này cần được cập nhật lên phiên bản mới nhất để đảm bảo khả năng "
+"tương thích tối đa với chủ đề này: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin cần thiết sau đây hiện không hoạt động:%1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin được đề xuất sau đây hiện không hoạt động: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Trở về trang cài đặt bắt buộc Plugins"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Trở lại bảng điều khiển"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin được kích hoạt thành công."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully - "
+msgstr "Plugin sau đã được kích hoạt thành công - "
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không hoạt động. Plugin %1$s đã được kích hoạt."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin không được kích hoạt. Một phiên bản cao hơn của %s là cần thiết cho "
+"chủ đề này. Vui lòng cập nhật plugin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Có một hoặc nhiều plugin được yêu cầu hoặc được yêu cầu để cài đặt, cập nhật "
+"hoặc kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được giúp đỡ."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với chủ đề của bạn."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Gói plugin từ xa không chứa thư mục với slug mong muốn và đổi tên không hoạt "
+"động."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Hãy liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin của họ "
+"theo WordPress hướng dẫn."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Gói plugin từ xa bao gồm nhiều tệp, nhưng các tệp không được đóng gói trong "
+"một thư mục."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Cần thiết"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Đề nghị"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Kho WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn ngoài"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Yêu cầu cập nhật không có sẵn"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Đề nghị cập nhật"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Kích hoạt <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không xác định"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản cài đặt:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Phiên bản tối thiểu cần thiết:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Loại"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Nâng cấp thông báo từ tác giả plugin:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào sẵn có để được cài đặt tại thời điểm này."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào sẵn có để được cập nhật tại thời điểm này."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin có sẵn để được kích hoạt tại thời điểm này."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin sau đã được kích hoạt thành công:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt Plugin thất bại."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s thất bại."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt và kích hoạt đang bắt đầu. Sẽ mất một chút thời gian tùy "
+"thuộc vào từng máy chủ, hãy kiên nhẫn đợi."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt thành công."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiển thị chi tiết"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã được hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Quá trình cài đặt đang bắt đầu. Quá trình này sẽ mất một chút thời gian tùy "
+"thuộc vào từng máy chủ, vì vậy hãy kiên nhẫn đợi."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s cài đặt thành công."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả các cài đặt đã được hoàn thành."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: search.php:19
+#, php-format
+msgid "Search results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: template-parts/content-archive.php:61
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: template-parts/content-autor.php:25
+msgid "Author photo"
+msgstr "Ảnh tác giả"
+
+#: template-parts/content-autor.php:44
+msgid "Publication date:"
+msgstr "Ngày xuất bản:"
+
+#: template-parts/content-autor.php:52 template-parts/content-autor.php:61
+msgid "Author:"
+msgstr "Tác giả:"
+
+#: template-parts/content-autor.php:80
+msgid "Latest posts (Author)"
+msgstr "Bài viết mới nhất (Tác giả)"
+
+#: template-parts/content-next-post.php:17
+msgid "Previous post"
+msgstr "Bài trước"
+
+#: template-parts/content-next-post.php:40
+msgid "Next post"
+msgstr "Bài tiếp theo"
+
+#: template-parts/content-none.php:13
+msgid "Site not ready"
+msgstr "Trang web chưa sẵn sàng"
+
+#: template-parts/content-none.php:15
+msgid "Nothing found"
+msgstr "Không kết quả"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Start here</a>."
+msgstr ""
+"Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu "
+"ở đây</a> ."
+
+#: template-parts/content-none.php:36
+msgid "Nothing matched your search terms. Try other keywords."
+msgstr ""
+"Không có gì phù hợp với cụm từ tìm kiếm của bạn. Hãy thử các từ khóa khác."
+
+#: template-parts/content-none.php:93
+msgid "We cannot find what you are looking for. Try using search."
+msgstr ""
+"Chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Hãy thử sử dụng tìm "
+"kiếm."
+
+#: template-parts/content-page.php:58
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-page.php:67 template-parts/content-single.php:99
+#, php-format
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: template-parts/content-single.php:82
+msgid "Posts:"
+msgstr "Bài viết:"
+
+#: templates/page-left-sidebar.php:11 templates/post-left-sidebar.php:11
+msgid "Airin Blog Left sidebar"
+msgstr "Airin Blog Left sidebar"
+
+#: templates/page-nosidebar-center.php:11
+#: templates/post-nosidebar-center.php:11
+msgid "Airin Blog No sidebar (center)"
+msgstr "Airin Blog No sidebar (center)"
+
+#: templates/page-nosidebar-full.php:11 templates/post-nosidebar-full.php:11
+msgid "Airin Blog No sidebar (full width)"
+msgstr "Airin Blog No sidebar (full width)"
+
+#: templates/page-right-sidebar.php:11 templates/post-right-sidebar.php:11
+msgid "Airin Blog Right sidebar"
+msgstr "Airin Blog Right sidebar"
+
+#: templates/template-new-posts.php:10
+msgid "Airin Blog New Posts"
+msgstr "Airin Blog New Posts"
+
+#: templates/template-site-map.php:10
+msgid "Airin Blog Site Map"
+msgstr "Airin Blog Site Map"
+
+#: woocommerce/loop/no-products-found.php:22
+msgid "No products were found matching your selection."
+msgstr "Không tìm thấy sản phẩm nào khớp với lựa chọn của bạn."
+
+#. Theme Name of the plugin/theme
+msgid "Airin Blog"
+msgstr "Airin Blog"
+
+#. Theme URI of the plugin/theme
+msgid "https://airinblog.web-zone.org"
+msgstr "https://airinblog.web-zone.org"
+
+#. Author of the plugin/theme
+msgid "DMCWebZone"
+msgstr "DMCWebZone"
+
+#. Author URI of the plugin/theme
+msgid "https://web-zone.org"
+msgstr "https://web-zone.org"
+
+#~ msgid "Advanced settings"
+#~ msgstr "Cài đặt nâng cao"
